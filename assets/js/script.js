@@ -43,8 +43,6 @@ function tooltipInit() {
 }
 
 function postInit() {
-    // Set lead paragraphs
-    $('.post-body p:first-child').addClass('lead');
 
     // Set feature image
     var featured = $('.featured-image').find('img').attr('src');
@@ -53,6 +51,28 @@ function postInit() {
         $('#footer').css('backgroundImage','url('+featured+')');
     };
 }
+
+// Definition script
+
+$('a.defined').mouseover(
+    function() {
+        var definition = "<p class=\"definition\">" + $(this).text() + ": " + $(this).attr('alt')  + "</p>";
+        $('p.definition').remove();
+        $('#thesaurus').append( definition );
+        $('#toc-wrapper').addClass('hide');
+    }
+);
+
+$(window).scroll(function() {
+  $('p.definition').remove();
+  $('#toc-wrapper').removeClass('hide');
+
+});
+
+// table of content generator
+
+$('.post').toc();
+
 
 }(jQuery));
 

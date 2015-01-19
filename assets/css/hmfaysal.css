@@ -380,14 +380,14 @@ h6,
 .lead {
   color: #1e1e1f;
 }
-a {
+/*a {
   color: #807f83;
   border-color: #807f83;
 }
 a:hover {
   color: #67666a;
   border-color: #67666a;
-}
+}*/
 blockquote:before {
   background: #57ad68;
 }
