@@ -52,26 +52,54 @@ function postInit() {
     };
 }
 
-// Definition script
+// // Definition script
 
-$('a.defined').mouseover(
-    function() {
-        var definition = "<p class=\"definition\">" + $(this).text() + ": " + $(this).attr('alt')  + "</p>";
-        $('p.definition').remove();
-        $('#thesaurus').append( definition );
-        $('#toc-wrapper').addClass('hide');
-    }
-);
+// $('.definitions ~ table tr').each(function(index, definitionRow) {
+//     var cols = $(definitionRow).children('td');
+//     var defined = $(cols[0]).text();
+//     var definitionAnchor = cols[1];
+//     var definition = $(definitionAnchor).text();
 
-$(window).scroll(function() {
-  $('p.definition').remove();
-  $('#toc-wrapper').removeClass('hide');
+//     var definitionClass = 'definition-'+index;
 
-});
+//     $(definitionAnchor).attr('id', definitionClass);
 
-// table of content generator
+//     var definedWordsInPost = $('table, blockquote').blast({
+//         search: defined,
+//         customClass: "defined-arabic-word"
+//     });
 
-$('.post').toc();
+//     $.each(definedWordsInPost, function(index, word) {
+//         // $(word).data('definition', '' + definition);
+//         $(word).data('anchor', definitionClass);
+//     });
+
+//     // console.log('Atached defintion ' + definition + "to word" + defined);
+
+// });
+
+// $('.defined-arabic-word').mouseover(
+//     function() {
+//         console.log('Original defition:');
+//         var definitionBody = $('#' + $(this).data('anchor')).html();
+//         var definition = "<div class=\"definition\"><h3>" + $(this).text() + "</h3><p>" + definitionBody + "</p></div>";
+//         // $('.defined-arabic-word.highlight').removeClass('highlight');
+//         $('#thesaurus .definition').remove();
+//         $('#thesaurus').append( definition );
+//         $('#toc-wrapper').addClass('hide');
+//         // $(this).addClass('highlight');
+//     }
+// );
+
+// $(window).scroll(function() {
+//   $('#thesaurus .definition').remove();
+//   $('#toc-wrapper').removeClass('hide');
+//   // $('.defined-arabic-word.highlight').removeClass('highlight');
+// });
+
+// // table of content generator
+
+// $('.post').toc();
 
 
 }(jQuery));

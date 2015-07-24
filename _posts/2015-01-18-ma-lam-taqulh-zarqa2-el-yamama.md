@@ -99,7 +99,7 @@ And so forth with other allusions to Joseph that I won't mention here, since unf
 
 There are a few delightful metaphors and linguistic easter eggs in the poem. The deliberate and repeated usage of the word 'season' (ﻓﻲ اﻟﻤﻮﺳﻢ اﻵﺗﻲ) mirrors the usage of seasons to denote the periods of the Arab revolts — 'Arab Spring', 'Arab Winter', etc. The image of اﻟﺨﺎﺭﺟﻴﻦ اﻵﻥ ﻣﻦ ﺻﻤﺖ اﻟﺜﺮﻯ, with 'ﺻﻤﺖ اﻟﺜﺮﻯ' here being a euphemism for death,  refers to the revolting Arab masses who have finally awakened from their passivity, and Jacob asks the poet to salute them and the hope they bring. There's a cool juxtaposition in verse 23 between the *bitterness* (ﻣُﺮّﺓ) of the coming years, and turning that pain into *sweetness* (ﺳُﻜﺮا). There's also a contrast between the "tree of intuition" in verse 4 and the "trees of confusion" in verse 12. Interestingly, while a raincloud (ﻏﻴﻤﺔ) in the Western world is often a bad omen, and a negative thing, in Arabic poetry its a positive symbol since it brings much-needed rain — in verse 17 the poet's prediction that the "saturated raincloud won't rain" on the Arab World is actually a bad thing; Arabs *want* it to rain. Also, to invoke flies (اﻟﺬﺑﺎﺏ) as in verse 9 is to invoke the lowest and the scummiest of creatures. Consider these famous verses:
 
-{% arb %}{% endarb %}
+<div class="ar rtl"></div>
 
 :-|-:|-:|
 ﺳﺄﺗﺮﻙُ ﻣﺎءﻛﻢ ﻣﻦ ﻏﻴﺮ {{'ﻭﺭﺩ' | define:"drinking"}} |*|ٍﻭﺫاﻙ ﻟﻜﺜﺮﺓ اﻟﻮﺭاﺩ ﻓﻴﻪ
@@ -107,5 +107,13 @@ There are a few delightful metaphors and linguistic easter eggs in the poem. The
 ﺇﺫا ﻛﺎﻥ اﻟﻜﻼﺏُ {{'ﻭَﻟِﻐﻦ' | define: 'lap (like a dog does with their tongue)'}}َ ﻓﻴﻪ|*|ٍﻭ{{'ﺗﺠﺘﻨﺐ' | define:'avoid'}}ُ اﻷﺳﻮﺩُ ﻭﺭﻭﺩَ ﻣﺎء
 ﻭﻻ ﻳﺮﺿﻰ {{'ﻣﺴﺎﻫﻤﺔ' | define: 'participation'}} {{'اﻟﺴﻔﻴﻪ' | define:'insolent'}}|*|ﻭ{{'ﻳﺮﺗﺠﻊ' | define: 'return'}} اﻟﻜﺮﻳﻢ {{'ﺧﻤﻴﺺ' | define:'empty'}} ﺑﻄﻦ
 
-
 Finally, I couldn't discuss the imagery and metaphors line by line and instead had to focus on the essential references in the poem that would help decipher most of it. However, we can easily discuss these things in the comments and I'd love to hear what you thought of the poem and your interpretations of its verses.
+
+<div id="definitions"></div>
+
+:-|-:|
+poem| it rhymes |
+verses| they make poems |
+اﻟﻤﻮﺳﻢِ| season |
+ﺭﻓﻌﺖ ﻳﺪﻱ ﻭﻧﻔﺴﻲ | Testing overlapping definitions and also taking the opportunity to test *long* definitions with **markup** and [links](https://google.com) <br> Look you can even break!|
+ﻧﻔﺴﻲ | my self |

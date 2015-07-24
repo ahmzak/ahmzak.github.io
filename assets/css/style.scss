@@ -185,8 +185,56 @@ body.post-template {
   position:relative;
 }
 
+/* Arabic definition styles */
 
+.defined {
+  color:red;
+}
 
+.defined-arabic-word {
+  color: #2196f3;
+  // border: 1px solid black;
+  // margin-bottom: 1.5em;
+  border-radius: 0;
+  border: 0;
+  border-bottom: 1px dotted #2196f3;
+  // text-decoration: underline;
+
+  &:highlight {
+    background: none;
+  }
+
+  &:hover {
+    background: none;
+    color: #0a6ebd;
+    cursor:pointer;
+  }
+}
+
+#definitions ~ table {
+  display: none;
+}
+
+.sidebar {
+  width: 33.33333333%;
+
+  #thesaurus {
+    .definition {
+      min-width: 100%;
+    }
+    h3 {
+      // display: block;
+      // float: right;
+      // width: 100%;
+      padding: 0 1.5em;
+      direction: rtl;
+    }
+  }
+}
+
+body.slide .sidebar {
+  display: none;
+}
 
 
 
