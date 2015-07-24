@@ -200,3 +200,29 @@ prose:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+# ==============================================================================
+# Custom additions
+# ==============================================================================
+
+# Default values according to page type
+
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
+  -
+    scope:
+      path: ""
+      layout: home
+    values:
+      title: Latest Posts
+      description: "The personal blog of ..."
+      headline: Blah
+      tags: [Arabic, Poetry, urface]
+
+
+
