@@ -16,6 +16,12 @@
     function tableOfContentsInit() {
         // table of content generator
         $('.post').toc();
+        $('.sticky-sidebar').affix({
+            offset: {
+            top: $(".sticky-sidebar").offset().top,
+            // bottom: $('footer').outerHeight(true)
+            }
+        });
     }
 
     function thesaurusInit() {
