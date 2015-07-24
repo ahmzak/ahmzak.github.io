@@ -3,14 +3,10 @@ layout: post
 title: "ﻣﺎ ﻟﻢ ﺗﻘﻠﻪ ﺯﺭﻗﺎء اﻟﻴﻤﺎﻣﺔ"
 summary: "This is a brief summary of the post"
 headline: "A poem about seers"
-categories: translation
+categories: [poetry]
 tags: 
   - poetry
   - test
-image: 
-  feature: "website-speed.jpg"
-  credit: spreadeffect.com
-  creditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 meta:
     poem: "ﻣﺎ ﻟﻢ ﺗﻘﻠﻪ ﺯﺭﻗﺎء اﻟﻴﻤﺎﻣﺔ"
     diwan: "ﻣﺮﺛﻴﺔ اﻟﻨﺎﺭ اﻻﻭﻟﻰ"
@@ -21,51 +17,47 @@ comments: false
 mathjax: null
 featured: false
 published: true
+modified: 2013-06-30
+sidebar_enabled: true
 ---
+
+Going to put a [link](#here) here.
 
 A year ago I floated around the idea of a poetry series, so here it is. The main focus of this series will be linguistic, to help build up your Arabic lexicon and get familiar with Arabic poetry. I'll try and discuss themes, symbols and historical references of course but the primary concern will always be the vocabulary. I urge you to listen to the linked recitations of poems first; a big part of the beauty of poetry is to hear it being recited. With that out of the way let's begin.
 
 This poem (ﻗﺼﻴﺪﺓ) was written in the first half of 2012, well after the initial euphoria of the Arab Spring had evaporated, and uncertainty and fear had settled in. It's meaty, saturated with references to Arab history and lore as well as religious imagery. Please take a few minutes to hear it recited at least once before moving on.
 
-# Testing Arabic-Specific Syntax
+# The Poem
 
-Hover over words to get their meaning.
+<div class="ar rtl"></div>
 
- {{ 'this' | define:'that' }}
-
-|-
-Arabic is too hard to work with. | Let's try to define {{ 'this' | define:'that' }}
-|=
-
-
-#**Text and vocabulary**
-
-ﺫﺭﻯ = peaks/heights, plural of ﺫﺭﻭﺓ ﺃﺣﺘﺎﺝُ ﺩﻣﻊَ اﻷﻧﺒﻴﺎءِ ﻟﻜﻲ ﺃﺭﻯ   *   ﺷﻲءٌ ﻳﻄﻞُ اﻵﻥَ ﻣﻦْ ﻫﺬﻱ اﻟﺬُﺭﻯ  ١
-ﻋﺮاﻑ = augur; ﺗﺄﻭﻳﻞ = interpretation    'ﻳﺘﺸﺎﻛﺴﺎﻥِ ﻫﻨﺎﻙَ 'ﻗﺎﻝَ'، ﻭ'ﻓﺴﺮا *   اﻟﻨﺺُّ ﻟﻠﻌﺮاﻑِ ﻭاﻟﺘﺄﻭﻳﻞُ ﻟﻲ ٢
-اﻟﻜﺮﻯ = sleep   ﻣﺎ ﻧﻤﺖُ ﻛﻲ ﺃﺻﻄﺎﺩَ ﺭﺅﻳﺎ ﻓﻲ اﻟﻜَﺮﻯ    *   ﻣﺎ ﻗﻠْﺖُ ﻟﻠﻨﺠﻢِ اﻟﻤﻌﻠّﻖِ: ﺩُﻟّﻨﻲ    ٣
-اﻟﺤﺪﺱ = intuition   ﺣﺘﻰ ﻗﺒﻀﺖُ اﻟﻤﺎءَ ﺣﻴﻦَ ﺗﺒﺨﺮا *   ﺷﺠﺮٌ ﻣﻦ اﻟﺤﺪﺱِ اﻟﻘَﺪﻳﻢِ ﻫﺰﺯﺗﻪُ  ٤
-ﻃﺎﻟﻊ = read, saw; ﻧﺒﻮءﺓ = prophecy  ﻣﺎﺫا ﺳﻴﺠﺮﻱ ﺣﻴﻦَ ﻃﺎﻟﻊَ ﻣﺎ ﺟﺮﻯ    *   ﻻ ﺳﺮّ..ﻓﺎﻧﻮﺱُ اﻟﻨﺒﻮءﺓِ ﻗﺎﻝَ ﻟﻲ ٥
-ﻣﻮﺳﻢ = season   ﺗﻔﺎﺣﺘﻴﻦِ ﻭﺫﻧﺒﻪُ ﻟﻦ ﻳُﻐﻔﺮا   *   ﻓﻲ اﻟﻤﻮﺳﻢِ اﻵﺗﻲ ﺳﻴﺄﻛﻞُ ﺁﺩﻡٌ    ٦
-ﺗﺸﻴﺦ = grow older; ﺁﻭاﻥ = time; اﻧﻬﺮا = rivers  اﻟﻤﻮﺕُ ﺳﻮﻑَ ﻳﻜﻮﻥُ ﻓﻴﻨﺎ ﺃﻧﻬُﺮا   *   اﻷﺭﺽُ ﺳﻮﻑَ ﺗﺸﻴﺦُ ﻗﺒﻞ ﺃﻭاﻧِﻬﺎ   ٧
-ﻃﻮﻓﺎﻥ = deluge/flood    ﻣَﻦ ﻳُﻘﻨﻊ اﻟﻄﻮﻓﺎﻥ ﺃﻻ ﻳﻌﺒُﺮا؟   *   ﻭﺳﻴﻌﺒﺮُ اﻟﻄﻮﻓﺎﻥُ ﻣِﻦ ﺃﻭﻃﺎﻧِﻨﺎ   ٨
-ﻳﺮﺗﻘﻲ = ascend; ﻣﻨﺒﺮ = pulpit   ﻭﺳﻴﺮﺗﻘﻲ ﺫﺋﺐُ اﻟﺠﺒﺎﻝِ اﻟﻤِﻨﺒﺮا   *   ﺳﺘﻘﻮﻝُ ﺃﻟﺴﻨﺔُ اﻟﺬﺑﺎﺏِ ﻗﺼﻴﺪﺓً    ٩
-ﻗﺮﻣﻄﻲ = Abu Taher the Qarmatian ﺳﻴﻌﻮﺩُ ﺳﻴﻒُ اﻟﻘُﺮﻣﻄﻲّ ﻟﻴﺜﺄﺭا    *   :ﻓﻮﺿﻰ..ﻭﺗﻨﺒﺊُ ﻛﻞَّ ﻣﻦ ﻣﺮّﺕ ﺑﻬﻢ  ١٠
-اﻧﻘﺎﺽ = ruins   ﺣﺘﻰ اﻷﻣﺎﻡُ ﺳﻴﺴﺘﺪﻳﺮُ ﺇﻟﻰ اﻟﻮﺭا  *   ﻭﺳﻴﺴﻘﻂُ اﻟﻤﻌﻨﻰ ﻋﻠﻰ ﺃﻧﻘﺎﺿﻨَﺎ ١١
-ﺭﺅﻯ = visions/sights, plural of ﺭﺅﻳﺔ    ﺳﺘﺰﻳﺪُ ﺃﺷﺠﺎﺭُ اﻟﻀﺒﺎﺏِ ﺗﺠﺬُﺭا    *   ﻓﻲ اﻟﻤﻮﺳﻢ اﻵﺗﻲ ﺳﺘﺸﺘﺒﻚُ اﻟﺮﺅﻯ   ١٢
-ﺳﺮاﺏ = mirage, illusion ﻧﻈّﺎﺭﺗﻴﻦِ ﻣﻦ اﻟﺴﺮاﺏِ ﻟﻴُﺒﺼﺮا    *   ﻭﺳﻴُﻨﻜِﺮُ اﻷﻋﻤَﻰ ﻋﺼﺎﻩُ ﻭﻳﺮﺗﺪﻱ  ١٣
-اﺯﺩ = Yemeni tribe; اﻟﺸﻨﻔﺮﻱ = slave from Azd    ﻓﺎﻷﺯﺩُ ﻻ ﺯاﻟﺖ ﺗﺨﺎﻑُ اﻟﺸّﻨﻔﺮا  *   ﺳﻴﺮﻯ اﻟﻘﺒﻴﻠَﺔَ ﻭﻫﻲ ﺗَﺼﻠُﺐُ ﻋﺒﺪَﻫﺎ   ١٤
-ﻻﺣﻘﺎﻥ = following; ﻗﻴﺼﺮ = caesar   ﺳﻴﻘﻮﻝُ ﺇﻧﺎ ﻻﺣِﻘﺎﻥِ ﺑﻘﻴﺼﺮا  *   ﺳﻴﺮﻯ اﻟﻤﺆﺫﻥَ ﻭاﻹﻣﺎﻡَ ﻛِﻼﻫُﻤﺎ  ١٥
-ﻣﺰاﺩ = auction  ﺣﺘﻰ ﺩﻡُ اﻟﻤﻮﺗﻰ ﻳُﺒﺎﻉُ ﻭﻳُﺸﺘﺮﻯ   *   ﻓﻲ اﻟﻤﻮﺳﻢِ اﻵﺗِﻲ ﻣﺰاﺩٌ ﻣُﻌﻠﻦٌ  ١٦
-ﺣﺒﻠﻰ = pregnant اﻟﻐﻴﻤﺔُ اﻟﺤُﺒﻠﻰ ﻫُﻨﺎ ﻟﻦ ﺗُﻤﻄِﺮا *   ﻧﺎﺩﻳﺖُ ﻳﺎ ﻳﻌﻘﻮﺏ ﺗﻠﻚَ ﻧُﺒﻮءﺗﻲ    ١٧
-ﻳﺤﻤﺪ = praise; ﺳُﺮﻯ = a night's march   ﻋﻨﺪَ اﻟﺼّﺒﺎﺡِ ﺳﻴﺤﻤَﺪُ اﻟﻘﻮﻡُ اﻟﺴُّﺮﻯ    *   ﻗﺎﻝَ اﺗّﺨِﺬ ﻫﺬا اﻟﻈﻼﻡ ﺧﺮﻳﻄﺔً   ١٨
-ﺗﺒﺘﺌﺲ = lose hope; ﺗُﺄﻣِّﺮُﻙ = make you prince  ﻭﻏﺪاً ﺗُﺄﻣّﺮﻙَ اﻟﺮﻳﺎﺡُ ﻋﻠﻰ اﻟﻘُﺮَﻯ  *   ﻻ ﺗَﺒﺘﺌِﺲ ﻓﺎﻟﺒﺌﺮُ ﻳﻮﻡٌ ﻭاﺣﺪٌ   ١٩
-ﺗﺼﺒﺮ = to bear/endure with patience ﻗﻄّﻌﻦَ ﺃﻳﺪﻳﻬﻦّ ﻋﻨﻚ ﺗَﺼَﺒُّﺮا    *   اﺧﻠﻊ ﺳَﻮاﺩَﻙَ..ﻓﻲ اﻟﻤﺪﻳﻨﺔ ﻧﺴﻮﺓٌ ٢٠
-ﻧﺎﻓﻠﺔ = a voluntary prayer; ﺛﺮﻯ = earth ﻟﻠﺨﺎﺭﺟﻴﻦَ اﻵﻥ ﻣﻦ ﺻﻤﺖِ اﻟﺜﺮَﻯ   *   ﻗُﻢ..ﺻﻞّ ﻧﺎﻓﻠﺔ اﻟﻮﺻﻮﻝِ ﺗﺤﻴّﺔً   ٢١
-ﺧﻴﺒﺮ = old Jewish town near Medina  ﻣِﻦْ ﺃﻟﻒِ ﺑﺎﺏٍ ﺇِﻥْ ﺃَﺭاﺩﻭا ﺧَﻴْﺒَﺮا    *   ﻭاﻛﺸِﻒ ﻷِﺧﻮﺗِﻚَ اﻟﻄﺮﻳﻖَ ﻟﻴَﺪﺧُﻠﻮا  ٢٢
-ﻣﺮﺓ = bitter; ﻣﺼﺎﺑﺮ = long-lasting, patient ﻣﻦ ﺣﻜﻤﺔِ اﻟﻮﺟﻊِ اﻟﻤُﺼﺎﺑِﺮ ﺳُﻜّﺮا    *   ﺳﺘَﺠﻲءُ ﺳﺒﻊٌ ﻣُﺮّﺓٌ..ﻓﻠﺘَﺨﺰِﻧﻮا ٢٣
-ﻋﺠﺎﻑ = lean, meager ﻣِﻦ ﺑﻌﺪِﻫﺎ اﻟﺘّﺎﺭﻳﺦُ ﻳﺮﺟِﻊُ ﺃﺧﻀَﺮا  *   ﺳﺒﻊٌ ﻋِﺠﺎﻑٌ..ﻓﺎﺿﺒِﻄﻮا ﺃﻧﻔﺎﺳَﻜُﻢ ٢٤
-ﻗﺎﻓﻠﺔ = convoy; ﻗِﺮﻯ = hospitality  ﻣُﺪُّﻭا ﺧﻴﺎﻡَ اﻟﻘﻠﺐِ، ﻭاﺷﺘَﻌِﻠﻮا ﻗِﺮﻯ   *   ﻫﻲَ ﺗﻠﻚَ ﻗﺎﻓﻠﺔُ اﻟﺒﺸﻴﺮِ ﺗَﻠﻮﺡُ ﻟﻲ   ٢٥
-ﻫﻄﻞ = pour down; ﺑﺸّﺮ = brought good news   ﻫﻄَﻞَ اﻟﻘَﻤﻴﺺُ ﻋﻠﻰ اﻟﻌُﻴﻮﻥ ﻭﺑَﺸّﺮا  *   ﺃﺷﺘﻢُّ ﺭاﺋﺤﺔَ اﻟﻘﻤﻴﺺِ..ﻭﻃﺎﻟﻤﺎ   ٢٦
+-:|:-
+أحتاجُ دمعَ الأنبياءِ لكي أرى | شيءٌ يطلُ الآنَ منْ هذي الذُرى
+'يتشاكسانِ هناكَ 'قالَ'، و'فسرا | النصُّ للعرافِ والتأويلُ لي
+ما نمتُ كي أصطادَ رؤيا في الكَرى | ما قلْتُ للنجمِ المعلّقِ: دُلّني
+حتى قبضتُ الماءَ حينَ تبخرا | شجرٌ من الحدسِ القَديمِ هززتهُ
+ماذا سيجري حينَ طالعَ ما جرى | لا سرّ..فانوسُ النبوءةِ قالَ لي
+تفاحتينِ وذنبهُ لن يُغفرا | في الموسمِ الآتي سيأكلُ آدمٌ
+الموتُ سوفَ يكونُ فينا أنهُرا | الأرضُ سوفَ تشيخُ قبل أوانِها
+مَن يُقنع الطوفان ألا يعبُرا؟ | وسيعبرُ الطوفانُ مِن أوطانِنا
+وسيرتقي ذئبُ الجبالِ المِنبرا | ستقولُ ألسنةُ الذبابِ قصيدةً
+سيعودُ سيفُ القُرمطيّ ليثأرا | :فوضى..وتنبئُ كلَّ من مرّت بهم
+حتى الأمامُ سيستديرُ إلى الورا | وسيسقطُ المعنى على أنقاضنَا
+ستزيدُ أشجارُ الضبابِ تجذُرا | في الموسم الآتي ستشتبكُ الرؤى
+نظّارتينِ من السرابِ ليُبصرا | وسيُنكِرُ الأعمَى عصاهُ ويرتدي
+فالأزدُ لا زالت تخافُ الشّنفرا | سيرى القبيلَةَ وهي تَصلُبُ عبدَها
+سيقولُ إنا لاحِقانِ بقيصرا | سيرى المؤذنَ والإمامَ كِلاهُما
+حتى دمُ الموتى يُباعُ ويُشترى | في الموسمِ الآتِي مزادٌ مُعلنٌ
+الغيمةُ الحُبلى هُنا لن تُمطِرا | ناديتُ يا يعقوب تلكَ نُبوءتي
+عندَ الصّباحِ سيحمَدُ القومُ السُّرى | قالَ اتّخِذ هذا الظلام خريطةً
+وغداً تُأمّركَ الرياحُ على القُرَى | لا تَبتئِس فالبئرُ يومٌ واحدٌ
+قطّعنَ أيديهنّ عنك تَصَبُّرا | اخلع سَوادَكَ..في المدينة نسوةٌ
+للخارجينَ الآن من صمتِ الثرَى | قُم..صلّ نافلة الوصولِ تحيّةً
+مِنْ ألفِ بابٍ إِنْ أَرادوا خَيْبَرا | واكشِف لِأخوتِكَ الطريقَ ليَدخُلوا
+من حكمةِ الوجعِ المُصابِر سُكّرا | ستَجيءُ سبعٌ مُرّةٌ..فلتَخزِنوا
+مِن بعدِها التّاريخُ يرجِعُ أخضَرا | سبعٌ عِجافٌ..فاضبِطوا أنفاسَكُم
+مُدُّوا خيامَ القلبِ، واشتَعِلوا قِرى | هيَ تلكَ قافلةُ البشيرِ تَلوحُ لي
+هطَلَ القَميصُ على العُيون وبَشّرا | أشتمُّ رائحةَ القميصِ..وطالما
 
 #Interpretation
 
@@ -111,9 +103,47 @@ Finally, I couldn't discuss the imagery and metaphors line by line and instead h
 
 <div id="definitions"></div>
 
-:-|-:|
-poem| it rhymes |
-verses| they make poems |
-اﻟﻤﻮﺳﻢِ| season |
-ﺭﻓﻌﺖ ﻳﺪﻱ ﻭﻧﻔﺴﻲ | Testing overlapping definitions and also taking the opportunity to test *long* definitions with **markup** and [links](https://google.com) <br> Look you can even break!|
-ﻧﻔﺴﻲ | my self |
+:-|-:
+poem| it rhymes 
+verses| they make poems 
+اﻟﻤﻮﺳﻢِ| season 
+ﺭﻓﻌﺖ ﻳﺪﻱ ﻭﻧﻔﺴﻲ | Testing overlapping definitions and also taking the opportunity to test *long* definitions with **markup** and [links](https://google.com) <br> Look you can even break!
+ذرى | peaks/heights, plural of ذروة
+عراف | augur
+تأويل | interpretation
+الكرى | sleep
+الحدس | intuition
+طالع | read, saw
+نبوءة | prophecy
+موسم | season
+تشيخ | grow older
+آوان | time
+انهرا | rivers
+طوفان | deluge/flood
+يرتقي | ascend
+منبر | pulpit
+قرمطي | Abu Taher the Qarmatian
+انقاض | ruins
+رؤى | visions/sights, plural of رؤية
+سراب | mirage, illusion
+ازد | Yemeni tribe
+الشنفري | slave from Azd
+لاحقان | following
+قيصر | caesar
+مزاد | auction
+حبلى | pregnant
+يحمد | praise
+سُرى | a night's march
+تبتئس | lose hope
+تُأمِّرُك | make you prince
+تصبر | to bear/endure with patience
+نافلة | a voluntary prayer
+ثرى | earth
+خيبر | old Jewish town near Medina
+مرة | bitter
+مصابر | long-lasting, patient
+عجاف | lean, meager
+قافلة | convoy
+قِرى | hospitality
+هطل | pour down
+بشّر | brought good news

@@ -5,6 +5,17 @@ permalink: /tags/index.html
 description: "An archive of posts sorted by tag."
 ---
 
+{% assign crumbs = page.url | split: '?' %}
+{% assign crumbstotal = crumbs | size %}
+{% assign selected_tag = crumbs[0] %}
+{% for crumb in crumbs offset:2 %}
+    {% unless crumb == 'index.html' %}
+        <li><span class="divider">&#187;</span> {{ crumb | remove: '.html' }} </li>
+    {% endunless %}
+{% endfor %}
+
+<h1>Eureka! {{selected_tag}} </h1>
+
 <ul class="tag-box inline">
 {% assign tags_list = site.tags %}  
   {% if tags_list.first[0] == null %}

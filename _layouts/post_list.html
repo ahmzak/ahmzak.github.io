@@ -1,0 +1,102 @@
+{% if page.category_filter %}
+    {% assign categories_list = site.categories %}  
+    {% assign posts = nil %}
+
+    {% if categories_list.first[0] == null %}
+    {% else %}
+        {% for category_tmp in categories_list %} 
+            {% if category_tmp[0] == page.category_filter %}
+                {% assign posts = category_tmp[1] %}  
+             {% endif %}
+        {% endfor %}
+    {% endif %}
+{% else %}
+    {% assign posts = site.posts %}
+{% endif %}
+
+<!DOCTYPE html>
+<html>
+<head>
+{% include head.html %}
+</head>
+<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+{% include header.html %}
+
+<div id="main" class="content" role="main" itemprop="mainContentOfPage">
+
+    <div class="menu">
+        <ul>
+        {% for link in site.links %}
+            <li>{% if link.external %}
+                <a href="{{ link.url }}">{{ link.title }}</a>
+            {% else %}
+                <a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+            {% endif %} </li>
+        {% endfor %}   
+        </ul>
+        <hr>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="page-body" itemprop="description">
+    {{content}}
+   {% for post in posts %}
+        {% if site.wpm %}
+        {% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm %}
+        {% else %}
+        {% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:180 %}
+        {% endif %}
+        {% assign modifiedtime = post.modified | date: "%Y%m%d" %}
+        {% assign posttime = post.date | date: "%Y%m%d" %}    
+
+            <div class="row">
+                <article class="post post col-md-8 col-md-offset-2">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    {% if post.link %}
+                                    <h1 class="post-title">
+                                        <a href="{{ site.url }}{{ post.url }}" style="color: #fff; background-color: #45ADA8; border-radius: 4px; padding: 10px"><i class="icon-link"></i> {{ post.title }}</a>
+                                     </h1>
+                                    {% else %}
+                                    <h1 class="post-title">
+                                        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                    {% endif %}
+                                    </h1>
+                                </div>
+                                <div class="col-md-12">
+                                <p class="minimalist-post-tags small muted">
+                                {% for tag in post.categories %}
+                                    <a href="{{ site.url }}/categories/{{ tag | cgi_encode }}" data-placement="bottom" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | upcase }}</a>
+                                    {% unless forloop.last %} / {% endunless %}
+                                {% endfor %}
+                                </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 minimalist-post-time">
+                            <p class="pull-right"><time datetime="{{ post.date | date_to_xmlschema }}" class="post-time">{{ post.date | date: "%d %b %Y" }}</time>
+                            {% if post.modified %}
+                            <a class="sup" itemprop="dateModified" data-toggle="tooltip" title="Modified {{ post.modified | date: "%d %b %Y" }}">*</a>
+                            {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+
+                        
+                    </div>
+                    </div>
+                </article>
+            </div>
+    {% endfor %}
+            </div>    
+        </div>
+    </div>
+</div>
+
+{% include scripts.html %}  
+</body>
+</html>
