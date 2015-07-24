@@ -3,7 +3,7 @@ layout: post
 type:	video
 title: "A Post with a Video"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
-categories: [documentation]
+category: videos
 tags: [sample post, video]
 video: http://www.youtube.com/watch?v=CQJByFp7H38
 imagefeature: picture-21.jpg
