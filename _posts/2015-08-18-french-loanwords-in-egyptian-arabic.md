@@ -18,7 +18,9 @@ title: French loanwords in Egyptian Arabic
 
 ## Fashion
 
-| Egyptian word	| Arabic | French origin | Meaning        | Note       |
-| :-----------	| -----: | :-----------: | :----------:   | :--------: |
-| modˤa			| موضة	 | _mode_		 | fashion, trend |   		   |
-| kasketta		| كَسكِتة  | _casquette_   | cap	     	|            |
+| Egyptian word	| Arabic | French origin       | Meaning        | Note       |
+| :-----------	| -----: | :-----------------: | :----------:   | :--------: |
+| modˤa			| موضة	 | _mode_		 	   | fashion, trend |   		 |
+| kasketta      | كسكتة  | _casquette_		   | cap            |            |
+| mayyōh	    | مايوه  | _maillot (de bain)_ | swimsuit		|            |
+
