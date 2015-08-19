@@ -16,8 +16,6 @@ title: French loanwords in Egyptian Arabic
 ---
 
 
-
-
 Directly from French.
 
 ## Fashion
