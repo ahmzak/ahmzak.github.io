@@ -28,11 +28,3 @@ Directly from French.
 | ésharb		| إشرب	 | _écharpe_           | scarf (french); hijab (Egyptian) |                         |
 | sotiān        | ستيان  | _soutien-gorge_     | bra                              |                         |
 | mayyōh	    | مايوه  | _maillot (de bain)_ | swimsuit		                  |                         |
-
-
-
-sotiān
-ستيان
-soutien-gorge
-bra
-
