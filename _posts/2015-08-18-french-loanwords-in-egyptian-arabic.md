@@ -37,12 +37,12 @@ Directly from French.
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP1#v=onepage&q&f=false)]|
 |rooj|روج|_rouge_|lipstick||
 |kasketta|كسكتة|_casquette_|cap||
-| ésharb		| إشرب	 | _écharpe_           | scarf (french); hijab (egyptian)        |                         |
-| sotiān        | ستيان  | _soutien-gorge_     | bra                                     |                         |
-| kolot			| كلت    | _culotte_		   | breeches (french); underwear (egyptian) |					       |
-| mayyōh	    | مايوه  | _maillot (de bain)_ | swimsuit		                         |                         |
-| slib			| سلب	 | _slip_              | briefs									 | 						   |
-| kalsōn		| كلسون	 | _caleçon_           | boxers									 | 						   |
+|ésharb|إشرب|_écharpe_|scarf (french); hijab (egyptian)||
+|sotiān|ستيان|_soutien-gorge_|bra||
+|kolot|كلت|_culotte_|breeches (french); underwear (egyptian)||
+|mayyōh|مايوه|_maillot (de bain)_|swimsuit||
+|slib|سلب|_slip_|briefs||
+|kalsōn		| كلسون	 | _caleçon_           | boxers									 | 						   |
 | kolōn			| كولون	 | _collant_           | stockings, pantyhose					 | 						   |
 | slip			| سلب	 | _slip_              | briefs									 | 						   |
 | slip			| سلب	 | _slip_              | briefs									 | 						   |
