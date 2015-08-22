@@ -42,17 +42,16 @@ Directly from French.
 |kasketta (كسكتة)|_casquette_|cap||
 |ésharb (إشرب)|_écharpe_|scarf (french); hijab (egyptian)||
 |blōza (بلوزة)|blouse|blouse||
+|karavatta (كرڤتة)|_cravate_|necktie||
+|bantˤalōn (سلِب)|_pantalon_|pants||
+|jībah (جيبة)|_jupe_|skirt||
+|short (شورت)|_short_|short||
+|rōb (روب)|_robe_|dress (french); robe (egyptian)||
+|balto (بالطو)|_paletot_|coat||
+|jaket (جاكيت)|_jacket_|jacket||
+|jilé (جيلاي)|_gilet_|waistcoast||
+|gwanti (جوانتي)|_gant_|gloves||
 
-
-|karavatta|كرڤتة|_cravate_|necktie||
-|bantˤalōn|سلب|_pantalon_|pants||
-|jībah|جيبة|_jupe_|skirt||
-|short|شورت|_short_|short||
-|rōb|روب|_robe_|dress (french); robe (egyptian)||
-|balto|بالطو|_paletot_|coat||
-|jaket|جاكيت|_jacket_|jacket||
-|jilé|جيلاي|_gilet_|waistcoast||
-|gwanti|جوانتي|_gant_|gloves||
 |mayyōh|مايوه|_maillot (de bain)_|swimsuit||
 |sotiān|ستيان|_soutien-gorge_|bra||
 |kolot|كلت|_culotte_|breeches (french); underwear (egyptian)||
