@@ -30,7 +30,7 @@ meta:
 
 Directly from French.
 
-## Fashion and beauty (26 words)
+## Fashion and beauty (27 words)
 
 |modˤa|موضة|_mode_|fashion, trend|also in standard Arabic|
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false)]|
@@ -38,6 +38,7 @@ Directly from French.
 |monokīr|مونوكير|_manucure_|manicure||
 |barfān|بارفان|_parfum_|perfume||
 |kolonia|كولونيا|_(eau de) cologne_|cologne||
+|ekseswār|اكسسوار|_accessoire_|accesory||
 |kasketta|كسكتة|_casquette_|cap||
 |ésharb|إشرب|_écharpe_|scarf (french); hijab (egyptian)||
 |blōza|بلوزة|blouse|blouse||
