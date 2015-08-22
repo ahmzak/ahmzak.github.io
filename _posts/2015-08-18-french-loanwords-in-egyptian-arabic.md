@@ -41,7 +41,7 @@ Directly from French.
 |ekseswār|اكسسوار|_accessoire_|accesory||
 |kasketta|كسكتة|_casquette_|cap||
 |ésharb|إشرب|_écharpe_|scarf (french); hijab (egyptian)||
-|blōza|بلوزة|blouse|blouse||
+|blōza|بلوزة|_blouse_|blouse||
 |karavatta|كرڤتة|_cravate_|necktie||
 |bantˤalōn|بنطلون|_pantalon_|pants||
 |jībah|جيبة|_jupe_|skirt||
