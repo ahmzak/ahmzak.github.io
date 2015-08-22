@@ -10,6 +10,7 @@ sidebar_enabled: false
 default_cover_image: ""
 imagecredit: ""
 imagecreditlink: ""
+video_enabled: false
 video: ""
 comments: false
 title: French loanwords in Egyptian Arabic

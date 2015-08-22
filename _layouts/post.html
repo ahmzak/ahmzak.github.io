@@ -30,8 +30,7 @@
                         </div>
                     </header>
                     <div class="post-body bordered-bottom" itemprop="description">
-                        {% capture video_size %}{{ page.video | size }}{% endcapture %}
-                        {% if video_size > 0 %}
+                        {% if page.video_enabled %}
                         {% assign video_embed = page.video | remove:'https://www.youtube.com/watch?v=' %}
                         <iframe width="940" height="529" src="//www.youtube.com/embed/{{ video_embed }}?theme=light&amp;color=white" frameborder="0" allowfullscreen> </iframe>
                         {% endif %}

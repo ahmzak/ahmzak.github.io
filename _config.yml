@@ -162,6 +162,11 @@ prose:
           element: "text"
           label: "Credit link for the image"
           placeholder: "http://somewebsite.com"
+      - name: "video_enabled"
+        field:
+          element: "checkbox"
+          label: "Embed video at top of blog post?"
+          value: true
       - name: "video"
         field:
           element: "text"
@@ -190,6 +195,7 @@ defaults:
     values:
       is_post: true # automatically set is_post=true for all posts
       is_home: false
+      video_enabled: false
       sidebar_enabled: false
   -
     scope:
