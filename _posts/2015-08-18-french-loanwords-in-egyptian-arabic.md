@@ -6,7 +6,7 @@ headline: ""
 modified: ""
 categories: 
   - "null"
-sidebar_enabled: true
+sidebar_enabled: false
 default_cover_image: ""
 imagecredit: ""
 imagecreditlink: ""
