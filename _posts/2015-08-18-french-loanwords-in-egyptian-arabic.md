@@ -46,7 +46,7 @@ Directly from French.
 |short|شورت|_short_|short||
 |rōb|روب|_robe_|dress (french); robe (egyptian)||
 |balto|بالطو|_paletot_|coat||
-|jaket|جاكيت|_jacket_|jacket||
+|jaket|جاكيت|_jaquette_|jacket||
 |jilé|جيلاي|_gilet_|waistcoast||
 |gwanti|جوانتي|_gant_|gloves||
 |mayyōh|مايوه|_maillot (de bain)_|swimsuit||
