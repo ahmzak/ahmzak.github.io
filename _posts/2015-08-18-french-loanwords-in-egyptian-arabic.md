@@ -51,7 +51,7 @@ Directly from French.
 |jaketta|جاكيت|_jaquette_|jacket||
 |jilé|جيلاي|_gilet_|waistcoast||
 |gwanti|جوانتي|_gant_|gloves||
-|fannella|فانله|_flanelle_|flannel (french); undershirt (egyptian)||
+|fannella|فانله|_flanelle_|flannel||
 |mayyōh|مايوه|_maillot (de bain)_|swimsuit||
 |sotiān|ستيان|_soutien-gorge_|bra||
 |kolot|كُلُت|_culotte_|underwear||
