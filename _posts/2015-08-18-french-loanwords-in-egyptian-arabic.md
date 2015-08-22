@@ -27,6 +27,7 @@ meta:
 ---
 
 
+
 Directly from French.
 
 ## Fashion
@@ -44,8 +45,8 @@ Directly from French.
 |slib|سلب|_slip_|briefs||
 |kalsōn|كلسون|_caleçon_|boxers||
 |kolōn|كولون|_collant_|stockings, pantyhose||
-|slib|سلب|_slip_|briefs||
-|slib|سلب|_slip_|briefs||
+|blōza|بلوزة|blouse|blouse||
+|karavatta|كرڤتة|_cravate_|necktie||
 |slib|سلب|_slip_|briefs||
 |slib|سلب|_slip_|briefs||
 |slib|سلب|_slip_|briefs||
