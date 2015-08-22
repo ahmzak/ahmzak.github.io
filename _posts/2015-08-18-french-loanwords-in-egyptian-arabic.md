@@ -34,7 +34,7 @@ Directly from French.
 
 |Egyptian word|French origin|Meaning|Note|
 |:-|:-:|:-:|:-:|
-|modˤa (موضة)|_mode_|fashion, trend|Also in standard Arabic|
+|modˤa (موضة)|_mode_|fashion, trend|also in standard Arabic|
 |makiāj (مكياج)|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false)]|
 |rooj (روج)|_rouge_|lipstick||
 |barfān (بارفان)|_parfum_|perfume||
