@@ -60,7 +60,7 @@ Directly from French.
 |bijama|بيجاما|_pyjama_|pyjamas||
 |sandˤal|صندل|_sandale_|sandal||
 
-## Around the house (16 words)
+## Around the house (17 words)
 
 |mobilia|موبيليا|_mobilier_|furniture||
 |dikōr|ديكور|_décor_|decoration||
@@ -78,6 +78,7 @@ Directly from French.
 |koverta|كُڤِرتة|_couverture_|blanket||
 |karnéh|كرنيه|_carnet_|notebook (french); ID card (egyptian)||
 |gornān|جرنان|_journal_|newspaper||
+|éklasair|اكلاسير|_classeur_|file/binder||
 
 ## Vehicles (9 words)
 
