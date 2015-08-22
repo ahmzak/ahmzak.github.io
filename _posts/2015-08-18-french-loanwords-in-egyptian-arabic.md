@@ -77,3 +77,13 @@ Directly from French.
 |banyo|بانيو|_baignoire_|bathtub||
 |koverta|كڤرتة|_couverture_|blanket||
 |karnéh|كرنيه|_carnet_|notebook (french); ID card (egyptian)||
+
+## Car (7 words)
+
+|dereksyōn|دركسيون|_direction_|direction (french); steering wheel (egyptian)||
+|bujéh|بوجيه|_bougie (d’allumage)_|spark plug||
+|kabboot|كبّوت|_capot_|bonnet/hood||
+|motōr|موتور|_moteur_|motor||
+|fetees|فتيس|_vitesse_|transmission gear||
+|kalax|كلكس|_klaxon_|car horn||
+|baddalah|بدالة|_pédale_|pedal||
