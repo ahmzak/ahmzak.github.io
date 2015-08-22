@@ -60,24 +60,20 @@ Directly from French.
 |bijama|بيجاما|_pyjama_|pyjamas||
 |sandˤal|صندل|_sandale_|sandal||
 
-## Around the house (?? words)
+## Around the house (15 words)
 
 |mobilia|موبيليا|_mobilier_|furniture||
 |dikōr|ديكور|_décor_|decoration||
+|asˤansair|اصنساير|_ascenseur_|elevator||
 |sˤālah|صالة|_salle_|hall||
 |sˤalōn|صالون|_salon_|living room||
 |telivizyōn|تلڤزيون|_télévision_|television||
 |boosˤa|بوصة|_pouce_|inch||
 |fīsha|فيشة|_fiche_|plug||
 |balacona|بلكونة|_balcon_|balcony||
+|bisīn|بيسين|_piscine_|pool||
 |kanaba|كنبة|_canapé_|sofa||
 |twalett|توالت|_toilette_|toilet||
 |banyo|بانيو|_baignoire_|bathtub||
 |koverta|كڤرتة|_couverture_|blanket||
-
-
-
-
-assansair				ascenseur
-bisin					piscine
-karnaih				carnet
+|karnéh|كرنيه|_carnet_|notebook (french); card (egyptian)||
