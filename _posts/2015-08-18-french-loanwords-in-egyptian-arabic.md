@@ -26,16 +26,17 @@ meta:
   "audio-description": "Salon Mays, May 2012"
 ---
 
+
 Directly from French.
 
 ## Fashion
 
-| Egyptian word	| Arabic | French origin       | Meaning                                 | Note                    |
-| :-| -: | :-: | :-: | :-: |
-| modˤa			| موضة	 | _mode_		 	   | fashion, trend                          | Also in standard Arabic |
-| makiāj        | مكياج  | _maquillage_        | makeup, cosmetics                       | [[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP1#v=onepage&q&f=false)] |
-| rooj			| روج	 | _rouge_			   | lipstick					             |						   |
-| kasketta      | كسكتة  | _casquette_		   | cap                                     |                         |
+|Egyptian word|Arabic|French origin|Meaning|Note|
+|:-|-:|:-:|:-:|:-:|
+|modˤa|موضة|_mode_|fashion, trend|Also in standard Arabic|
+|makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP1#v=onepage&q&f=false)]|
+|rooj|روج|_rouge_|lipstick||
+|kasketta|كسكتة|_casquette_|cap||
 | ésharb		| إشرب	 | _écharpe_           | scarf (french); hijab (egyptian)        |                         |
 | sotiān        | ستيان  | _soutien-gorge_     | bra                                     |                         |
 | kolot			| كلت    | _culotte_		   | breeches (french); underwear (egyptian) |					       |
@@ -46,8 +47,3 @@ Directly from French.
 | slip			| سلب	 | _slip_              | briefs									 | 						   |
 | slip			| سلب	 | _slip_              | briefs									 | 						   |
 | slip			| سلب	 | _slip_              | briefs									 | 						   |
-
-
-
-
-
