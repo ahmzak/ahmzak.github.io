@@ -31,6 +31,7 @@ meta:
 Directly from French.
 
 ## Fashion (25 words)
+
 |Egyptian word|Arabic|French origin|Meaning|Note|
 |:-|-:|:-:|:-:|:-:|
 |modˤa|موضة|_mode_|fashion, trend|Also in standard Arabic|
@@ -60,6 +61,7 @@ Directly from French.
 |sandˤal|صندل|_sandale_|sandal||
 
 ## Around the house (?? words)
+
 |slib|سلب|_slip_|briefs||
 
 mobilia				mobilier
