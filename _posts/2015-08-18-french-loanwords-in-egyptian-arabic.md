@@ -51,15 +51,14 @@ Directly from French.
 |jaket (جاكيت)|_jacket_|jacket||
 |jilé (جيلاي)|_gilet_|waistcoast||
 |gwanti (جوانتي)|_gant_|gloves||
-
-|mayyōh|مايوه|_maillot (de bain)_|swimsuit||
-|sotiān|ستيان|_soutien-gorge_|bra||
-|kolot|كلت|_culotte_|breeches (french); underwear (egyptian)||
-|slib|سلب|_slip_|briefs||
-|kalsōn|كلسون|_caleçon_|boxers||
-|kolōn|كولون|_collant_|stockings, pantyhose||
-|bijama|بيجاما|_pyjama_|pyjamas||
-|sandˤal|صندل|_sandale_|sandal||
+|mayyōh (مايوه)|_maillot (de bain)_|swimsuit||
+|sotiān (ستيان)|_soutien-gorge_|bra||
+|kolot (كلت)|_culotte_|breeches (french); underwear (egyptian)||
+|slib (سلب)|_slip_|briefs||
+|kalsōn (كلسون)|_caleçon_|boxers||
+|kolōn (كولون)|_collant_|stockings, pantyhose||
+|bijama (بيجاما)|_pyjama_|pyjamas||
+|sandˤal (صندل)|_sandale_|sandal||
 
 ## Around the house (15 words)
 
