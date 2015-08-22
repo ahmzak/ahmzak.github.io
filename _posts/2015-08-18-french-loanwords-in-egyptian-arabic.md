@@ -62,7 +62,7 @@ Directly from French.
 
 |mobilia|موبيليا|_mobilier_|furniture||
 |dikōr|ديكور|_décor_|decoration||
-|asˤansair|اصنساير|_ascenseur_|elevator||
+|asˤansair|اصنساير|_ascenseur_|elevator|[[p99](https://books.google.ca/books?id=PIkfAQAAMAAJ&dq=%22on+the+other+hand%2C+we+have+very+recent+arrivals%22&focus=searchwithinvolume&q=ascenseur)]|
 |sˤālah|صالة|_salle_|hall||
 |sˤalōn|صالون|_salon_|living room||
 |telivizyōn|تلڤزيون|_télévision_|television||
