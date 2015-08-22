@@ -79,7 +79,7 @@ Directly from French.
 ## Car (7 words)
 
 |dereksyōn|دركسيون|_direction_|direction (french); steering wheel (egyptian)||
-|bujéh|بوجيه|_bougie (d’allumage)_|spark plug||
+|bujéh|بوجيه|_bougie (d’allumage)_|spark plug||[[p57](https://books.google.ca/books?id=LfruK29pVl8C&lpg=PA57&dq=%22side%20by%20side%20with%20educated%20literary%20Arabic%22&pg=PA57#v=onepage&q&f=false)]
 |kabboot|كبّوت|_capot_|bonnet/hood||
 |motōr|موتور|_moteur_|motor||
 |fetees|فتيس|_vitesse_|transmission gear||
