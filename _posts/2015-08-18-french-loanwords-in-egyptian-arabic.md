@@ -76,7 +76,7 @@ Directly from French.
 |koverta|كُڤِرتة|_couverture_|blanket||
 |karnéh|كرنيه|_carnet_|notebook (french); ID card (egyptian)||
 
-## Car (7 words)
+## Car (8 words)
 
 |dereksyōn|دركسيون|_direction_|direction (french); steering wheel (egyptian)||
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug||[[p57](https://books.google.ca/books?id=LfruK29pVl8C&lpg=PA57&dq=%22side%20by%20side%20with%20educated%20literary%20Arabic%22&pg=PA57#v=onepage&q&f=false)]
@@ -85,3 +85,4 @@ Directly from French.
 |fetees|فتيس|_vitesse_|transmission gear||
 |kalax|كلكس|_klaxon_|car horn||
 |baddalah|بدالة|_pédale_|pedal||
+|debreyāj|دبرياج|_débrayage_|clutch||
