@@ -36,14 +36,14 @@ Directly from French.
 |:-|:-:|:-:|:-:|
 |modˤa (موضة)|_mode_|fashion, trend|Also in standard Arabic|
 |makiāj (مكياج)|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false)]|
+|rooj (روج)|_rouge_|lipstick||
+|barfān (بارفان)|_parfum_|perfume||
+|kolonia (كولونيا)|_(eau de) cologne_|cologne||
+|kasketta (كسكتة)|_casquette_|cap||
+|ésharb (إشرب)|_écharpe_|scarf (french); hijab (egyptian)||
+|blōza (بلوزة)|blouse|blouse||
 
 
-|rooj|روج|_rouge_|lipstick||
-|barfān|بارفان|_parfum_|perfume||
-|kolonia|كولونيا|_(eau de) cologne_|cologne||
-|kasketta|كسكتة|_casquette_|cap||
-|ésharb|إشرب|_écharpe_|scarf (french); hijab (egyptian)||
-|blōza|بلوزة|blouse|blouse||
 |karavatta|كرڤتة|_cravate_|necktie||
 |bantˤalōn|سلب|_pantalon_|pants||
 |jībah|جيبة|_jupe_|skirt||
