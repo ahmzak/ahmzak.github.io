@@ -62,20 +62,22 @@ Directly from French.
 
 ## Around the house (?? words)
 
-|slib|سلب|_slip_|briefs||
+|mobilia|موبيليا|_mobilier_|furniture||
+|dikōr|ديكور|_décor_|decoration||
+|sˤālah|صالة|_salle_|hall||
+|sˤalōn|صالون|_salon_|living room||
+|telivizyōn|تلڤزيون|_télévision_|television||
+|boosˤa|بوصة|_pouce_|inch||
+|fīsha|فيشة|_fiche_|plug||
+|balacona|بلكونة|_balcon_|balcony||
+|kanaba|كنبة|_canapé_|sofa||
+|twalett|توالت|_toilette_|toilet||
+|banyo|بانيو|_baignoire_|bathtub||
+|koverta|كڤرتة|_couverture_|blanket||
 
-mobilia				mobilier
-feesha				fiche
-dikor				decor
-balacona				balcon
-banyo				baignoire
-ballona				ballon
-televizyon			télévision
-shalimo				chalumeau
-kanaba				canapé
-koverta				couverture
+
+
+
 assansair				ascenseur
 bisin					piscine
-booSa (بوصة)			pouce
 karnaih				carnet
-sallah				salle
