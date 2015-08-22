@@ -5,7 +5,7 @@ description: ""
 headline: ""
 modified: ""
 categories: 
-  - essay
+  - language
 sidebar_enabled: false
 default_cover_image: ""
 imagecredit: ""
@@ -25,8 +25,6 @@ meta:
   "audio-description": "Salon Mays, May 2012"
 ---
 
-
-
 Directly from French.
 
 ## Fashion
@@ -41,3 +39,14 @@ Directly from French.
 | sotiān        | ستيان  | _soutien-gorge_     | bra                                     |                         |
 | kolot			| كلت    | _culotte_		   | breeches (french); underwear (egyptian) |					       |
 | mayyōh	    | مايوه  | _maillot (de bain)_ | swimsuit		                         |                         |
+| slib			| سلب	 | _slip_              | briefs									 | 						   |
+| kalsōn		| كلسون	 | _caleçon_           | boxers									 | 						   |
+| kolōn			| كولون	 | _collant_           | stockings, pantyhose					 | 						   |
+| slip			| سلب	 | _slip_              | briefs									 | 						   |
+| slip			| سلب	 | _slip_              | briefs									 | 						   |
+| slip			| سلب	 | _slip_              | briefs									 | 						   |
+
+
+
+
+
