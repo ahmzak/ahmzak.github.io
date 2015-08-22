@@ -28,6 +28,7 @@ meta:
 
 
 
+
 Directly from French.
 
 ## Fashion and beauty (28 words)
@@ -40,13 +41,13 @@ Directly from French.
 |kolonia|كولونيا|_(eau de) cologne_|cologne||
 |ekseswār|اكسسوار|_accessoire_|accesory||
 |kasketta|كسكتة|_casquette_|cap||
-|ésharb|إشرب|_écharpe_|scarf (french); hijab (egyptian)||
+|ésharb|إشرب|_écharpe_|hijab||
 |blōza|بلوزة|_blouse_|blouse||
 |karavatta|كرڤتة|_cravate_|necktie||
 |bantˤalōn|بنطلون|_pantalon_|pants||
 |jībah|جيبة|_jupe_|skirt||
 |short|شورت|_short_|short||
-|rōb|روب|_robe_|dress (french); robe (egyptian)||
+|rōb|روب|_robe_|robe||
 |balto|بالطو|_paletot_|coat||
 |jaketta|جاكيت|_jaquette_|jacket||
 |jilé|جيلاي|_gilet_|waistcoast||
@@ -77,14 +78,14 @@ Directly from French.
 |twalett|توالت|_toilette_|toilet||
 |banyo|بانيو|_baignoire_|bathtub||
 |koverta|كُڤِرتة|_couverture_|blanket||
-|karnéh|كرنيه|_carnet_|notebook (french); ID card (egyptian)||
+|karnéh|كرنيه|_carnet_|ID card||
 |gornān|جرنان|_journal_|newspaper||
 |éklasair|اكلاسير|_classeur_|file/binder||
 
 ## Vehicles (9 words)
 
 |ōtobīs|اوتوبيس|_autobus_|bus||
-|dereksyōn|دركسيون|_direction_|direction (french); steering wheel (egyptian)||
+|dereksyōn|دركسيون|_direction_|steering wheel||
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug||[[p57](https://books.google.ca/books?id=LfruK29pVl8C&lpg=PA57&dq=%22side%20by%20side%20with%20educated%20literary%20Arabic%22&pg=PA57#v=onepage&q&f=false)]
 |kabboot|كبّوت|_capot_|bonnet/hood||
 |motōr|موتور|_moteur_|motor||
