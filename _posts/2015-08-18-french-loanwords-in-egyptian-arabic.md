@@ -31,7 +31,6 @@ meta:
 Directly from French.
 
 ## Fashion (25 words)
-
 |Egyptian word|Arabic|French origin|Meaning|Note|
 |:-|-:|:-:|:-:|:-:|
 |modˤa|موضة|_mode_|fashion, trend|Also in standard Arabic|
@@ -59,3 +58,22 @@ Directly from French.
 |kolōn|كولون|_collant_|stockings, pantyhose||
 |bijama|بيجاما|_pyjama_|pyjamas||
 |sandˤal|صندل|_sandale_|sandal||
+
+## Around the house (?? words)
+|slib|سلب|_slip_|briefs||
+
+mobilia				mobilier
+feesha				fiche
+dikor				decor
+balacona				balcon
+banyo				baignoire
+ballona				ballon
+televizyon			télévision
+shalimo				chalumeau
+kanaba				canapé
+koverta				couverture
+assansair				ascenseur
+bisin					piscine
+booSa (بوصة)			pouce
+karnaih				carnet
+sallah				salle
