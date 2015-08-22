@@ -30,7 +30,7 @@ meta:
 
 Directly from French.
 
-## Fashion
+## Fashion (25 words)
 
 |Egyptian word|Arabic|French origin|Meaning|Note|
 |:-|-:|:-:|:-:|:-:|
