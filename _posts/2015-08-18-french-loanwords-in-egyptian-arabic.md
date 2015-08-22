@@ -76,4 +76,4 @@ Directly from French.
 |twalett|توالت|_toilette_|toilet||
 |banyo|بانيو|_baignoire_|bathtub||
 |koverta|كڤرتة|_couverture_|blanket||
-|karnéh|كرنيه|_carnet_|notebook (french); card (egyptian)||
+|karnéh|كرنيه|_carnet_|notebook (french); ID card (egyptian)||
