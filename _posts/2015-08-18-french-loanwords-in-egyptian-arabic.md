@@ -30,7 +30,7 @@ meta:
 
 Directly from French.
 
-## Fashion and beauty (27 words)
+## Fashion and beauty (28 words)
 
 |modˤa|موضة|_mode_|fashion, trend|also in standard Arabic|
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false)]|
@@ -51,6 +51,7 @@ Directly from French.
 |jaketta|جاكيت|_jaquette_|jacket||
 |jilé|جيلاي|_gilet_|waistcoast||
 |gwanti|جوانتي|_gant_|gloves||
+|fannella|فانله|_flanelle_|flannel (french); undershirt (egyptian)||
 |mayyōh|مايوه|_maillot (de bain)_|swimsuit||
 |sotiān|ستيان|_soutien-gorge_|bra||
 |kolot|كُلُت|_culotte_|underwear||
