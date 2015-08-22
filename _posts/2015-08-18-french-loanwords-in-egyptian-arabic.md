@@ -5,7 +5,7 @@ description: ""
 headline: ""
 modified: ""
 categories: 
-  - "null"
+  - essay
 sidebar_enabled: false
 default_cover_image: ""
 imagecredit: ""
@@ -13,6 +13,16 @@ imagecreditlink: ""
 video: ""
 comments: false
 title: French loanwords in Egyptian Arabic
+summary: This is a brief summary of the post
+tags: 
+  - poetry
+  - test
+meta: 
+  poem: ﻣﺎ ﻟﻢ ﺗﻘﻠﻪ ﺯﺭﻗﺎء اﻟﻴﻤﺎﻣﺔ
+  diwan: ﻣﺮﺛﻴﺔ اﻟﻨﺎﺭ اﻻﻭﻟﻰ
+  poet: ﻣﺤﻤﺪ ﻋﺒﺪ اﻟﺒﺎﺭﻱ
+  audio: "https://www.youtube.com/watch?v=ZK4NYSPm1QM"
+  "audio-description": "Salon Mays, May 2012"
 ---
 
 
