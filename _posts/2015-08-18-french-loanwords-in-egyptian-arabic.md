@@ -75,7 +75,7 @@ Directly from French.
 |kanaba|كنبة|_canapé_|sofa||
 |twalett|توالت|_toilette_|toilet||
 |banyo|بانيو|_baignoire_|bathtub||
-|koverta|كڤرتة|_couverture_|blanket||
+|koverta|كُڤِرتة|_couverture_|blanket||
 |karnéh|كرنيه|_carnet_|notebook (french); ID card (egyptian)||
 
 ## Car (7 words)
