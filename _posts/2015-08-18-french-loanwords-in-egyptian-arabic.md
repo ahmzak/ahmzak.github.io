@@ -37,19 +37,25 @@ Directly from French.
 |modˤa|موضة|_mode_|fashion, trend|Also in standard Arabic|
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP1#v=onepage&q&f=false)]|
 |rooj|روج|_rouge_|lipstick||
+|barfān|بارفان|_parfum_|perfume||
+|kolonia|كولونيا|_(eau de) cologne_|cologne||
 |kasketta|كسكتة|_casquette_|cap||
 |ésharb|إشرب|_écharpe_|scarf (french); hijab (egyptian)||
 |sotiān|ستيان|_soutien-gorge_|bra||
 |kolot|كلت|_culotte_|breeches (french); underwear (egyptian)||
-|mayyōh|مايوه|_maillot (de bain)_|swimsuit||
 |slib|سلب|_slip_|briefs||
 |kalsōn|كلسون|_caleçon_|boxers||
 |kolōn|كولون|_collant_|stockings, pantyhose||
 |blōza|بلوزة|blouse|blouse||
 |karavatta|كرڤتة|_cravate_|necktie||
-|slib|سلب|_slip_|briefs||
-|slib|سلب|_slip_|briefs||
-|slib|سلب|_slip_|briefs||
-|slib|سلب|_slip_|briefs||
-|slib|سلب|_slip_|briefs||
-|slib|سلب|_slip_|briefs||
+|short|شورت|_short_|short||
+|bantˤalōn|سلب|_pantalon_|pants||
+|jībah|جيبة|_jupe_|skirt||
+|rōb|روب|_robe_|dress (french); robe (egyptian)||
+|balto|بالطو|_paletot_|coat||
+|jaket|جاكيت|_jacket_|jacket||
+|jilé|جيلاي|_gilet_|waistcoast||
+|bijama|بيجاما|_pyjama_|pyjamas||
+|gwanti|جوانتي|_gant_|gloves||
+|mayyōh|مايوه|_maillot (de bain)_|swimsuit||
+|sandˤal|صندل|_sandale_|sandal||
