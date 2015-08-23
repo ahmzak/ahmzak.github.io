@@ -26,6 +26,7 @@ meta:
   "audio-description": "Salon Mays, May 2012"
 ---
 
+
 Directly from French.
 
 ## Beauty and fashion (?? words)
@@ -176,6 +177,7 @@ Directly from French.
 
 ## Science and technology
 
+|__Measurements__|
 |boosˤa|بوصة|_pouce_|inch|[AD,113]
 |grām|جرام|_gramme_|gram|[AD,152]
 |sˤanti|صنتي|_centimètre_|centimetre|[AD,434]
