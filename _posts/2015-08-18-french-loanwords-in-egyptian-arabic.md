@@ -26,11 +26,6 @@ meta:
   "audio-description": "Salon Mays, May 2012"
 ---
 
-
-
-
-
-
 Directly from French.
 
 ## Fashion and beauty (?? words)
