@@ -65,7 +65,7 @@ Directly from French.
 ## Around the house (?? words)
 
 |mobilia|موبيليا|_mobilier_|furniture|
-|dikōr|ديكور|_décor_|decoration|
+|dikōr|ديكور|_décor_|decoration|[AD,299]
 |asˤansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
 |sˤālah|صالة|_salle_|hall|
 |sˤalōn|صالون|_salon_|living room|
