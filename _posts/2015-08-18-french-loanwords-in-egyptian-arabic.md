@@ -147,6 +147,9 @@ Directly from French.
 
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
 
+## Games
+
+|ballōnah|بالونة|_ballon_|balloon|[AD,102]
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
