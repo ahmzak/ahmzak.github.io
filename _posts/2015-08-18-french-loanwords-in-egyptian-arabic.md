@@ -106,6 +106,7 @@ Directly from French.
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 |bolees|بوليس|_police_|police|[AD,103]
 |garsōn|جارسون|_garçon_|waiter|[AD,155]
+|sekertair|سكرتير|_secrétaire_|secretary|[AD,420]
 
 ## Vehicles and transport (10 words)
 
