@@ -213,6 +213,7 @@ Directly from French.
 |ballōnah|بالونة|_ballon_|balloon|[AD,102]
 |dām|دام|_dame_|queen (in card games)|[AD,274]
 |rakit|راكيت|_raquette_|racquet|[AD,319]
+|fīsh|فيش|_fiche_|tokens, chips (in games)|[AD, 679] 
 
 ## Cinéma
 
