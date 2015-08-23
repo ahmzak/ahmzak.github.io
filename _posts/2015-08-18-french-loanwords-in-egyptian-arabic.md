@@ -80,7 +80,7 @@ Directly from French.
 |butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
 |kanaba|كنبة|_canapé_|sofa|
-|twalett|توالت|_toilette_|toilet|
+|twalit|تواليت|_toilette_|toilet|
 |bidéh|بيديه|_bidet_|bidet|[AD, 60]
 |banyo|بانيو|_baignoire_|bathtub|
 |koverta|كُڤِرتة|_couverture_|blanket|
