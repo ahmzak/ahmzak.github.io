@@ -176,6 +176,7 @@ Directly from French.
 
 ## Politics
 
+|diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD,278]
 |taktīk|تكتيك|_tactique_|tactics|[AD,132]
 
 ##Common names
