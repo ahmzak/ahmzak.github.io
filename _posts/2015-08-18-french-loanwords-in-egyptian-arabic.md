@@ -120,9 +120,13 @@ Directly from French.
 
 |alōh|آلوه|_allô_|hello (telephony)|[AD,34]
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
-|ʔonkel|أونكل|_oncle_|uncle|[AD,41]
+|onkel|أونكل|_oncle_|uncle|[AD,41]
 |ʔefféh|افيه|_effet_|joke, quip|[AD,28]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
+
+## Food
+
+|ananās|أناناس|_ananas_|pineapple|[AD,42]
 
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
