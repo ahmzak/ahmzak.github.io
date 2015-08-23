@@ -141,7 +141,7 @@ Directly from French.
 |kabboot|كبّوت|_capot_|bonnet/hood|[AD,730]
 |motōr|موتور|_moteur_|motor|
 |fetees|فتيس|_vitesse_|gear-shift lever|[AD,641]
-|kalax|كلكس|_klaxon_|car horn|
+|kalax|كلكس|_klaxon_|car horn|[AD,760]
 |baddāl|بدال|_pédale_|pedal|[AD,58]
 |debreyāj|دبرياج|_débrayage_|clutch|[AD,276]
 |shakmān|شكمان|_échappement_|exhaust pipe|[AD,474]
