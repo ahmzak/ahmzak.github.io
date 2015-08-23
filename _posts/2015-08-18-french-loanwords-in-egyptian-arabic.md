@@ -87,6 +87,7 @@ Directly from French.
 |astik|أستك|_élastique_|elastic band|
 |astīkah|أستيكة|_élastique_|eraser|[AD,20]
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
+|afīsh|أفيش|_affiche_|poster|[AD,28]
 
 ## Vehicles (9 words)
 
