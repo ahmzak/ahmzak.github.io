@@ -148,6 +148,7 @@ Directly from French.
 
 |bimōl|بيمول|_bémol_|flat (music)|[AD,104]
 |diéz|دييز|_dièse_|sharp (music)|[AD,317]
+|kobléeh|كوبليه|_couplet_|verse|[AD,733]
 |ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]
 |ʔorg|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
