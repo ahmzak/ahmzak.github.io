@@ -103,6 +103,7 @@ Directly from French.
 |kalax|كلكس|_klaxon_|car horn|
 |baddalah|بدالة|_pédale_|pedal|
 |debreyāj|دبرياج|_débrayage_|clutch|
+|ʔambaléh|أمبليه|_emballer_|revving the engine|[AD,35]
 
 ## Music (?? words)
 
