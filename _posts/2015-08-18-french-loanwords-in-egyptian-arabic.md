@@ -36,6 +36,8 @@ Directly from French.
 |monokīr|مونوكير|_manucure_|manicure|
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
 |rijīm|رجيم|_régime_|diet|[AD,329]
+|séshwār|سشوار|_séchoir_|(hair) dryer|
+|istishwār|استشوار|
 |barfān|بارفان|_parfum_|perfume|
 |kolonia|كولونيا|_(eau de) cologne_|cologne|
 |ekseswār|اكسسوار|_accessoire_|accesory|[AD,29]
