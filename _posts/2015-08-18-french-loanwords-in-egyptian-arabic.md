@@ -82,7 +82,7 @@ Directly from French.
 |banyo|بانيو|_baignoire_|bathtub|
 |koverta|كُڤِرتة|_couverture_|blanket|
 |karnéh|كرنيه|_carnet_|ID card|
-|gornān|جرنان|_journal_|newspaper|
+|gornān|جرنان|_journal_|newspaper|[AD,157]
 |éklasair|اكلاسير|_classeur_|file/binder|
 |arshīf|ارشيف|_archive_|archive|[AD,14]
 |basbōr|باسبور|_passeport_|passport|[AD,73]
