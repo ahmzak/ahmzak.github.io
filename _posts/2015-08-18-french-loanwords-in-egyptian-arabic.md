@@ -181,6 +181,7 @@ Directly from French.
 |dinamo|دينامو|_dynamo_|dynamo|[AD,305]
 |dinamīt|ديناميت|_dynamite_|[AD,305]
 |radār|رادار|_radar_|radar|[AD,332]
+|shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
 
 ## Games and sports
 
