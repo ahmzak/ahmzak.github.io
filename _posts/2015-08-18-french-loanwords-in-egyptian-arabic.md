@@ -65,7 +65,7 @@ Directly from French.
 |fanella|فانله|_flanelle_|undershirt|
 |mayōh|مايوه|_maillot (de bain)_|swimsuit|
 |sotiān|ستيان|_soutien_|bra|[AD,399]
-|kolot|كُلُت|_culotte_|underwear|
+|kolot|كُلُت|_culotte_|underwear|[AD,758]
 |slib|سلِب|_slip_|briefs|[AD,422]
 |kalsōn|كلسون|_caleçon_|boxers|
 |kolōn|كولون|_collant_|stockings, pantyhose|
