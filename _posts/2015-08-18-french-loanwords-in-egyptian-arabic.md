@@ -30,6 +30,7 @@ meta:
 
 
 
+
 Directly from French.
 
 ## Fashion and beauty (28 words)
@@ -42,7 +43,7 @@ Directly from French.
 |kolonia|كولونيا|_(eau de) cologne_|cologne|
 |ekseswār|اكسسوار|_accessoire_|accesory|
 |kasketta|كسكتة|_casquette_|cap|
-|ésharb|إشرب|_écharpe_|hijab|
+|ésharb|إشرب|_écharpe_|hijab|[AD,24]
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|
 |bantˤalōn|بنطلون|_pantalon_|pants|
@@ -116,5 +117,3 @@ Directly from French.
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
-
-
