@@ -99,6 +99,7 @@ Directly from French.
 
 |bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
+|bolees]|بوليس|_police_|police|[AD,103]
 
 ## Vehicles (10 words)
 
