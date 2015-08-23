@@ -93,6 +93,7 @@ Directly from French.
 |astīkah|أستيكة|_élastique_|eraser|[AD,20]
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |afīsh|أفيش|_affiche_|poster|[AD,28]
+|bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
 
 ## Work and education
 
@@ -119,6 +120,7 @@ Directly from French.
 
 ## Places 
 
+|belāj|بلاج|_plage_|beach|[AD,95]
 |bisīn|بيسين|_piscine_|pool|
 |stād|ستاد|_stade_|stadium|[AD,18]
 
