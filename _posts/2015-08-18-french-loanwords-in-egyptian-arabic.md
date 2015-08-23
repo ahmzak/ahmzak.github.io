@@ -157,6 +157,7 @@ Directly from French.
 
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bisīn|بيسين|_piscine_|pool|
+|kabaraih|كباريه|_cabaret_|nightclub
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
 |shalaih|شاليه|_chalet_|chalet|[AD,477]
@@ -207,6 +208,7 @@ Directly from French.
 |dinamīt|ديناميت|_dynamite_|[AD,305]
 |radār|رادار|_radar_|radar|[AD,332]
 |shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
+|kabl|كبل|_câble_|cable|[AD,733]
 
 ## Games and sports
 
