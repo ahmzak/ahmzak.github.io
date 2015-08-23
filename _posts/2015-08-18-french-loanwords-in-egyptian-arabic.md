@@ -168,6 +168,7 @@ Directly from French.
 |byuréh|بيوريه|_purée_|puréed|[AD, 116]
 |gatōh|جاتوه|_gâteau_|pastry, small cake|[AD,149]
 |sosīs|سوسيس|_saucisse_|sausage|[AD,411]
+|shambanya|شامبانيا|_champagne_|champagne|[AD,477]
 
 ## Science and technology
 
