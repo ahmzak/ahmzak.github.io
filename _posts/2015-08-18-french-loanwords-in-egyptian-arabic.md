@@ -190,6 +190,7 @@ Directly from French.
 
 ## Cinéma
 
+|sīma|سيما|_cinéma_|cinema|[AD,436]
 |afīsh|أفيش|_affiche_|poster|[AD,28]
 |doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
 |doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
