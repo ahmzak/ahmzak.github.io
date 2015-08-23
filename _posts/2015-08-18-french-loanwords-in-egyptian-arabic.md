@@ -94,6 +94,7 @@ Directly from French.
 ## Work and education
 
 |bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
+|diblōm|دبلوم|_diplôme_|diploma|[AD,278]
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 |bolees]|بوليس|_police_|police|[AD,103]
 |garsōn|جارسون|_garçon_|waiter|[AD,155]
