@@ -147,6 +147,7 @@ Directly from French.
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
 |boosˤa|بوصة|_pouce_|inch|[AD,113]
 |baij|بيج|_beige_|beige|[AD,115]
+|tirikwāz|تركواز|_turquoise_|turquoise|[AD,126]
 
 ## Games
 
