@@ -95,9 +95,10 @@ Directly from French.
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 |bolees]|بوليس|_police_|police|[AD,103]
 
-## Vehicles (10 words)
+## Transport (10 words)
 
 |ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
+|tranzīt|ترانزيت|_transit_|transit|[AD,128]
 |dereksyōn|دركسيون|_direction_|steering wheel|
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|
@@ -159,9 +160,14 @@ Directly from French.
 |afīsh|أفيش|_affiche_|poster|[AD,28]
 |tetr|تتر|_titre_|credits|[AD, 122]
 
+## Politics
+
+|taktīk|تكتيك|_tactique_|tactics|[AD,132]
+
 ##Common names
 
 Ginacliz, Port Said (بور),
+
 
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
