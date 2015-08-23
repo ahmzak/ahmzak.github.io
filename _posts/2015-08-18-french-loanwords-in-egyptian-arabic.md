@@ -138,7 +138,7 @@ Directly from French.
 |bashamel|بشمل|_béchamel_|béchamel sauce|[AD, 78]
 |bodra|بودرة|_poudre_|powder|[AD,57]
 |buftaik|بفتيك|_bifteck_|beefsteak|[AD,89]
-
+|buffaih|بوفيه|_buffet_|buffet|[AD,89]
 ## Science
 
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
