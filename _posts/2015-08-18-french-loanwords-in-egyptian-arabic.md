@@ -83,6 +83,7 @@ Directly from French.
 |tirās|تراس|_terrace_|terrace|[AD,124]
 |kanaba|كنبة|_canapé_|sofa|
 |twalit|تواليت|_toilette_|toilet|[AD,141]
+|sifōn|سيفون|_siphon_|flusher|[AD,416]
 |bidéh|بيديه|_bidet_|bidet|[AD, 60]
 |banyo|بانيو|_baignoire_|bathtub|
 |dosh|دش|_douche_|shower|[AD,289]
