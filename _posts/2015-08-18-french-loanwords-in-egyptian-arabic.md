@@ -31,6 +31,7 @@ Directly from French.
 ## Beauty and fashion (?? words)
 
 |modˤa|موضة|_mode_|fashion, trend|
+|shīk|شيك|_chic_|stylish, elegant|[AD,490]
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false)]
 |rooj|روج|_rouge_|lipstick|[AD,355]
 |monokīr|مونوكير|_manucure_|manicure|
