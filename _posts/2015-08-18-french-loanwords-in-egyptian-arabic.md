@@ -94,8 +94,9 @@ Directly from French.
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |afīsh|أفيش|_affiche_|poster|[AD,28]
 
-## Work
+## Work and education
 
+|bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 
 ## Vehicles (10 words)
@@ -139,6 +140,7 @@ Directly from French.
 |bodra|بودرة|_poudre_|powder|[AD,57]
 |buftaik|بفتيك|_bifteck_|beefsteak|[AD,89]
 |buffaih|بوفيه|_buffet_|buffet|[AD,89]
+
 ## Science
 
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
