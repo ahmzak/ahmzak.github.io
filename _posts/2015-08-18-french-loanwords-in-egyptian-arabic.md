@@ -170,6 +170,7 @@ Directly from French.
 ## Cinéma
 
 |afīsh|أفيش|_affiche_|poster|[AD,28]
+|doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
 |tetr|تتر|_titre_|credits|[AD, 122]
 
 ## Politics
