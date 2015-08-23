@@ -169,6 +169,7 @@ Directly from French.
 |khartoosh|خرطوش|_cartouche_|cartridge|[AD,247]
 |dinamo|دينامو|_dynamo_|dynamo|[AD,305]
 |dinamīt|ديناميت|_dynamite_|[AD,305]
+|radār|رادار|_radar_|radar|[AD,332]
 
 ## Games and sports
 
