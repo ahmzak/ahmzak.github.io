@@ -93,6 +93,7 @@ Directly from French.
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
 |shanyōr|شنيور|_chignole_|drill|[AD,482]
+|kartōn|كارتون|_carton_|cardboard|[AD,741]
 
 <br>
 
