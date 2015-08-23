@@ -131,6 +131,7 @@ Directly from French.
 |tˤantˤ|طنط|_tante_|aunt, respectful address to older women|[AD,138]
 |ʔefféh|افيه|_effet_|joke, quip|[AD,28]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
+|tīb|تيب|_type_|type, distinct character|[AD,142]
 |bibbī|بيبي|_pipi_|urine, pee|[AD,51]
 
 ## Cuisine
