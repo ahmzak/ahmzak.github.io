@@ -141,6 +141,7 @@ Directly from French.
 |bisīn|بيسين|_piscine_|pool|
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
+|shalaih|شاليه|_chalet_|chalet|[AD,477]
 
 ## Social
 
