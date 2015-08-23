@@ -32,7 +32,7 @@ Directly from French.
 
 |modˤa|موضة|_mode_|fashion, trend|
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false)]
-|rooj|روج|_rouge_|lipstick|
+|rooj|روج|_rouge_|lipstick|[AD,355]
 |monokīr|مونوكير|_manucure_|manicure|
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
 |rijīm|رجيم|_régime_|diet|[AD,329]
