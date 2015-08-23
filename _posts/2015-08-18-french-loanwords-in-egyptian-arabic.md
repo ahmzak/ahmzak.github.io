@@ -108,6 +108,7 @@ Directly from French.
 |bolees|بوليس|_police_|police|[AD,103]
 |garsōn|جارسون|_garçon_|waiter|[AD,155]
 |sekertair|سكرتير|_secrétaire_|secretary|[AD,420]
+|sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
 
 ## Vehicles and transport (10 words)
 
