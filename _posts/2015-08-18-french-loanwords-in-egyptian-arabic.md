@@ -137,6 +137,7 @@ Directly from French.
 |bitifōr|بتيفور|_petit four_|petit four|[AD,52]
 |bashamel|بشمل|_béchamel_|béchamel sauce|[AD, 78]
 |bodra|بودرة|_poudre_|powder|[AD,57]
+|buftaik|بفتيك|_bifteck_|beefsteak|[AD,89]
 
 ## Science
 
