@@ -110,7 +110,7 @@ Directly from French.
 |fetees|فتيس|_vitesse_|transmission gear|
 |kalax|كلكس|_klaxon_|car horn|
 |baddāl|بدال|_pédale_|pedal|[AD,58]
-|debreyāj|دبرياج|_débrayage_|clutch|
+|debreyāj|دبرياج|_débrayage_|clutch|[AD,276]
 |ʔambaléh|أمبليه|_emballer_|revving the engine|[AD,35]
 
 ## Music (?? words)
