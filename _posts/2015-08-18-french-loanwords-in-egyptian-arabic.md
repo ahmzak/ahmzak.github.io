@@ -172,6 +172,7 @@ Directly from French.
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
 |boosˤa|بوصة|_pouce_|inch|[AD,113]
 |grām|جرام|_gramme_|gram|[AD,152]
+|sˤanti(-metr)|(صنتي(-متر|_centimètre_|centimetre|[AD,434]
 |baij|بيج|_beige_|beige|[AD,115]
 |tirikwāz|تركواز|_turquoise_|turquoise|[AD,126]
 |termometr|ترمومتر|_thermomètre_|thermometer|[AD,127]
