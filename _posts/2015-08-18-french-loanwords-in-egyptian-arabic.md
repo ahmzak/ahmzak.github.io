@@ -180,8 +180,7 @@ Directly from French.
 |grām|جرام|_gramme_|gram|[AD,152]
 |sˤanti|صنتي|_centimètre_|centimetre|[AD,434]
 |tˤun|طن|_tonne_|ton|[AD,548]
-
-
+<br>
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
 |baij|بيج|_beige_|beige|[AD,115]
 |tirikwāz|تركواز|_turquoise_|turquoise|[AD,126]
