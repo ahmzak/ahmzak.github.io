@@ -130,6 +130,7 @@ Directly from French.
 ## Cuisine
 
 |ananās|أناناس|_ananas_|pineapple|[AD,42]
+|bitifōr|بتيفور|_petit four_|petit four|[AD,52]
 
 ## Science
 
