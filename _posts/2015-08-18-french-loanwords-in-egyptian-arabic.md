@@ -81,6 +81,7 @@ Directly from French.
 |balacona|بلكونة|_balcon_|balcony|
 |kanaba|كنبة|_canapé_|sofa|
 |twalett|توالت|_toilette_|toilet|
+|bidéh|بيديه|_bidet_|bidet|[AD, 60]
 |banyo|بانيو|_baignoire_|bathtub|
 |koverta|كُڤِرتة|_couverture_|blanket|
 |karnéh|كرنيه|_carnet_|ID card|
