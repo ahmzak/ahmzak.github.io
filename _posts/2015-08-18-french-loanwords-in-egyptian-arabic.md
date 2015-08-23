@@ -76,6 +76,7 @@ Directly from French.
 |telivizyōn|تلڤزيون|_télévision_|television|
 |boosˤa|بوصة|_pouce_|inch|
 |fīsha|فيشة|_fiche_|plug|
+|butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|
 |kanaba|كنبة|_canapé_|sofa|
 |twalett|توالت|_toilette_|toilet|
@@ -126,7 +127,8 @@ Directly from French.
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 |bibbī|بيبي|_pipi_|urine, pee|[AD,51]
 
-## Food
+## Cuisine
+
 
 |ananās|أناناس|_ananas_|pineapple|[AD,42]
 
