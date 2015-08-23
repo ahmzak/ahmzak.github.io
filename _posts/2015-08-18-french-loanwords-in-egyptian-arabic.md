@@ -89,6 +89,10 @@ Directly from French.
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |afīsh|أفيش|_affiche_|poster|[AD,28]
 
+## Work
+
+|ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
+
 ## Vehicles (9 words)
 
 |ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
