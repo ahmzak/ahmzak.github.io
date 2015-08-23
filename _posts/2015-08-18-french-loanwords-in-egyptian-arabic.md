@@ -145,6 +145,7 @@ Directly from French.
 |bodra|بودرة|_poudre_|powder|[AD,57]
 |buftaik|بفتيك|_bifteck_|beefsteak|[AD,89]
 |buffaih|بوفيه|_buffet_|buffet|[AD,89]
+|banéh|بانيه|_pané_|breaded|[AD,108]
 
 ## Science
 
