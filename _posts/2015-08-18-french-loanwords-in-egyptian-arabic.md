@@ -129,8 +129,11 @@ Directly from French.
 
 ## Cuisine
 
-
 |ananās|أناناس|_ananas_|pineapple|[AD,42]
+
+## Science
+
+|bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
 
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
