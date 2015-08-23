@@ -120,6 +120,7 @@ Directly from French.
 |ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]
 |ʔorg|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
+|disk|ديسك|_disque_|gramophone record|[AD,289]
 
 ## Places 
 
