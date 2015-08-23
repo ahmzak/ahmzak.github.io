@@ -61,7 +61,7 @@ Directly from French.
 |bijama|بيجاما|_pyjama_|pyjamas|
 |sandˤal|صندل|_sandale_|sandal|
 
-## Around the house (22 words)
+## Around the house (?? words)
 
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|
