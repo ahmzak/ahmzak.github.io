@@ -105,6 +105,7 @@ Directly from French.
 ## Social
 
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
+|sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
