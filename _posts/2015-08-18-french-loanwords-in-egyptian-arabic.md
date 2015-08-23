@@ -98,7 +98,7 @@ Directly from French.
 
 |__Office__|
 |karnéh|كرنيه|_carnet_|ID card|
-|kart|كارت|_carde_|card|[AD,741]
+|kart|كارت|_carte_|card|[AD,741]
 |gornān|جرنان|_journal_|newspaper|[AD,157]
 |éklasair|اكلاسير|_classeur_|file/binder|
 |duséh|دوسيه|_dossier_|folder, dossier|[AD,289]
@@ -220,7 +220,7 @@ Directly from French.
 |dām|دام|_dame_|queen (in card games)|[AD,274]
 |rakit|راكيت|_raquette_|racquet|[AD,319]
 |fīsh|فيش|_fiche_|tokens, chips (in games)|[AD, 679] 
-|kart|كارت|_carde_|playing card|[AD,741]
+|kart|كارت|_carte_|playing card|[AD,741]
 
 ## Cinéma
 
