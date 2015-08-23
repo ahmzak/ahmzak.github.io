@@ -131,6 +131,7 @@ Directly from French.
 
 |ananās|أناناس|_ananas_|pineapple|[AD,42]
 |bitifōr|بتيفور|_petit four_|petit four|[AD,52]
+|bodra|بودرة|_poudre_|powder|[AD,57]
 
 ## Science
 
