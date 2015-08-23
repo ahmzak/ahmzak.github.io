@@ -150,6 +150,7 @@ Directly from French.
 |baij|بيج|_beige_|beige|[AD,115]
 |tirikwāz|تركواز|_turquoise_|turquoise|[AD,126]
 |termometr|ترمومتر|_thermomètre_|thermometer|[AD,127]
+|telescōb|تلسكوب|_télescope_|telescope|[AD,134]
 
 ## Games
 
