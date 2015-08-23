@@ -105,7 +105,7 @@ Directly from French.
 |motōr|موتور|_moteur_|motor|
 |fetees|فتيس|_vitesse_|transmission gear|
 |kalax|كلكس|_klaxon_|car horn|
-|baddalah|بدالة|_pédale_|pedal|
+|baddāl|بدال|_pédale_|pedal|[AD,58]
 |debreyāj|دبرياج|_débrayage_|clutch|
 |ʔambaléh|أمبليه|_emballer_|revving the engine|[AD,35]
 
