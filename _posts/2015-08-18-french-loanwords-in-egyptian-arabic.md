@@ -99,7 +99,7 @@ Directly from French.
 
 |ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
 |dereksyōn|دركسيون|_direction_|steering wheel|
-|bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[[p57](https://books.google.ca/books?id=LfruK29pVl8C&lpg=PA57&dq=%22side%20by%20side%20with%20educated%20literary%20Arabic%22&pg=PA57#v=onepage&q&f=false)]
+|bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|
 |motōr|موتور|_moteur_|motor|
 |fetees|فتيس|_vitesse_|transmission gear|
@@ -138,4 +138,5 @@ Directly from French.
 
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
+- [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
 - [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
