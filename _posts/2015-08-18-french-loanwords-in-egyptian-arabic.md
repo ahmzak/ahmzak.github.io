@@ -119,6 +119,7 @@ Directly from French.
 ## Music (?? words)
 
 |bimōl|بيمول|_bémol_|flat (music)|[AD,104]
+|diéz|دييز|_dièse_|sharp (music)|[AD,317]
 |ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]
 |ʔorg|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
@@ -166,6 +167,7 @@ Directly from French.
 |telescōb|تلسكوب|_télescope_|telescope|[AD,134]
 |khartoosh|خرطوش|_cartouche_|cartridge|[AD,247]
 |dinamo|دينامو|_dynamo_|dynamo|[AD,305]
+|dinamīt|ديناميت|_dynamite_|[AD,305]
 
 ## Games
 
