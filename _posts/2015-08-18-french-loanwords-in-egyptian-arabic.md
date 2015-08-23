@@ -92,7 +92,7 @@ Directly from French.
 
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 
-## Vehicles (9 words)
+## Vehicles (10 words)
 
 |ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
 |dereksyōn|دركسيون|_direction_|steering wheel|
