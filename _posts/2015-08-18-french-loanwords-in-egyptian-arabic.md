@@ -84,6 +84,7 @@ Directly from French.
 |karnéh|كرنيه|_carnet_|ID card|
 |gornān|جرنان|_journal_|newspaper|[AD,157]
 |éklasair|اكلاسير|_classeur_|file/binder|
+|duséh|دوسيه|_dossier_|folder, dossier|[AD,289]
 |arshīf|ارشيف|_archive_|archive|[AD,14]
 |basbōr|باسبور|_passeport_|passport|[AD,73]
 |astik|أستك|_élastique_|elastic band|
