@@ -153,7 +153,7 @@ Directly from French.
 |bonjoor|بنجور|_bonjour_|hello|[AD,105]
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
 |onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD,41]
-|tˤantˤ|طنط|_tante_|aunt, respectful address to older women|[AD,138]
+|tˤantˤ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
 |ʔefféh|افيه|_effet_|joke, quip|[AD,28]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
@@ -176,10 +176,12 @@ Directly from French.
 
 ## Science and technology
 
-|bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
 |boosˤa|بوصة|_pouce_|inch|[AD,113]
 |grām|جرام|_gramme_|gram|[AD,152]
 |sˤanti|صنتي|_centimètre_|centimetre|[AD,434]
+|tˤun|طن|_tonne_|ton|[AD,548]
+
+|bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
 |baij|بيج|_beige_|beige|[AD,115]
 |tirikwāz|تركواز|_turquoise_|turquoise|[AD,126]
 |termometr|ترمومتر|_thermomètre_|thermometer|[AD,127]
