@@ -101,7 +101,7 @@ Directly from French.
 |karnéh|كرنيه|_carnet_|ID card|
 |kart|كارت|_carte_|card|[AD,741]
 |gornān|جرنان|_journal_|newspaper|[AD,157]
-|éklasair|اكلاسير|_classeur_|file/binder|
+|klaséer|كلاسير|_classeur_|file/binder|[AD,759]
 |duséh|دوسيه|_dossier_|folder, dossier|[AD,289]
 |arshīf|ارشيف|_archive_|archive|[AD,14]
 |basbōr|باسبور|_passeport_|passport|[AD,73]
