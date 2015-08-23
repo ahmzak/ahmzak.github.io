@@ -69,7 +69,7 @@ Directly from French.
 |sˤālah|صالة|_salle_|hall|
 |sˤalōn|صالون|_salon_|living room|
 |antréh|أنتريه|_entrée_|living room furniture|[AD,40]
-|telivizyōn|تلڤزيون|_télévision_|television|
+|telivizyōn|تلڤزيون|_télévision_|television|[AD,135]
 |fīsha|فيشة|_fiche_|plug|
 |butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
