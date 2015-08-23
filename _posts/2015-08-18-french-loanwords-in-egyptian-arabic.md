@@ -28,7 +28,7 @@ meta:
 
 Directly from French.
 
-## Fashion and beauty (?? words)
+## Beauty and fashion (?? words)
 
 |modˤa|موضة|_mode_|fashion, trend|
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false)]
@@ -55,7 +55,7 @@ Directly from French.
 |gwanti|جوانتي|_gant_|gloves|
 |fanella|فانله|_flanelle_|undershirt|
 |mayōh|مايوه|_maillot (de bain)_|swimsuit|
-|sotiān|ستيان|_soutien-gorge_|bra|
+|sotiān|ستيان|_soutien-gorge_|bra|[AD,399]
 |kolot|كُلُت|_culotte_|underwear|
 |slib|سلِب|_slip_|briefs|
 |kalsōn|كلسون|_caleçon_|boxers|
