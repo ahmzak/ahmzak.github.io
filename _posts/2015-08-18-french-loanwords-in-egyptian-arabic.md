@@ -48,7 +48,7 @@ Directly from French.
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|
 |babyōna|ببيونه|_papillon_|bowtie|[AD,51]
-|bantˤalōn|بنطلون|_pantalon_|pants|
+|bantˤalōn|بنطلون|_pantalon_|pants|[AD,107]
 |jībah|جيبة|_jupe_|skirt|
 |short|شورت|_short_|short|
 |rōb|روب|_robe_|robe|
