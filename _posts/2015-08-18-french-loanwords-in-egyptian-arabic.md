@@ -84,7 +84,7 @@ Directly from French.
 |tilifōn|تليفون|_téléphone_|telephone|[AD,135]
 |telivizyōn|تلڤزيون|_télévision_|television|[AD,135]
 |radiu|راديو|_radio_|radio|[AD,333]
-|fīsha|فيشة|_fiche_|plug|
+|fīsha|فيشة|_fiche_|plug|[AD,679]
 |butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
 |tirās|تراس|_terrace_|terrace|[AD,124]
