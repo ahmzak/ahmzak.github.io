@@ -47,6 +47,7 @@ Directly from French.
 |jībah|جيبة|_jupe_|skirt|
 |short|شورت|_short_|short|
 |rōb|روب|_robe_|robe|
+|tayyeer|تايير|_tailleur_|woman's suit|[AD,144]
 |balto|بالطو|_paletot_|coat|[AD,99]
 |jaketta|جاكيت|_jaquette_|jacket|
 |jilé|جيلاي|_gilet_|waistcoast|
