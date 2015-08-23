@@ -98,10 +98,11 @@ Directly from French.
 |bolees]|بوليس|_police_|police|[AD,103]
 |garsōn|جارسون|_garçon_|waiter|[AD,155]
 
-## Transport (10 words)
+## Vehicles and transport (10 words)
 
 |ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
+|garāj|جراج|_garage_|garage|[AD,156]
 |dereksyōn|دركسيون|_direction_|steering wheel|
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|
