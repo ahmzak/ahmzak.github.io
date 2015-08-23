@@ -102,6 +102,10 @@ Directly from French.
 |ʔorg|اورج|_orgue_|electric organ|[AD,13]
 |ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]
 
+## Places 
+
+|stād|ستاد|_stade_|stadium|[AD,18]
+
 ## Social
 
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
