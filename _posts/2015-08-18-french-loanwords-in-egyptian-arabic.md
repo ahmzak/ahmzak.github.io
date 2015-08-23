@@ -57,7 +57,7 @@ Directly from French.
 |jilé|جيلاي|_gilet_|waistcoast|
 |gwanti|جوانتي|_gant_|gloves|
 |fanella|فانله|_flanelle_|undershirt|
-|mayyōh|مايوه|_maillot (de bain)_|swimsuit|
+|mayōh|مايوه|_maillot (de bain)_|swimsuit|
 |sotiān|ستيان|_soutien-gorge_|bra|
 |kolot|كُلُت|_culotte_|underwear|
 |slib|سلِب|_slip_|briefs|
