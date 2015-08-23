@@ -159,6 +159,7 @@ Directly from French.
 |banéh|بانيه|_pané_|breaded|[AD,108]
 |byuréh|بيوريه|_purée_|puréed|[AD, 116]
 |gatōh|جاتوه|_gâteau_|pastry, small cake|[AD,149]
+|sosīs|سوسيس|_saucisse_|sausage|[AD,411]
 
 ## Science and technology
 
