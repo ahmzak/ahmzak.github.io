@@ -133,6 +133,7 @@ Directly from French.
 ## Cuisine
 
 |ananās|أناناس|_ananas_|pineapple|[AD,42]
+|baskawīt|بسكويت|_biscuit_|biscuit, cookie|[AD,76]
 |bitifōr|بتيفور|_petit four_|petit four|[AD,52]
 |bodra|بودرة|_poudre_|powder|[AD,57]
 
