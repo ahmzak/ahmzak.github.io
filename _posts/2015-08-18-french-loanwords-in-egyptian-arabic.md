@@ -67,7 +67,7 @@ Directly from French.
 
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|
-|asˤansair|اصنساير|_ascenseur_|elevator|[[p99](https://books.google.ca/books?id=PIkfAQAAMAAJ&dq=%22on+the+other+hand%2C+we+have+very+recent+arrivals%22&focus=searchwithinvolume&q=ascenseur)]
+|asˤansair|اصنساير|_ascenseur_|elevator|[SR,99]
 |sˤālah|صالة|_salle_|hall|
 |sˤalōn|صالون|_salon_|living room|
 |telivizyōn|تلڤزيون|_télévision_|television|
@@ -115,5 +115,6 @@ Directly from French.
 
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
+- [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
 
 
