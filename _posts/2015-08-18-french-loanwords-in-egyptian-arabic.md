@@ -155,6 +155,10 @@ Directly from French.
 
 |ballōnah|بالونة|_ballon_|balloon|[AD,102]
 
+##Common names
+
+Ginacliz, Port Said (بور),
+
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
