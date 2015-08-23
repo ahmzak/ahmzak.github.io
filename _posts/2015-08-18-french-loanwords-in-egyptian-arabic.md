@@ -120,8 +120,6 @@ Directly from French.
 |ʔorg|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
 
-
-
 ## Places 
 
 |belāj|بلاج|_plage_|beach|[AD,95]
