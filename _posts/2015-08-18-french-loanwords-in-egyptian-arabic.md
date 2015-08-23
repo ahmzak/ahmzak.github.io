@@ -63,7 +63,7 @@ Directly from French.
 |bijama|بيجاما|_pyjama_|pyjamas|
 |sandˤal|صندل|_sandale_|sandal|
 
-## Around the house (18 words)
+## Around the house (21 words)
 
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|
@@ -83,6 +83,8 @@ Directly from French.
 |gornān|جرنان|_journal_|newspaper|
 |éklasair|اكلاسير|_classeur_|file/binder|
 |arshīf|ارشيف|_archive_|archive|[AD,14]
+|astik|أستك|_élastique_|elastic band|
+|astīkah|أستيكة|_élastique_|eraser|[AD,20]
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 
 ## Vehicles (9 words)
