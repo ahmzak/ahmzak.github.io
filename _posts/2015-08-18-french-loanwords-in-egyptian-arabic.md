@@ -68,7 +68,7 @@ Directly from French.
 
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|
-|asˤansair|اصنساير|_ascenseur_|elevator|[SR,99]
+|asˤansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
 |sˤālah|صالة|_salle_|hall|
 |sˤalōn|صالون|_salon_|living room|
 |antréh|أنتريه|_entrée_|living room furniture|[AD,40]
