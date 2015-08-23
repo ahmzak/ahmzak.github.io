@@ -35,6 +35,7 @@ Directly from French.
 |rooj|روج|_rouge_|lipstick|
 |monokīr|مونوكير|_manucure_|manicure|
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
+|rijīm|رجيم|_régime_|diet|[AD,329]
 |barfān|بارفان|_parfum_|perfume|
 |kolonia|كولونيا|_(eau de) cologne_|cologne|
 |ekseswār|اكسسوار|_accessoire_|accesory|[AD,29]
