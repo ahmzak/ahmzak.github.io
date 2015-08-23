@@ -88,6 +88,7 @@ Directly from French.
 |gornān|جرنان|_journal_|newspaper|
 |éklasair|اكلاسير|_classeur_|file/binder|
 |arshīf|ارشيف|_archive_|archive|[AD,14]
+|basbōr|باسبور|_passeport_|passport|[AD,73]
 |astik|أستك|_élastique_|elastic band|
 |astīkah|أستيكة|_élastique_|eraser|[AD,20]
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
