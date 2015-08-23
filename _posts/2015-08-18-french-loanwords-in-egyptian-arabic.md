@@ -96,6 +96,12 @@ Directly from French.
 |baddalah|بدالة|_pédale_|pedal||
 |debreyāj|دبرياج|_débrayage_|clutch||
 
+## Music (?? words)
+
+|obreet|اوبريت|_opérette_|opperetta|[AD,3]|
+
+
+
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 
