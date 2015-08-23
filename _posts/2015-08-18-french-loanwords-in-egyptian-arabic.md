@@ -44,7 +44,7 @@ Directly from French.
 |karavatta|كرڤتة|_cravate_|necktie|
 |babyōna|ببيونه|_papillon_|bowtie|[AD,51]
 |bantˤalōn|بنطلون|_pantalon_|pants|[AD,107]
-|jībah|جيبة|_jupe_|skirt|
+|jībah|جيبة|_jupe_|skirt|[AD,185]
 |short|شورت|_short_|short|
 |rōb|روب|_robe_|robe|
 |tayyeer|تايير|_tailleur_|woman's suit|[AD,144]
