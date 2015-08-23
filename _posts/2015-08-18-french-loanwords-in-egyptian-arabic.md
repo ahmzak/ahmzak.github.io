@@ -152,6 +152,10 @@ Directly from French.
 
 |ballōnah|بالونة|_ballon_|balloon|[AD,102]
 
+## Cinéma
+
+|tetr|تتر|_titre_|credits|[AD, 122]
+
 ##Common names
 
 Ginacliz, Port Said (بور),
