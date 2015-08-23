@@ -99,6 +99,7 @@ Directly from French.
 |astīkah|أستيكة|_élastique_|eraser|[AD,20]
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
+|shanyōr|شنيور|_chignole_|drill|[AD,482]
 
 ## Work and education
 
