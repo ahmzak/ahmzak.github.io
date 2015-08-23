@@ -59,7 +59,7 @@ Directly from French.
 |mayōh|مايوه|_maillot (de bain)_|swimsuit|
 |sotiān|ستيان|_soutien-gorge_|bra|[AD,399]
 |kolot|كُلُت|_culotte_|underwear|
-|slib|سلِب|_slip_|briefs|^[AD,422]
+|slib|سلِب|_slip_|briefs|[AD,422]
 |kalsōn|كلسون|_caleçon_|boxers|
 |kolōn|كولون|_collant_|stockings, pantyhose|
 |bijama|بيجاما|_pyjama_|pyjamas|
