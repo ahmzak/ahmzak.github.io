@@ -102,7 +102,9 @@ Directly from French.
 |ʔorg|اورج|_orgue_|electric organ|[AD,13]| 
 |ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]|
 
+## Social
 
+|orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]|
 
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
