@@ -96,6 +96,7 @@ Directly from French.
 |bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 |bolees]|بوليس|_police_|police|[AD,103]
+|garsōn|جارسون|_garçon_|waiter|[AD,155]
 
 ## Transport (10 words)
 
