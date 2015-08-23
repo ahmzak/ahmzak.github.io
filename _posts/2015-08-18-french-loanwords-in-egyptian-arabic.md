@@ -137,7 +137,7 @@ Directly from French.
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|
 |motōr|موتور|_moteur_|motor|
-|fetees|فتيس|_vitesse_|gear-shift lever|
+|fetees|فتيس|_vitesse_|gear-shift lever|[AD,641]
 |kalax|كلكس|_klaxon_|car horn|
 |baddāl|بدال|_pédale_|pedal|[AD,58]
 |debreyāj|دبرياج|_débrayage_|clutch|[AD,276]
