@@ -165,7 +165,7 @@ Directly from French.
 ## Games
 
 |ballōnah|بالونة|_ballon_|balloon|[AD,102]
-|dām|دام|_damme_|queen (in card games)|[AD,274]
+|dām|دام|_dame_|queen (in card games)|[AD,274]
 
 ## Cinéma
 
