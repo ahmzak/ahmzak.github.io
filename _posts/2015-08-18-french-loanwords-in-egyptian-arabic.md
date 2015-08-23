@@ -82,6 +82,7 @@ Directly from French.
 |karnéh|كرنيه|_carnet_|ID card||
 |gornān|جرنان|_journal_|newspaper||
 |éklasair|اكلاسير|_classeur_|file/binder||
+|arshīf|ارشيف|_archive_|archive|[AD,14]||
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]|
 
 ## Vehicles (9 words)
