@@ -75,7 +75,6 @@ Directly from French.
 |boosˤa|بوصة|_pouce_|inch|
 |fīsha|فيشة|_fiche_|plug|
 |balacona|بلكونة|_balcon_|balcony|
-|bisīn|بيسين|_piscine_|pool|
 |kanaba|كنبة|_canapé_|sofa|
 |twalett|توالت|_toilette_|toilet|
 |banyo|بانيو|_baignoire_|bathtub|
@@ -112,6 +111,7 @@ Directly from French.
 
 ## Places 
 
+|bisīn|بيسين|_piscine_|pool|
 |stād|ستاد|_stade_|stadium|[AD,18]
 
 ## Social
