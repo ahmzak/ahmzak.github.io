@@ -104,7 +104,7 @@ Directly from French.
 |ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
 |garāj|جراج|_garage_|garage|[AD,156]
-|dereksyōn|دركسيون|_direction_|steering wheel|
+|dereksyōn|دركسيون|_direction_|steering wheel|[AD,287]
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|
 |motōr|موتور|_moteur_|motor|
