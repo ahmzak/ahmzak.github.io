@@ -89,12 +89,14 @@ Directly from French.
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
 |tirās|تراس|_terrace_|terrace|[AD,124]
 |kanaba|كنبة|_canapé_|sofa|
-|twalit|تواليت|_toilette_|toilet|[AD,141]
-|sifōn|سيفون|_siphon_|flusher|[AD,416]
-|bidéh|بيديه|_bidet_|bidet|[AD, 60]
-|banyo|بانيو|_baignoire_|bathtub|
-|dosh|دش|_douche_|shower|[AD,289]
 |koverta|كُڤِرتة|_couverture_|blanket|
+|abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
+|bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
+|shanyōr|شنيور|_chignole_|drill|[AD,482]
+
+<br>
+
+|__Office__|
 |karnéh|كرنيه|_carnet_|ID card|
 |gornān|جرنان|_journal_|newspaper|[AD,157]
 |éklasair|اكلاسير|_classeur_|file/binder|
@@ -104,9 +106,16 @@ Directly from French.
 |shīk|شيك|_chèque_|cheque|[AD,490]
 |astik|أستك|_élastique_|elastic band|
 |astīkah|أستيكة|_élastique_|eraser|[AD,20]
-|abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
-|bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
-|shanyōr|شنيور|_chignole_|drill|[AD,482]
+
+<br>
+
+|__Bathroom__|
+|twalit|تواليت|_toilette_|toilet|[AD,141]
+|sifōn|سيفون|_siphon_|flusher|[AD,416]
+|bidéh|بيديه|_bidet_|bidet|[AD, 60]
+|banyo|بانيو|_baignoire_|bathtub|
+|dosh|دش|_douche_|shower|[AD,289]
+|bibbī|بيبي|_pipi_|urine, pee|[AD,51]
 
 ## Work and education
 
@@ -128,7 +137,7 @@ Directly from French.
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|
 |motōr|موتور|_moteur_|motor|
-|fetees|فتيس|_vitesse_|transmission gear|
+|fetees|فتيس|_vitesse_|gear-shift lever|
 |kalax|كلكس|_klaxon_|car horn|
 |baddāl|بدال|_pédale_|pedal|[AD,58]
 |debreyāj|دبرياج|_débrayage_|clutch|[AD,276]
@@ -162,7 +171,6 @@ Directly from French.
 |ʔefféh|افيه|_effet_|joke, quip|[AD,28]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
-|bibbī|بيبي|_pipi_|urine, pee|[AD,51]
 
 ## Cuisine
 
