@@ -123,6 +123,7 @@ Directly from French.
 |onkel|أونكل|_oncle_|uncle|[AD,41]
 |ʔefféh|افيه|_effet_|joke, quip|[AD,28]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
+|bibbī|بيبي|_pipi_|urine, pee|[AD,51]
 
 ## Food
 
