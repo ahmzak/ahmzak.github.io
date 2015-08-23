@@ -47,7 +47,7 @@ Directly from French.
 |bantˤalōn|بنطلون|_pantalon_|pants|[AD,107]
 |jībah|جيبة|_jupe_|skirt|[AD,185]
 |short|شورت|_short_|short|
-|rōb|روب|_robe_|robe|
+|rōb|روب|_robe_|robe|[AD,355]
 |tayyeer|تايير|_tailleur_|woman's suit|[AD,144]
 |balto|بالطو|_paletot_|coat|[AD,99]
 |jaketta|جاكيت|_jaquette_|jacket|
