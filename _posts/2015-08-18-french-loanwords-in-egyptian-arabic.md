@@ -98,6 +98,7 @@ Directly from French.
 
 ## Music (?? words)
 
+|ʔorg|اورج|_orgue_|electric organ|[AD,13]| 
 |ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]|
 
 
