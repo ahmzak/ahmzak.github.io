@@ -44,6 +44,10 @@ Directly from French.
 |kolonia|كولونيا|_(eau de) cologne_|cologne|
 |ekseswār|اكسسوار|_accessoire_|accesory|[AD,29]
 |soliteer|سولتير|_solitaire_|diamond ring|[AD,423]
+
+<br>
+
+|__Clothing__|
 |kasketta|كسكتة|_casquette_|cap|
 |ésharb|إشرب|_écharpe_|hijab|[AD,24]
 |blōza|بلوزة|_blouse_|blouse|
