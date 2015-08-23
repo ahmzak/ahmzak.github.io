@@ -165,6 +165,7 @@ Directly from French.
 |termometr|ترمومتر|_thermomètre_|thermometer|[AD,127]
 |telescōb|تلسكوب|_télescope_|telescope|[AD,134]
 |khartoosh|خرطوش|_cartouche_|cartridge|[AD,247]
+|dinamo|دينامو|_dynamo_|dynamo|[AD,305]
 
 ## Games
 
