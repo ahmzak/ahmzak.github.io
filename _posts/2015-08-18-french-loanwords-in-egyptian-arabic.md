@@ -193,6 +193,7 @@ Directly from French.
 |afīsh|أفيش|_affiche_|poster|[AD,28]
 |doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
 |doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
+|senarist|سنارست|_scénariste_|screenwriter|[AD,435]
 |tetr|تتر|_titre_|credits|[AD, 122]
 
 ## Politics
