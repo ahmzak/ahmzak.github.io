@@ -73,6 +73,7 @@ Directly from French.
 |fīsha|فيشة|_fiche_|plug|
 |butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
+|tirās|تراس|_terrace_|terrace|[AD,124]
 |kanaba|كنبة|_canapé_|sofa|
 |twalit|تواليت|_toilette_|toilet|
 |bidéh|بيديه|_bidet_|bidet|[AD, 60]
