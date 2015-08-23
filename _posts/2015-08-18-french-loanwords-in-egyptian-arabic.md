@@ -78,7 +78,7 @@ Directly from French.
 |boosˤa|بوصة|_pouce_|inch|
 |fīsha|فيشة|_fiche_|plug|
 |butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
-|balacona|بلكونة|_balcon_|balcony|
+|balacona|بلكونة|_balcon_|balcony|[AD,100]
 |kanaba|كنبة|_canapé_|sofa|
 |twalett|توالت|_toilette_|toilet|
 |bidéh|بيديه|_bidet_|bidet|[AD, 60]
