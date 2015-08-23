@@ -29,6 +29,7 @@ meta:
 
 
 
+
 Directly from French.
 
 ## Fashion and beauty (28 words)
@@ -62,7 +63,7 @@ Directly from French.
 |bijama|بيجاما|_pyjama_|pyjamas||
 |sandˤal|صندل|_sandale_|sandal||
 
-## Around the house (17 words)
+## Around the house (18 words)
 
 |mobilia|موبيليا|_mobilier_|furniture||
 |dikōr|ديكور|_décor_|decoration||
@@ -81,6 +82,7 @@ Directly from French.
 |karnéh|كرنيه|_carnet_|ID card||
 |gornān|جرنان|_journal_|newspaper||
 |éklasair|اكلاسير|_classeur_|file/binder||
+|abajōra|اباجورة|_abat-jour_|lampshade||
 
 ## Vehicles (9 words)
 
@@ -93,3 +95,8 @@ Directly from French.
 |kalax|كلكس|_klaxon_|car horn||
 |baddalah|بدالة|_pédale_|pedal||
 |debreyāj|دبرياج|_débrayage_|clutch||
+
+#Sources
+- [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
+
+
