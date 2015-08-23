@@ -113,6 +113,7 @@ Directly from French.
 ## Social
 
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
+|ʔefféh|افيه|_effet_|joke, quip|[AD,28]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 
 ## Sources
