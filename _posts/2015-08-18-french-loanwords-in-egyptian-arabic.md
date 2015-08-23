@@ -73,6 +73,7 @@ Directly from French.
 |antréh|أنتريه|_entrée_|living room furniture|[AD,40]
 |tilifōn|تليفون|_téléphone_|telephone|[AD,135]
 |telivizyōn|تلڤزيون|_télévision_|television|[AD,135]
+|radiu|راديو|_radio_|radio|[AD,333]
 |fīsha|فيشة|_fiche_|plug|
 |butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
