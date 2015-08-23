@@ -46,6 +46,7 @@ Directly from French.
 |ésharb|إشرب|_écharpe_|hijab|[AD,24]
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|
+|babyōna|ببيونه|_papillon_|bowtie|[AD,51]
 |bantˤalōn|بنطلون|_pantalon_|pants|
 |jībah|جيبة|_jupe_|skirt|
 |short|شورت|_short_|short|
