@@ -64,13 +64,14 @@ Directly from French.
 |bijama|بيجاما|_pyjama_|pyjamas|
 |sandˤal|صندل|_sandale_|sandal|
 
-## Around the house (21 words)
+## Around the house (22 words)
 
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|
 |asˤansair|اصنساير|_ascenseur_|elevator|[SR,99]
 |sˤālah|صالة|_salle_|hall|
 |sˤalōn|صالون|_salon_|living room|
+|antréh|أنتريه|_entrée_|living room furniture|[AD,40]
 |telivizyōn|تلڤزيون|_télévision_|television|
 |boosˤa|بوصة|_pouce_|inch|
 |fīsha|فيشة|_fiche_|plug|
