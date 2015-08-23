@@ -169,10 +169,11 @@ Directly from French.
 |dinamo|دينامو|_dynamo_|dynamo|[AD,305]
 |dinamīt|ديناميت|_dynamite_|[AD,305]
 
-## Games
+## Games and sports
 
 |ballōnah|بالونة|_ballon_|balloon|[AD,102]
 |dām|دام|_dame_|queen (in card games)|[AD,274]
+|rakit|راكيت|_raquette_|racquet|[AD,319]
 
 ## Cinéma
 
