@@ -41,6 +41,7 @@ Directly from French.
 |barfān|بارفان|_parfum_|perfume|
 |kolonia|كولونيا|_(eau de) cologne_|cologne|
 |ekseswār|اكسسوار|_accessoire_|accesory|[AD,29]
+|soliteer|سولتير|_solitaire_|solitaire, diamond ring|[AD,423]
 |kasketta|كسكتة|_casquette_|cap|
 |ésharb|إشرب|_écharpe_|hijab|[AD,24]
 |blōza|بلوزة|_blouse_|blouse|
