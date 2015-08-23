@@ -48,7 +48,7 @@ Directly from French.
 <br>
 
 |__Clothing__|
-|kasketta|كسكتة|_casquette_|cap|
+|kasketta|كسكتة|_casquette_|cap|[AD,751]
 |ésharb|إشرب|_écharpe_|hijab|[AD,24]
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|
