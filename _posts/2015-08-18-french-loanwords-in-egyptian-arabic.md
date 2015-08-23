@@ -114,8 +114,13 @@ Directly from French.
 ## Music (?? words)
 
 |bimōl|بيمول|_bémol_|flat (music)|[AD,104]
-|ʔorg|اورج|_orgue_|electric organ|[AD,13]
 |ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]
+
+### Instruments
+|ʔorg|اورج|_orgue_|electric organ|[AD,13]
+|gitār|جيتار|_guitar_|guitar|[AD,148]
+
+
 
 ## Places 
 
