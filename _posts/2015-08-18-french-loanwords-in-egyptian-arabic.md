@@ -110,6 +110,7 @@ Directly from French.
 <br>
 
 |__Bathroom__|
+|kabinéeh|كابينيه|_cabinet_|lavatory, toilet|[AD,733]
 |twalit|تواليت|_toilette_|toilet|[AD,141]
 |sifōn|سيفون|_siphon_|flusher|[AD,416]
 |bidéh|بيديه|_bidet_|bidet|[AD, 60]
