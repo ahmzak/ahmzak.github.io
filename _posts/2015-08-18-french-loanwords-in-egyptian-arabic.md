@@ -151,7 +151,7 @@ Directly from French.
 |byuréh|بيوريه|_purée_|puréed|[AD, 116]
 |gatōh|جاتوه|_gâteau_|pastry, small cake|[AD,149]
 
-## Science
+## Science and technology
 
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
 |boosˤa|بوصة|_pouce_|inch|[AD,113]
@@ -160,6 +160,7 @@ Directly from French.
 |tirikwāz|تركواز|_turquoise_|turquoise|[AD,126]
 |termometr|ترمومتر|_thermomètre_|thermometer|[AD,127]
 |telescōb|تلسكوب|_télescope_|telescope|[AD,134]
+|khartoosh|خرطوش|_cartouche_|cartridge|[AD,247]
 
 ## Games
 
