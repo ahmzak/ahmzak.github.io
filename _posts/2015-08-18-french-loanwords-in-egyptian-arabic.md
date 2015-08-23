@@ -73,7 +73,7 @@ Directly from French.
 |dikōr|ديكور|_décor_|decoration|[AD,299]
 |asˤansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
 |sˤālah|صالة|_salle_|hall|
-|sˤalōn|صالون|_salon_|living room|
+|sˤalōn|صالون|_salon_|living room|[AD,510]
 |antréh|أنتريه|_entrée_|living room furniture|[AD,40]
 |servīs|سرڤيس|_service_|serving platter|[AD,409]
 |tilifōn|تليفون|_téléphone_|telephone|[AD,135]
@@ -112,6 +112,7 @@ Directly from French.
 |garsōn|جارسون|_garçon_|waiter|[AD,155]
 |sekertair|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
+|sˤalōn|صالون|_salon_|hairdresser's establishment|[AD,510]
 
 ## Vehicles and transport (10 words)
 
