@@ -75,7 +75,6 @@ Directly from French.
 |sˤalōn|صالون|_salon_|living room|
 |antréh|أنتريه|_entrée_|living room furniture|[AD,40]
 |telivizyōn|تلڤزيون|_télévision_|television|
-|boosˤa|بوصة|_pouce_|inch|
 |fīsha|فيشة|_fiche_|plug|
 |butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
@@ -150,6 +149,7 @@ Directly from French.
 ## Science
 
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
+|boosˤa|بوصة|_pouce_|inch|[AD,113]
 
 ## Games
 
