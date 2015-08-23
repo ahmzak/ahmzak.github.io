@@ -140,6 +140,7 @@ Directly from French.
 |buftaik|بفتيك|_bifteck_|beefsteak|[AD,89]
 |buffaih|بوفيه|_buffet_|buffet|[AD,89]
 |banéh|بانيه|_pané_|breaded|[AD,108]
+|byuréh|بيوريه|_purée_|puréed|[AD, 116]
 
 ## Science
 
