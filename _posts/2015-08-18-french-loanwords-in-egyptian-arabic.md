@@ -67,7 +67,7 @@ Directly from French.
 |sotiān|ستيان|_soutien_|bra|[AD,399]
 |kolot|كُلُت|_culotte_|underwear|[AD,758]
 |slib|سلِب|_slip_|briefs|[AD,422]
-|kalsōn|كلسون|_caleçon_|boxers|
+|kalsōn|كلسون|_caleçon_|boxers|[AD,759]
 |kolōn|كولون|_collant_|stockings, pantyhose|
 |bijama|بيجاما|_pyjama_|pyjamas|
 |sandˤal|صندل|_sandale_|sandal|
