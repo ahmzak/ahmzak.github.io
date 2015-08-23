@@ -80,6 +80,7 @@ Directly from French.
 |twalit|تواليت|_toilette_|toilet|[AD,141]
 |bidéh|بيديه|_bidet_|bidet|[AD, 60]
 |banyo|بانيو|_baignoire_|bathtub|
+|dosh|دش|_douche_|shower|[AD,289]
 |koverta|كُڤِرتة|_couverture_|blanket|
 |karnéh|كرنيه|_carnet_|ID card|
 |gornān|جرنان|_journal_|newspaper|[AD,157]
