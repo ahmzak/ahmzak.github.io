@@ -133,6 +133,7 @@ Directly from French.
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bisīn|بيسين|_piscine_|pool|
 |stād|ستاد|_stade_|stadium|[AD,18]
+|sirk|سرك|_cirque_|circus|[AD,410]
 
 ## Social
 
