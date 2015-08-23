@@ -86,7 +86,7 @@ Directly from French.
 
 ## Vehicles (9 words)
 
-|ōtobīs|اوتوبيس|_autobus_|bus||
+|ʔotobīs|اوتوبيس|_autobus_|bus||
 |dereksyōn|دركسيون|_direction_|steering wheel||
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug||[[p57](https://books.google.ca/books?id=LfruK29pVl8C&lpg=PA57&dq=%22side%20by%20side%20with%20educated%20literary%20Arabic%22&pg=PA57#v=onepage&q&f=false)]
 |kabboot|كبّوت|_capot_|bonnet/hood||
@@ -98,7 +98,7 @@ Directly from French.
 
 ## Music (?? words)
 
-|obreet|اوبريت|_opérette_|opperetta|[AD,3]|
+|ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]|
 
 
 
