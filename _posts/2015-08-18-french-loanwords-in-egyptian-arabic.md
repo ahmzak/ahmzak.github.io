@@ -270,7 +270,7 @@ Directly from French.
 Ginacliz, Port Said (بور),
 
 ## Sources
-- [AC] = _"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, in _Zeitschrift für Arabische Linguistik_, no28, pp. 36-86, 1994.
+- [AC] = _"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, in _Zeitschrift für Arabische Linguistik_, no.28, pp. 36-86, 1994.
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
 - [PA] = _Perspectives on Arabic Linguistics_, M.Eid & D. Parkinson, 1995.
