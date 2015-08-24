@@ -27,6 +27,7 @@ meta:
 ---
 
 
+
 Directly from French.
 
 ## Beauty and fashion (?? words)
@@ -135,8 +136,9 @@ Directly from French.
 |kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
 |metr|متر|_maître_|head waiter|[AD,810]
 
-## Vehicles and transport (10 words)
+<br>
 
+|__Vehicles__|
 |ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
 |garāj|جراج|_garage_|garage|[AD,156]
