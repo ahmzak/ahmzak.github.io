@@ -132,6 +132,7 @@ Directly from French.
 |sekertair|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
 |kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
+|metr|متر|_maître_|head waiter|[AD,810]
 
 ## Vehicles and transport (10 words)
 
