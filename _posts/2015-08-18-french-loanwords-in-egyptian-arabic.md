@@ -49,6 +49,7 @@ meta:
 |ʔisbadriin|اسبادرين|_espadrille_|???|[AC70]
 |kasketta|كسكتة|_casquette_|cap|[AD,751]
 |ésharb|إشرب|_écharpe_|hijab|[AD,24]
+|bạrbatooz|برباتوز|_barboteuse_|overalls|[AC70]
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|
 |babyōna|ببيونه|_papillon_|bowtie|[AD,51]
