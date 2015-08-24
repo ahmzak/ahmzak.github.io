@@ -41,6 +41,7 @@ meta:
 |séshwār|سشوار|_séchoir_|hair dryer|
 |shīk|شيك|_chic_|stylish, elegant|[AD,490]
 |solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
+|ʔinisyaal|انسيال|_intiales_|i.d. bracelet|[AC70]
 
 <br>
 
