@@ -229,6 +229,7 @@ meta:
 |shambanya|شامبانيا|_champagne_|champagne|[AD,477]
 |komboot|كمبوت|_compote_|compote|[AD,763]
 |lōj|لوج|_loge_|cinema/theater box|[AD,803]
+|sikk|سك|_sec_|dry, straight (of alcoholic drinks)|[AC73]
 
 ## Science and technology
 
