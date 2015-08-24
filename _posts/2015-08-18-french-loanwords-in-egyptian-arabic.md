@@ -152,7 +152,7 @@ Directly from French.
 |kalax|كلكس|_klaxon_|car horn|[AD,760]
 |motōr|موتور|_moteur_|motor|[AD,811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD,811]
-|shakmān|شكمان|_échappement_|exhaust pipe|[AD,474][SL,138]
+|shakmān|شكمان|_échappement_|exhaust pipe|[SL,138][AD,474]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
 
 ## Music (?? words)
