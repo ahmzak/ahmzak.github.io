@@ -92,6 +92,7 @@ meta:
 |bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
 |shanyōr|شنيور|_chignole_|drill|[AD,482]
 |kartōn|كارتون|_carton_|cardboard|[AD,741]
+|panuuh, bannuuh|بانوه|_panneau_|panel with moulded decorations|[AC41][AD107]
 
 <br>
 
