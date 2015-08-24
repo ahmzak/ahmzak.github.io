@@ -134,11 +134,11 @@ Directly from French.
 
 |__Profession__|
 |bolees|بوليس|_police_|police|[AD,103]
-|shéef|شيف|_chéf_|chef, head cook|
 |garsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
 |kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
 |sekertair|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
+|shéef|شيف|_chéf_|chef, head cook|
 |shoféer|شوفير|_chauffeur_|driver|[TA,182]
 |metr|متر|_maître_|head waiter|[AD,810]
 
