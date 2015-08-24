@@ -127,6 +127,7 @@ Directly from French.
 |__Education__|
 |bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
 |diblōm|دبلوم|_diplôme_|diploma|[AD,278]
+|doktorāh|دكتوراه|_doctorat_|[AD,297]
 |lissans|ليسانس|_licence_|degree|[AD,788]
 |majistéer|ماجستير|_magistère_|master's degree|[AD,811]
 
@@ -134,6 +135,7 @@ Directly from French.
 
 |__Profession__|
 |bolīs|بوليس|_police_|police|[AD,103]
+|doktōr|دكتور|_docteur_|doctor|[AD,297]
 |garsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
 |kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
 |sekertéer|سكرتير|_secrétaire_|secretary|[AD,420]
