@@ -207,6 +207,7 @@ meta:
 |pristiij, bristiij|برستيج|_prestige_|prestige|[AC41]
 |tiip, tiib|تيب|_type_|type, distinct character|[AC42]
 |misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
+|ʔiksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
 
 ## Cuisine
 
