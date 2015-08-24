@@ -122,19 +122,30 @@ Directly from French.
 |dosh|دش|_douche_|shower|[AD,289]
 |bibbī|بيبي|_pipi_|urine, pee|[AD,51]
 
-## Work and education
+<br>
 
+|__Education__|
 |bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
 |diblōm|دبلوم|_diplôme_|diploma|[AD,278]
 |lissans|ليسانس|_licence_|degree|[AD,788]
 |majistéer|ماجستير|_magistère_|master's degree|[AD,811]
-|ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
+
+<br>
+
+|__Profession__|
 |bolees|بوليس|_police_|police|[AD,103]
-|garsōn|جارسون|_garçon_|waiter|[AD,155]
+|garsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
+|kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
 |sekertair|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
-|kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
+|shoféer|شوفير|_chauffeur_|driver|[TA,182]
 |metr|متر|_maître_|head waiter|[AD,810]
+
+
+<br>
+
+|ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
+
 
 <br>
 
@@ -155,7 +166,7 @@ Directly from French.
 |shakmān|شكمان|_échappement_|exhaust pipe|[SL,138][AD,474]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
 
-## Music (?? words)
+## Music(?? words)
 
 |bimōl|بيمول|_bémol_|flat|[AD,104]
 |diéz|دييز|_dièse_|sharp|[AD,317]
@@ -264,3 +275,4 @@ Ginacliz, Port Said (بور),
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
 - [SL] = _Standard Languages: Spoken and Written_, W.Haas, 1982.
 - [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
+- [TA] = _Terms of Address_, F. Braun, 1988.
