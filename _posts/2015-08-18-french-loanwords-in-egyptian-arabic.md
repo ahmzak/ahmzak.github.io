@@ -200,6 +200,7 @@ Directly from French.
 
 |__Measurements__|
 |boosˤa|بوصة|_pouce_|inch|[AD,113]
+|kīlo|كيلو|_kilo_|kilogram, kilometre|[AD,774]
 |grām|جرام|_gramme_|gram|[AD,152]
 |sˤanti|صنتي|_centimètre_|centimetre|[AD,434]
 |tˤun|طن|_tonne_|ton|[AD,548]
