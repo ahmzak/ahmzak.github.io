@@ -199,6 +199,7 @@ meta:
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
 |pạạpi|بابي|_papi_|dad, used by upper-class females|[AC41]
+|pạrdoon, bạrdoon|بردون|_pardon_|sorry|[AC41]
 
 ## Cuisine
 
