@@ -133,10 +133,10 @@ Directly from French.
 <br>
 
 |__Profession__|
-|bolees|بوليس|_police_|police|[AD,103]
+|bolīs|بوليس|_police_|police|[AD,103]
 |garsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
 |kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
-|sekertair|سكرتير|_secrétaire_|secretary|[AD,420]
+|sekertéer|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
 |shéef|شيف|_chéf_|chef, head cook|
 |shoféer|شوفير|_chauffeur_|driver|[TA,182]
