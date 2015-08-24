@@ -125,7 +125,8 @@ Directly from French.
 
 |bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
 |diblōm|دبلوم|_diplôme_|diploma|[AD,278]
-|lissans|ليسانس|_licence_|degree|[AD,788] 
+|lissans|ليسانس|_licence_|degree|[AD,788]
+|majistéer|ماجستير|_magistère_|master's degree|[AD,811]
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 |bolees|بوليس|_police_|police|[AD,103]
 |garsōn|جارسون|_garçon_|waiter|[AD,155]
