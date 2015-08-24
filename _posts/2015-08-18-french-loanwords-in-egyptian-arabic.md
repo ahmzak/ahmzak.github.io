@@ -143,7 +143,7 @@ Directly from French.
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
 |garāj|جراج|_garage_|garage|[AD,156]
 |dereksyōn|دركسيون|_direction_|steering wheel|[AD,287]
-|bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
+|bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57][AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|[AD,730]
 |motōr|موتور|_moteur_|motor|[AD,811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD,811]
