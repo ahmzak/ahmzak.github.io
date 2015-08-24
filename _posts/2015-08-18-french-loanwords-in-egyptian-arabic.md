@@ -180,7 +180,7 @@ meta:
 ## Places 
 
 |belāj|بلاج|_plage_|beach|[AD,95]
-|bisīn|بيسين|_piscine_|pool|
+|pisiin, bisiin|بيسين|_piscine_|pool|[AC41]
 |kabaraih|كباريه|_cabaret_|nightclub
 |patinaaj, batinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
 |sˤalōn|صالون|_salon_|hairdresser's establishment|[AD,510]
