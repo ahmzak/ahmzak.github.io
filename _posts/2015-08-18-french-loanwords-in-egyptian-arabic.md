@@ -117,7 +117,7 @@ meta:
 |bidéh|بيديه|_bidet_|bidet|[AD, 60]
 |banyo|بانيو|_baignoire_|bathtub|
 |dosh|دش|_douche_|shower|[AD,289]
-|bibbī|بيبي|_pipi_|urine, pee|[AD,51]
+|pippiih, bibbiih|بيبيه|_pipi_|urine, pee|[AC42][AD51]
 
 <br>
 
@@ -201,6 +201,7 @@ meta:
 |pạạpi|بابي|_papi_|dad, used by upper-class females|[AC41]
 |pạrdoon, bạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
 |pristiij, bristiij|برستيج|_prestige_|prestige|[AC41]
+|tiip, tiib|تيب|_type_|type, distinct character|[AC42]
 
 ## Cuisine
 
