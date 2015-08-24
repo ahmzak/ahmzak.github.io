@@ -30,21 +30,18 @@ meta:
 
 Directly from French.
 
-## Beauty and fashion (?? words)
-
-|modˤa|موضة|_mode_|fashion, trend|
-|shīk|شيك|_chic_|stylish, elegant|[AD,490]
-|makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false), [AD,830]
-|rooj|روج|_rouge_|lipstick|[AD,355]
-|monokīr|مونوكير|_manucure_|manicure|
+|__Fashion__|
+|ʔikseswār|اكسسوار|_accessoire_|accesory|[AD,29]
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
-|rijīm|رجيم|_régime_|diet|[AD,329]
-|séshwār|سشوار|_séchoir_|(hair) dryer|
-|istishwār|استشوار|
 |barfān|بارفان|_parfum_|perfume|
 |kolonia|كولونيا|_cologne_|cologne|
-|ekseswār|اكسسوار|_accessoire_|accesory|[AD,29]
-|soliteer|سولتير|_solitaire_|diamond ring|[AD,423]
+|makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false), [AD,830]
+|monokīr|مونوكير|_manucure_|manicure|
+|rijīm|رجيم|_régime_|diet|[AD,329]
+|rooj|روج|_rouge_|lipstick|[AD,355]
+|séshwār|سشوار|_séchoir_|(hair) dryer|
+|shīk|شيك|_chic_|stylish, elegant|[AD,490]
+|solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
 
 <br>
 
