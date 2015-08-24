@@ -63,7 +63,7 @@ Directly from French.
 |jilé|جيلاي|_gilet_|waistcoast|
 |gwanti|جوانتي|_gant_|gloves|
 |fanella|فانله|_flanelle_|undershirt|
-|mayōh|مايوه|_maillot_|swimsuit|
+|mayōh|مايوه|_maillot_|swimsuit|[AD,842]
 |sotiān|ستيان|_soutien_|bra|[AD,399]
 |kolot|كُلُت|_culotte_|underwear|[AD,758]
 |slib|سلِب|_slip_|briefs|[AD,422]
