@@ -198,7 +198,7 @@ Directly from French.
 
 ## Science and technology
 
-|__Measurements__|
+|__Units__|
 |boosˤa|بوصة|_pouce_|inch|[AD,113]
 |kīlo|كيلو|_kilo_|kilogram, kilometre|[AD,774]
 |grām|جرام|_gramme_|gram|[AD,152]
