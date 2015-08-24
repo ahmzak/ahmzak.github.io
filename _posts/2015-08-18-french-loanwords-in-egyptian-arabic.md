@@ -33,7 +33,7 @@ meta:
 |__Fashion__|
 |ʔikseswār|اكسسوار|_accessoire_|accesory|[AD,29]
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
-|barfān|بارفان|_parfum_|perfume|[AC,41]
+|pạrfaan, bạrfaan|برفان|_parfum_|perfume|[AC41]
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
 |monokīr|مونوكير|_manucure_|manicure|
 |rijīm|رجيم|_régime_|diet|[AD,329]
