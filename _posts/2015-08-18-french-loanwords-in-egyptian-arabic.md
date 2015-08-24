@@ -89,7 +89,7 @@ Directly from French.
 |butagāz|بتاجاز|_Butagaz_|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
 |tirās|تراس|_terrace_|terrace|[AD,124]
-|kanaba|كنبة|_canapé_|sofa|
+|kanaba|كنبة|_canapé_|sofa|[AD,766]
 |koverta|كُڤِرتة|_couverture_|blanket|
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
