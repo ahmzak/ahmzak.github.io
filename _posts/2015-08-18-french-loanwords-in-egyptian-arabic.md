@@ -142,7 +142,7 @@ Directly from French.
 |dereksyōn|دركسيون|_direction_|steering wheel|[AD,287]
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|[AD,730]
-|motōr|موتور|_moteur_|motor|
+|motōr|موتور|_moteur_|motor|[AD,811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD,811]
 |fetees|فتيس|_vitesse_|gear-shift lever|[AD,641]
 |kalax|كلكس|_klaxon_|car horn|[AD,760]
