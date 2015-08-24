@@ -200,6 +200,7 @@ meta:
 |tīb|تيب|_type_|type, distinct character|[AD,142]
 |pạạpi|بابي|_papi_|dad, used by upper-class females|[AC41]
 |pạrdoon, bạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
+|pristiij, bristiij|برستيج|_prestige_|prestige|[AC41]
 
 ## Cuisine
 
