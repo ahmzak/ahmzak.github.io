@@ -127,8 +127,8 @@ Directly from French.
 |__Education__|
 |bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
 |diblōm|دبلوم|_diplôme_|diploma|[AD,278]
-|doktorāh|دكتوراه|_doctorat_|[AD,297]
-|lissans|ليسانس|_licence_|degree|[AD,788]
+|doktorāh|دكتوراه|_doctorat_|doctorate|[AD,297]
+|lissans|ليسانس|_licence_|degree, usu. Arts|[AD,788]
 |majistéer|ماجستير|_magistère_|master's degree|[AD,811]
 
 <br>
