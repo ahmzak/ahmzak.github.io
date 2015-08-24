@@ -211,6 +211,7 @@ Directly from French.
 |metr|متر|_mètre_|metre|[AD,810]
 |sˤanti|صنتي|_centimètre_|centimetre|[AD,434]
 |tˤun|طن|_tonne_|ton|[AD,548]
+|milli|ملّي|_millimètre_|millimetre|[AD,833]
 
 <br>
 
