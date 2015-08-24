@@ -139,20 +139,21 @@ Directly from French.
 <br>
 
 |__Vehicles__|
+
+|ʔambaléh|أمبليه|_emballer_|revving the engine|[AD,35]
 |ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
-|tranzīt|ترانزيت|_transit_|transit|[AD,128]
-|garāj|جراج|_garage_|garage|[AD,156]
-|dereksyōn|دركسيون|_direction_|steering wheel|[AD,287]
+|baddāl|بدال|_pédale_|pedal|[AD,58]
 |bujéh|بوجيه|_bougie_|spark plug|[CS,57][AD,53]
+|debreyāj|دبرياج|_débrayage_|clutch|[AD,276]
+|dereksyōn|دركسيون|_direction_|steering wheel|[AD,287]
+|fetees|فتيس|_vitesse_|gear-shift lever|[AD,641]
+|garāj|جراج|_garage_|garage|[AD,156]
 |kabboot|كبّوت|_capot_|bonnet/hood|[AD,730]
+|kalax|كلكس|_klaxon_|car horn|[AD,760]
 |motōr|موتور|_moteur_|motor|[AD,811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD,811]
-|fetees|فتيس|_vitesse_|gear-shift lever|[AD,641]
-|kalax|كلكس|_klaxon_|car horn|[AD,760]
-|baddāl|بدال|_pédale_|pedal|[AD,58]
-|debreyāj|دبرياج|_débrayage_|clutch|[AD,276]
 |shakmān|شكمان|_échappement_|exhaust pipe|[AD,474]
-|ʔambaléh|أمبليه|_emballer_|revving the engine|[AD,35]
+|tranzīt|ترانزيت|_transit_|transit|[AD,128]
 
 ## Music (?? words)
 
