@@ -152,7 +152,7 @@ Directly from French.
 |kalax|كلكس|_klaxon_|car horn|[AD,760]
 |motōr|موتور|_moteur_|motor|[AD,811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD,811]
-|shakmān|شكمان|_échappement_|exhaust pipe|[AD,474]
+|shakmān|شكمان|_échappement_|exhaust pipe|[AD,474][SL,138]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
 
 ## Music (?? words)
@@ -262,4 +262,5 @@ Ginacliz, Port Said (بور),
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
+- [SL] = _Standard Languages: Spoken and Written_, W.Haas, 1982.
 - [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
