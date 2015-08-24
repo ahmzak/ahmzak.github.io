@@ -206,7 +206,7 @@ meta:
 |ʔefféh|افيه|_effet_|joke, quip|[AD,28]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
-|pạạpi|بابي|_papi_|dad, used by upper-class females|[AC41]
+|pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
 |pạrdoon, bạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
 |pristiij, bristiij|برستيج|_prestige_|prestige|[AC41]
 |tiip, tiib|تيب|_type_|type, distinct character|[AC42]
