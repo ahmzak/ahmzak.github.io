@@ -45,6 +45,7 @@ meta:
 <br>
 
 |__Clothing__|
+|ʔisbadriin|اسبادرين|_espadrille_|???|[AC70]
 |kasketta|كسكتة|_casquette_|cap|[AD,751]
 |ésharb|إشرب|_écharpe_|hijab|[AD,24]
 |blōza|بلوزة|_blouse_|blouse|
