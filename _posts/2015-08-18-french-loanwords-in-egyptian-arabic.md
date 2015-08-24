@@ -35,7 +35,7 @@ Directly from French.
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
 |barfān|بارفان|_parfum_|perfume|
 |kolonia|كولونيا|_cologne_|cologne|
-|makiāj|مكياج|_maquillage_|makeup, cosmetics|[[p81](https://books.google.ca/books?id=zYWQRz8EYJ0C&lpg=PP1&pg=PP6#v=onepage&q=maquillage&f=false), [AD,830]
+|makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
 |monokīr|مونوكير|_manucure_|manicure|
 |rijīm|رجيم|_régime_|diet|[AD,329]
 |rooj|روج|_rouge_|lipstick|[AD,355]
@@ -273,6 +273,7 @@ Ginacliz, Port Said (بور),
 ## Sources
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
+- [PA] = _Perspectives on Arabic Linguistics_, M.Eid & D. Parkinson, 1995.
 - [SL] = _Standard Languages: Spoken and Written_, W.Haas, 1982.
 - [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
 - [TA] = _Terms of Address_, F. Braun, 1988.
