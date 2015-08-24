@@ -274,6 +274,7 @@ Ginacliz, Port Said (بور),
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
 - [PA] = _Perspectives on Arabic Linguistics_, M.Eid & D. Parkinson, 1995.
+- [PM] = _"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_, O.Hafez no.27-28, pp. 383-410, 1996.
 - [SL] = _Standard Languages: Spoken and Written_, W.Haas, 1982.
 - [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
 - [TA] = _Terms of Address_, F. Braun, 1988.
