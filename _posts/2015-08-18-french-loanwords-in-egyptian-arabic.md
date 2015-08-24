@@ -41,7 +41,7 @@ Directly from French.
 |séshwār|سشوار|_séchoir_|(hair) dryer|
 |istishwār|استشوار|
 |barfān|بارفان|_parfum_|perfume|
-|kolonia|كولونيا|_(eau de) cologne_|cologne|
+|kolonia|كولونيا|_cologne_|cologne|
 |ekseswār|اكسسوار|_accessoire_|accesory|[AD,29]
 |soliteer|سولتير|_solitaire_|diamond ring|[AD,423]
 
@@ -63,7 +63,7 @@ Directly from French.
 |jilé|جيلاي|_gilet_|waistcoast|
 |gwanti|جوانتي|_gant_|gloves|
 |fanella|فانله|_flanelle_|undershirt|
-|mayōh|مايوه|_maillot (de bain)_|swimsuit|
+|mayōh|مايوه|_maillot_|swimsuit|
 |sotiān|ستيان|_soutien_|bra|[AD,399]
 |kolot|كُلُت|_culotte_|underwear|[AD,758]
 |slib|سلِب|_slip_|briefs|[AD,422]
@@ -85,7 +85,7 @@ Directly from French.
 |telivizyōn|تلڤزيون|_télévision_|television|[AD,135]
 |radiu|راديو|_radio_|radio|[AD,333]
 |fīsha|فيشة|_fiche_|plug|[AD,679]
-|butagāz|بتاجاز|Butagaz|cooking stove|[AD,52]
+|butagāz|بتاجاز|_Butagaz_|cooking stove|[AD,52]
 |balacona|بلكونة|_balcon_|balcony|[AD,100]
 |tirās|تراس|_terrace_|terrace|[AD,124]
 |kanaba|كنبة|_canapé_|sofa|
