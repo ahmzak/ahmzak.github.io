@@ -28,7 +28,7 @@ meta:
 
 
 
-Directly from French.
+* note on the phoneme /p/ in Egypt
 
 |__Fashion__|
 |ʔikseswār|اكسسوار|_accessoire_|accesory|[AD,29]
