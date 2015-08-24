@@ -130,7 +130,7 @@ Directly from French.
 |garsōn|جارسون|_garçon_|waiter|[AD,155]
 |sekertair|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
-|sˤalōn|صالون|_salon_|hairdresser's establishment|[AD,510]
+|kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
 
 ## Vehicles and transport (10 words)
 
@@ -164,6 +164,7 @@ Directly from French.
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bisīn|بيسين|_piscine_|pool|
 |kabaraih|كباريه|_cabaret_|nightclub
+|sˤalōn|صالون|_salon_|hairdresser's establishment|[AD,510]
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
 |shalaih|شاليه|_chalet_|chalet|[AD,477]
