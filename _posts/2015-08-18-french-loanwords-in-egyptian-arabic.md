@@ -186,6 +186,7 @@ meta:
 ## Places 
 
 |belāj|بلاج|_plage_|beach|[AD,95]
+|bist|بست|_piste_|dance floor|[AC70]
 |pisiin, bisiin|بيسين|_piscine_|pool|[AC41]
 |kabaraih|كباريه|_cabaret_|nightclub
 |patinaaj, batinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
