@@ -39,7 +39,7 @@ Directly from French.
 |monokīr|مونوكير|_manucure_|manicure|
 |rijīm|رجيم|_régime_|diet|[AD,329]
 |rooj|روج|_rouge_|lipstick|[AD,355]
-|séshwār|سشوار|_séchoir_|(hair) dryer|
+|séshwār|سشوار|_séchoir_|hair dryer|
 |shīk|شيك|_chic_|stylish, elegant|[AD,490]
 |solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
 
