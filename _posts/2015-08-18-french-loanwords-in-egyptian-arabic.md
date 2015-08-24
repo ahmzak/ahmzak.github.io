@@ -231,6 +231,7 @@ Directly from French.
 |doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
 |senarist|سنارست|_scénariste_|screenwriter|[AD,435]
 |tetr|تتر|_titre_|credits|[AD, 122]
+|kumbars|كمبارس|_comparse_|extra|[AD,763]
 
 ## Politics
 
