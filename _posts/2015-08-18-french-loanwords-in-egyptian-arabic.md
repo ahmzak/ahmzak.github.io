@@ -143,6 +143,7 @@ Directly from French.
 |bujéh|بوجيه|_bougie (d’allumage)_|spark plug|[CS,57], [AD,53]
 |kabboot|كبّوت|_capot_|bonnet/hood|[AD,730]
 |motōr|موتور|_moteur_|motor|
+|motosikl|موتوسكل|_motocyclette_|motorcycle|[AD,811]
 |fetees|فتيس|_vitesse_|gear-shift lever|[AD,641]
 |kalax|كلكس|_klaxon_|car horn|[AD,760]
 |baddāl|بدال|_pédale_|pedal|[AD,58]
