@@ -196,6 +196,7 @@ Directly from French.
 |sosīs|سوسيس|_saucisse_|sausage|[AD,411]
 |shambanya|شامبانيا|_champagne_|champagne|[AD,477]
 |komboot|كمبوت|_compote_|compote|[AD,763]
+|lōj|لوج|_loge_|cinema/theater box|[AD,803]
 
 ## Science and technology
 
