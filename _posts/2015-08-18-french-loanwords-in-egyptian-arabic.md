@@ -182,7 +182,7 @@ meta:
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bisīn|بيسين|_piscine_|pool|
 |kabaraih|كباريه|_cabaret_|nightclub
-|patinaaj|باتيناج|_patinage_|skating, skating-rink|[AC,41][AD,53]
+|patinaaj, batinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
 |sˤalōn|صالون|_salon_|hairdresser's establishment|[AD,510]
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
