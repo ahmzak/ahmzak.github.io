@@ -162,6 +162,7 @@ meta:
 |garāj|جراج|_garage_|garage|[AD,156]
 |kabboot|كبّوت|_capot_|bonnet/hood|[AD,730]
 |kalax|كلكس|_klaxon_|car horn|[AD,760]
+|kawitsh|كاوتش|_caoutchouc_|car tires|[AC55]
 |motōr|موتور|_moteur_|motor|[AD,811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD,811]
 |shakmān|شكمان|_échappement_|exhaust pipe|[SL,138][AD,474]
