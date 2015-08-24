@@ -33,7 +33,7 @@ Directly from French.
 |__Fashion__|
 |ʔikseswār|اكسسوار|_accessoire_|accesory|[AD,29]
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
-|barfān|بارفان|_parfum_|perfume|
+|barfān|بارفان|_parfum_|perfume|[AC,41]
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
 |monokīr|مونوكير|_manucure_|manicure|
 |rijīm|رجيم|_régime_|diet|[AD,329]
@@ -270,6 +270,7 @@ Directly from French.
 Ginacliz, Port Said (بور),
 
 ## Sources
+- [AC] = _"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, in _Zeitschrift für Arabische Linguistik_, no28, pp. 36-86, 1994.
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
 - [PA] = _Perspectives on Arabic Linguistics_, M.Eid & D. Parkinson, 1995.
