@@ -69,6 +69,7 @@ Directly from French.
 |slib|سلِب|_slip_|briefs|[AD,422]
 |kalsōn|كلسون|_caleçon_|boxers|[AD,759]
 |kolōn|كولون|_collant_|stockings, pantyhose|[AD,762]
+|kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
 |bijama|بيجاما|_pyjama_|pyjamas|
 |sandˤal|صندل|_sandale_|sandal|
 
