@@ -153,8 +153,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
-|__Vehicles__|
-
+|__Vehicles__|__and__|__transport__|
 |ạmbaléh|أمبليه|_emballer_|revving the engine|[AD,35]
 |otobīs|اوتوبيس|_autobus_|bus|[AD6]
 |baddāl|بدال|_pédale_|pedal|[AD,58]
@@ -171,7 +170,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shakmān|شكمان|_échappement_|exhaust pipe|[SL,138][AD,474]
 |torombīl|ترمبيل|_automobile_|car|[AD6]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
-
 
 <br>
 
