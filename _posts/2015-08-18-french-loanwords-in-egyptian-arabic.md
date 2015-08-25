@@ -175,13 +175,14 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shakmān|شكمان|_échappement_|exhaust pipe|[SL,138][AD,474]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
 
-## Music(?? words)
+<br>
 
+|__Music__|
 |bimōl|بيمول|_bémol_|flat|[AD,104]
 |diéz|دييز|_dièse_|sharp|[AD,317]
 |kobléeh|كوبليه|_couplet_|verse|[AD,733]
-|ʔobreet|اوبريت|_opérette_|opperetta|[AD,3]
-|ʔorg|اورج|_orgue_|electric organ|[AD,13]
+|oprett|اوبريت|_opérette_|operetta|[AD3]
+|org|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
 |disk|ديسك|_disque_|gramophone record|[AD,289]
 |korāl|كورال|_chorale_|choir|[AD,740]
