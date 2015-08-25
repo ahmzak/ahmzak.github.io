@@ -28,19 +28,19 @@ meta:
 
 
 
-
-
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
+
+
 |__Clothing__|
-|ʔisbadriin|اسبادرين|_espadrilles_|???|[AC70]
-|kasketta|كسكتة|_casquette_|cap|[AD,751]
-|ésharb|إشرب|_écharpe_|hijab|[AD,24]
+|ʔisbadrīn|اسبادرين|_espadrilles_|???|[AC70]
+|kasketta|كسكتة|_casquette_|cap|[AD751]
+|éshạrb|إشرب|_écharpe_|hijab|[AD,24]
 |bạrbatooz|برباتوز|_barboteuse_|overalls|[AC70]
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|
 |babyōna|ببيونه|_papillon_|bowtie|[AD,51]
-|bantˤalōn|بنطلون|_pantalon_|pants|[AD,107]
+|bạnṭˤạlōn|بنطلون|_pantalon_|pants|[AD,107]
 |jībah|جيبة|_jupe_|skirt|[AD,185]
 |short|شورت|_short_|short|
 |rōb|روب|_robe_|robe|[AD,355]
@@ -58,7 +58,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kolōn|كولون|_collant_|stockings, pantyhose|[AD,762]
 |kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
 |bijama|بيجاما|_pyjama_|pyjamas|
-|sandˤal|صندل|_sandale_|sandal|
+|sanḍal|صندل|_sandale_|sandal|
 
 <br>
 
@@ -80,8 +80,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|[AD,299]
 |asˤansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
-|sˤālah|صالة|_salle_|hall|
-|sˤalōn|صالون|_salon_|living room|[AD,510]
+|ṣālah|صالة|_salle_|hall|
+|ṣạlōn|صالون|_salon_|living room|[AD,510]
 |antréh|أنتريه|_entrée_|living room furniture|[AD,40]
 |servīs|سرڤيس|_service_|serving platter|[AD,409]
 |tilifōn|تليفون|_téléphone_|telephone|[AD,135]
@@ -192,7 +192,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |pisiin, bisiin|بيسين|_piscine_|pool|[AC41]
 |kabaraih|كباريه|_cabaret_|nightclub
 |patinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
-|sˤalōn|صالون|_salon_|hairdresser's establishment|[AD,510]
+|ṣalōn|صالون|_salon_|hairdresser's establishment|[AD,510]
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
 |shalaih|شاليه|_chalet_|chalet|[AD,477]
@@ -204,7 +204,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bonjoor|بنجور|_bonjour_|hello|[AD,105]
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
 |onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD,41]
-|tˤantˤ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
+|ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
 |ʔefféh|افيه|_effet_|joke, quip|[AD,28]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
@@ -237,13 +237,13 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 ## Science and technology
 
 |__Units__|
-|boosˤa|بوصة|_pouce_|inch|[AD,113]
+|booṣa|بوصة|_pouce_|inch|[AD,113]
 |kīlo|كيلو|_kilo_|kilogram, kilometre|[AD,774]
 |letr|لتر|_litre_|litre|[AD,780]
 |grām|جرام|_gramme_|gram|[AD,152]
 |metr|متر|_mètre_|metre|[AD,810]
-|sˤanti|صنتي|_centimètre_|centimetre|[AD,434]
-|tˤun|طن|_tonne_|ton|[AD,548]
+|ṣanti|صنتي|_centimètre_|centimetre|[AD,434]
+|ṭun|طن|_tonne_|ton|[AD,548]
 |milli|ملّي|_millimètre_|millimetre|[AD,833]
 
 <br>
