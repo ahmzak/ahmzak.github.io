@@ -202,14 +202,16 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shaléeh|شاليه|_chalet_|chalet|[AD,477]
 |ʔoteel|أوتيل|_hôtel_|hotel|[AC69]
 
-## Social
+<br>
 
+|__Social__|
 |alōh|آلوه|_allô_|hello (telephony)|[AD,34]
 |bonjoor|بنجور|_bonjour_|hello|[AD,105]
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
 |onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD,41]
 |ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
-|ʔefféh|افيه|_effet_|joke, quip|[AD,28]
+|ifféeh|افيه|_effet_|joke, quip|[AD,28]
+|itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
 |pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
