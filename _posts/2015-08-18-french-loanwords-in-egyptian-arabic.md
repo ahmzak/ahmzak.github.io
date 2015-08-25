@@ -80,27 +80,27 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Around__|__the__|__house__|
 |abajōra|اباجورة|_abat-jour_|table lamp|[AD3]
 |ạntréh|أنتريه|_entrée_|living room furniture|[AD40]
+|baladōs|بلادوس|_baladeuse_|portable lamp|[AC54]
 |balakōna|بلكونة|_balcon_|balcony|[AD100]
+|bibrōna|ببرونة|_biberon_|baby-bottle|[AC70]
 |bukéeh|بوكيه|_bouquet_|bouquet|[AD95]
 |butagāz|بتجاز|_Butagaz_|cooking stove|[AD52]
 |dikōr|ديكور|_décor_|decoration|[AD299][BM]
-|fīsha|فيشة|_fiche_|plug|[AD,679]
+|fīsha|فيشة|_fiche_|plug|[AD679]
+|kanaba|كنبة|_canapé_|sofa|[AD766]
+|kartōn|كارتون|_carton_|cardboard|[AD741]
+|koverta|كُڤِرتة|_couverture_|blanket|
 |mobilia|موبيليا|_mobilier_|furniture|[BM]
+|mokit|موكيت|_moquette_|wall-to-wall carpet|[AC76]
+|panōh|بانوه|_panneau_|panel with moulded decorations|[AD107]
+|rạdiu|راديو|_radio_|radio|[AD333]
 |ṣālah|صالة|_salle_|hall|
-|ṣạlōn|صالون|_salon_|living room|[AD,510]
-|servīs|سرڤيس|_service_|serving platter|[AD,409]
+|ṣạlōn|صالون|_salon_|living room|[AD510]
+|servīs|سرڤيس|_service_|serving platter|[AD409]
+|shanyōr|شنيور|_chignole_|drill|[AD482]
 |tilifōn|تليفون|_téléphone_|telephone|[AD135][BM]
 |telivizyōn|تلڤزيون|_télévision_|television|[AD135][BM]
-|rạdiu|راديو|_radio_|radio|[AD,333]
-|tirās|تراس|_terrace_|terrace|[AD,124]
-|kanaba|كنبة|_canapé_|sofa|[AD,766]
-|koverta|كُڤِرتة|_couverture_|blanket|
-|shanyōr|شنيور|_chignole_|drill|[AD,482]
-|kartōn|كارتون|_carton_|cardboard|[AD,741]
-|panuuh|بانوه|_panneau_|panel with moulded decorations|[AD107]
-|baladoos|بلادوس|_baladeuse_|portable lamp|[AC54]
-|bibroona|ببرونة|_biberon_|baby-bottle|[AC70]
-|mukitt|موكيت|_moquette_|rug, fitted carpet|[AC76]
+|tirās|تراس|_terrace_|terrace|[AD124]
 
 <br>
 
