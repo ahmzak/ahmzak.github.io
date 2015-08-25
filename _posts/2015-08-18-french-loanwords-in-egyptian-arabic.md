@@ -180,6 +180,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bimōl|بيمول|_bémol_|flat|[AD,104]
 |diéz|دييز|_dièse_|sharp|[AD,317]
 |kobléeh|كوبليه|_couplet_|verse|[AD,733]
+|obwa|أبوا|_hautbois_|oboe|[AD5]
 |oprett|اوبريت|_opérette_|operetta|[AD3]
 |org|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
