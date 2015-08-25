@@ -65,7 +65,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
 |iksiswār|اكسسوار|_accessoire_|accesory|[AD29]
 |pạrfaan|برفان|_parfum_|perfume|[AC41][BM]
-|makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
+|makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA81][AD,830]
 |monokīr|مونوكير|_manucure_|manicure|
 |okaziōn|أوكازيون|_occasion_|sale, bargain|[AD29][BM]
 |rijīm|رجيم|_régime_|diet|[AD,329]
