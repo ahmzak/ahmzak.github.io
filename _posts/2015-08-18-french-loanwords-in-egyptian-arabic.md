@@ -28,7 +28,7 @@ meta:
 
 
 
-* note on the phoneme /p/ in Egypt
+* note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well
 
 |__Fashion__|
 |ʔikseswār|اكسسوار|_accessoire_|accesory|[AD,29]
@@ -189,7 +189,7 @@ meta:
 |bist|بست|_piste_|dance floor|[AC70]
 |pisiin, bisiin|بيسين|_piscine_|pool|[AC41]
 |kabaraih|كباريه|_cabaret_|nightclub
-|patinaaj, batinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
+|patinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
 |sˤalōn|صالون|_salon_|hairdresser's establishment|[AD,510]
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
@@ -207,12 +207,12 @@ meta:
 |sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
 |pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
-|pạrdoon, bạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
-|pristiij, bristiij|برستيج|_prestige_|prestige|[AC41]
-|tiip, tiib|تيب|_type_|type, distinct character|[AC42]
+|pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
+|pristiij|برستيج|_prestige_|prestige|[AC41]
+|tiip|تيب|_type_|type, distinct character|[AC42]
 |misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
 |ʔiksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
-|sampatiik, sambatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
+|sampatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
 
 ## Cuisine
 
