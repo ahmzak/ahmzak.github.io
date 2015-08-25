@@ -32,7 +32,7 @@ meta:
 
 * note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
-|__Fashion__|
+|__Fashion__|__and__|__beauty__|
 |ʔikseswaar|اكسسوار|_accessoire_|accesory|[AD29]
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
 |pạrfaan|برفان|_parfum_|perfume|[AC41]
