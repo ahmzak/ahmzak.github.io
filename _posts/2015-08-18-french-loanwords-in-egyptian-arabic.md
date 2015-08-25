@@ -263,7 +263,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |radār|رادار|_radar_|radar|[AD,332]
 |shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
 |kabl|كبل|_câble_|cable|[AD,733]
-|
 
 <br>
 
