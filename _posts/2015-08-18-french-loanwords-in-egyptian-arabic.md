@@ -212,7 +212,7 @@ meta:
 |tiip, tiib|تيب|_type_|type, distinct character|[AC42]
 |misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
 |ʔiksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
-|sampatiik, sambatiik|_sympathique_|pleasant, agreeable|[AC73]
+|sampatiik, sambatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
 
 ## Cuisine
 
