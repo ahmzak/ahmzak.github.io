@@ -58,7 +58,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kolōn|كولون|_collant_|stockings, pantyhose|[AD,762]
 |kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
 |bijama|بيجاما|_pyjama_|pyjamas|
-|sanḍal|صندل|_sandale_|sandal|
+|ṣanḍal|صندل|_sandale_|sandal|
 
 <br>
 
@@ -81,7 +81,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|[AD,299]
-|asˤansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
+|aṣansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
 |ṣālah|صالة|_salle_|hall|
 |ṣạlōn|صالون|_salon_|living room|[AD,510]
 |antréh|أنتريه|_entrée_|living room furniture|[AD,40]
