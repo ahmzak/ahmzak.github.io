@@ -142,7 +142,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Profession__|
 |bolīs|بوليس|_police_|police|[AD,103]
 |doktōr|دكتور|_docteur_|doctor|[AD,297]
-|garsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
+|gạrsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
 |kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
 |sekertéer|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
@@ -150,17 +150,16 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shoféer|شوفير|_chauffeur_|driver|[TA,182]
 |metr|متر|_maître_|head waiter|[AD,810]
 
-
 <br>
 
-|ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
+|okaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 
 <br>
 
 |__Vehicles__|
 
-|ʔambaléh|أمبليه|_emballer_|revving the engine|[AD,35]
-|ʔotobīs|اوتوبيس|_autobus_|bus|[AD,6]
+|ạmbaléh|أمبليه|_emballer_|revving the engine|[AD,35]
+|otobīs|اوتوبيس|_autobus_|bus|[AD,6]
 |baddāl|بدال|_pédale_|pedal|[AD,58]
 |bujéh|بوجيه|_bougie_|spark plug|[CS,57][AD,53]
 |debreyāj|دبرياج|_débrayage_|clutch|[AD,276]
