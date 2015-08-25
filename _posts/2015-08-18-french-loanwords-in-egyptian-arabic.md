@@ -154,7 +154,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |ʔokaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 
-
 <br>
 
 |__Vehicles__|
@@ -270,7 +269,9 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kạrō|كارو|_carreau_|diamonds (card suit)|
 |kart|كارت|_carte_|playing card|[AD,741]
 |kint|كنت|_quinte_|flush, straight (in cards)|[AC55]
+|pīk|بيك|_pique_|spades (card suit)|
 |trifil|تريفل|_trèfle_|clubs (card suit)|
+
 
 ## Cinéma
 
