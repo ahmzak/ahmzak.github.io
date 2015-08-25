@@ -29,6 +29,7 @@ meta:
 
 
 
+
 * note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Fashion__|
@@ -99,6 +100,7 @@ meta:
 |panuuh, bannuuh|بانوه|_panneau_|panel with moulded decorations|[AD107]
 |baladoos|بلادوس|_baladeuse_|portable lamp|[AC54]
 |bibroona|ببرونة|_biberon_|baby-bottle|[AC70]
+|mukitt|موكيت|_moquette_|rug, fitted carpet|[AC76]
 
 <br>
 
