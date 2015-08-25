@@ -33,7 +33,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 
 |__Clothing__|
-|isbadrīn|اسبادرين|_espadrilles_|???|[AC70]
 |kasketta|كسكتة|_casquette_|cap|[AD751]
 |éshạrb|إشرب|_écharpe_|hijab|[AD24]
 |bạrbatōz|برباتوز|_barboteuse_|overalls|[AC70]
@@ -59,6 +58,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
 |bijama|بيجاما|_pyjama_|pyjamas|
 |ṣanḍal|صندل|_sandale_|sandal|
+|isbadrīn|اسبادرين|_espadrilles_|???|[AC70]
 
 <br>
 
