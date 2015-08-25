@@ -33,7 +33,7 @@ meta:
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Clothing__|
-|ʔisbadriin|اسبادرين|_espadrille_|???|[AC70]
+|ʔisbadriin|اسبادرين|_espadrilles_|???|[AC70]
 |kasketta|كسكتة|_casquette_|cap|[AD,751]
 |ésharb|إشرب|_écharpe_|hijab|[AD,24]
 |bạrbatooz|برباتوز|_barboteuse_|overalls|[AC70]
