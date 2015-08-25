@@ -44,8 +44,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |jībah|جيبة|_jupe_|skirt|[AD,185]
 |short|شورت|_short_|short|
 |rōb|روب|_robe_|robe|[AD,355]
-|tayyeer|تايير|_tailleur_|woman's suit|[AD,144]
-|balto|بالطو|_paletot_|coat|[AD,99]
+|tayéer|تايير|_tailleur_|woman's suit|[AD,144]
+|bạlto|بالطو|_paletot_|coat|[AD,99]
 |jaketta|جاكيت|_jaquette_|jacket|
 |jilé|جيلاي|_gilet_|waistcoast|
 |gwanti|جوانتي|_gant_|gloves|
@@ -263,6 +263,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |radār|رادار|_radar_|radar|[AD,332]
 |shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
 |kabl|كبل|_câble_|cable|[AD,733]
+|
 
 <br>
 
