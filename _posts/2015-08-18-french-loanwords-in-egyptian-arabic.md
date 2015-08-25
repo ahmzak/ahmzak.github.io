@@ -218,8 +218,10 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ʔiksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
 |sampatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
 
-## Cuisine
+<br>
 
+|__Cuisine__|
+|abritīf|ابرتيف|_apéritif_|appetizer|[AD3]
 |ananās|أناناس|_ananas_|pineapple|[AD,42]
 |baskawīt|بسكويت|_biscuit_|biscuit, cookie|[AD,76]
 |bitifōr|بتيفور|_petit four_|petit four|[AD,52]
