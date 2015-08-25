@@ -267,8 +267,10 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |dām|دام|_dame_|queen (in cards)|[AD,274]
 |rakit|راكيت|_raquette_|racquet|[AD,319]
 |fīsh|فيش|_fiche_|tokens, chips (in games)|[AD, 679] 
+|kạrō|كارو|_carreau_|diamonds (card suit)|
 |kart|كارت|_carte_|playing card|[AD,741]
 |kint|كنت|_quinte_|flush, straight (in cards)|[AC55]
+|trifil|تريفل|_trèfle_|clubs (card suit)|
 
 ## Cinéma
 
