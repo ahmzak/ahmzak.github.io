@@ -87,7 +87,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ạntréh|أنتريه|_entrée_|living room furniture|[AD,40]
 |servīs|سرڤيس|_service_|serving platter|[AD,409]
 |tilifōn|تليفون|_téléphone_|telephone|[AD135][BM]
-|telivizyōn|تلڤزيون|_télévision_|television|[AD,135]
+|telivizyōn|تلڤزيون|_télévision_|television|[AD135][BM]
 |rạdiu|راديو|_radio_|radio|[AD,333]
 |fīsha|فيشة|_fiche_|plug|[AD,679]
 |butagāz|بتاجاز|_Butagaz_|cooking stove|[AD,52]
