@@ -30,7 +30,7 @@ meta:
 
 
 
-* note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
+note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Fashion__|__and__|__beauty__|
 |ʔikseswaar|اكسسوار|_accessoire_|accesory|[AD29]
