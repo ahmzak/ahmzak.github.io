@@ -212,7 +212,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
 |ifféeh|افيه|_effet_|joke, quip|[AD,28]
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
-|sbōr|سبور|_sport_|casual (of clothes/manner)|[AD, 18]
+|sbōr|سبور|_sport_|casual (of clothes/manner)|[AD,18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
 |pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
 |pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
