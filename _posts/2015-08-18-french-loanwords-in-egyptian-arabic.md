@@ -75,7 +75,10 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
 |ʔinisyaal|انسيال|_intiales_|i.d. bracelet|[AC70]
 
+<br>
+
 |__Around__|__the__|__house__|
+|abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|[AD,299]
 |asˤansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
@@ -92,11 +95,10 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |tirās|تراس|_terrace_|terrace|[AD,124]
 |kanaba|كنبة|_canapé_|sofa|[AD,766]
 |koverta|كُڤِرتة|_couverture_|blanket|
-|abajōra|اباجورة|_abat-jour_|lampshade|[AD,3]
 |bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
 |shanyōr|شنيور|_chignole_|drill|[AD,482]
 |kartōn|كارتون|_carton_|cardboard|[AD,741]
-|panuuh, bannuuh|بانوه|_panneau_|panel with moulded decorations|[AD107]
+|panuuh|بانوه|_panneau_|panel with moulded decorations|[AD107]
 |baladoos|بلادوس|_baladeuse_|portable lamp|[AC54]
 |bibroona|ببرونة|_biberon_|baby-bottle|[AC70]
 |mukitt|موكيت|_moquette_|rug, fitted carpet|[AC76]
