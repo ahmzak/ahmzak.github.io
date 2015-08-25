@@ -78,7 +78,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Around__|__the__|__house__|
-|abajōra|اباجورة|_abat-jour_|tablelamp|[AD3]
+|abajōra|اباجورة|_abat-jour_|table lamp|[AD3]
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|[AD,299]
 |aṣansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
