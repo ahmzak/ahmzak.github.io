@@ -67,6 +67,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |pạrfaan|برفان|_parfum_|perfume|[AC41][BM]
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
 |monokīr|مونوكير|_manucure_|manicure|
+|okaziōn|أوكازيون|_occasion_|sale, bargain|[AD29][BM]
 |rijīm|رجيم|_régime_|diet|[AD,329]
 |rooj|روج|_rouge_|lipstick|[AD,355]
 |séshwār|سشوار|_séchoir_|hair dryer|
@@ -149,9 +150,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shoféer|شوفير|_chauffeur_|driver|[TA,182]
 |metr|متر|_maître_|head waiter|[AD,810]
 
-<br>
-
-|okaziōn|أوكازيون|_occasion_|sale, bargain|[AD,29]
 
 <br>
 
