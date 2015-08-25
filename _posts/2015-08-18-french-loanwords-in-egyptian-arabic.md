@@ -172,7 +172,9 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |motōr|موتور|_moteur_|motor|[AD,811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD,811]
 |shakmān|شكمان|_échappement_|exhaust pipe|[SL,138][AD,474]
+|torombīl|ترمبيل|_automobile_|car|[AD6]
 |tranzīt|ترانزيت|_transit_|transit|[AD,128]
+
 
 <br>
 
