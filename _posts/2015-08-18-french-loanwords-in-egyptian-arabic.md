@@ -159,7 +159,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Vehicles__|
 
 |ạmbaléh|أمبليه|_emballer_|revving the engine|[AD,35]
-|otobīs|اوتوبيس|_autobus_|bus|[AD,6]
+|otobīs|اوتوبيس|_autobus_|bus|[AD6]
 |baddāl|بدال|_pédale_|pedal|[AD,58]
 |bujéh|بوجيه|_bougie_|spark plug|[CS,57][AD,53]
 |debreyāj|دبرياج|_débrayage_|clutch|[AD,276]
