@@ -75,8 +75,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
 |ʔinisyaal|انسيال|_intiales_|i.d. bracelet|[AC70]
 
-## Around the house (?? words)
-
+|__Around__|__the__|__house__|
 |mobilia|موبيليا|_mobilier_|furniture|
 |dikōr|ديكور|_décor_|decoration|[AD,299]
 |asˤansair|اصنساير|_ascenseur_|elevator|[SR,99],[AD,23]
@@ -259,6 +258,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |radār|رادار|_radar_|radar|[AD,332]
 |shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
 |kabl|كبل|_câble_|cable|[AD,733]
+
+<br>
 
 |__Games__|
 |āas|آس|_as_|ace (in cards)|[AD1]
