@@ -79,23 +79,22 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Around__|__the__|__house__|
 |abajōra|اباجورة|_abat-jour_|table lamp|[AD3]
-|mobilia|موبيليا|_mobilier_|furniture|[BM]
+|ạntréh|أنتريه|_entrée_|living room furniture|[AD40]
+|balakōna|بلكونة|_balcon_|balcony|[AD100]
+|bukéeh|بوكيه|_bouquet_|bouquet|[AD95]
+|butagāz|بتجاز|_Butagaz_|cooking stove|[AD52]
 |dikōr|ديكور|_décor_|decoration|[AD299][BM]
-|aṣạnséer|اصنسير|_ascenseur_|elevator|[SR99][AD23][BM]
+|fīsha|فيشة|_fiche_|plug|[AD,679]
+|mobilia|موبيليا|_mobilier_|furniture|[BM]
 |ṣālah|صالة|_salle_|hall|
 |ṣạlōn|صالون|_salon_|living room|[AD,510]
-|ạntréh|أنتريه|_entrée_|living room furniture|[AD,40]
 |servīs|سرڤيس|_service_|serving platter|[AD,409]
 |tilifōn|تليفون|_téléphone_|telephone|[AD135][BM]
 |telivizyōn|تلڤزيون|_télévision_|television|[AD135][BM]
 |rạdiu|راديو|_radio_|radio|[AD,333]
-|fīsha|فيشة|_fiche_|plug|[AD,679]
-|butagāz|بتاجاز|_Butagaz_|cooking stove|[AD,52]
-|balacona|بلكونة|_balcon_|balcony|[AD,100]
 |tirās|تراس|_terrace_|terrace|[AD,124]
 |kanaba|كنبة|_canapé_|sofa|[AD,766]
 |koverta|كُڤِرتة|_couverture_|blanket|
-|bukéh|بوكيه|_bouquet_|bouquet|[AD,95]
 |shanyōr|شنيور|_chignole_|drill|[AD,482]
 |kartōn|كارتون|_carton_|cardboard|[AD,741]
 |panuuh|بانوه|_panneau_|panel with moulded decorations|[AD107]
@@ -106,6 +105,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Office__|
+|aṣạnséer|اصنسير|_ascenseur_|elevator|[SR99][AD23][BM]
 |karnéh|كرنيه|_carnet_|ID card|
 |kart|كارت|_carte_|card|[AD,741]
 |gornān|جرنان|_journal_|newspaper|[AD,157]
