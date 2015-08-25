@@ -30,8 +30,6 @@ meta:
 
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
-
-
 |__Clothing__|
 |kasketta|كسكتة|_casquette_|cap|[AD751]
 |éshạrb|إشرب|_écharpe_|hijab|[AD24]
@@ -66,7 +64,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Fashion__|__and__|__beauty__|
 |ʔikseswaar|اكسسوار|_accessoire_|accesory|[AD29]
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
-|pạrfaan|برفان|_parfum_|perfume|[AC41]
+|pạrfaan|برفان|_parfum_|perfume|[AC41][BM]
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
 |monokīr|مونوكير|_manucure_|manicure|
 |rijīm|رجيم|_régime_|diet|[AD,329]
