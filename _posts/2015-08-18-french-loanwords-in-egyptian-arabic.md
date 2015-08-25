@@ -59,6 +59,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bijama|بيجاما|_pyjama_|pyjamas|
 |ṣanḍal|صندل|_sandale_|sandal|
 |isbadrīn|اسبادرين|_espadrilles_|???|[AC70]
+|sbōr|سبور|_sport_|casual (of clothes)|[AD18][BM]
 
 <br>
 
@@ -212,7 +213,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
 |ifféeh|افيه|_effet_|joke, quip|[AD,28]
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
-|sbōr|سبور|_sport_|casual (of clothes/manner)|[AD,18]
 |tīb|تيب|_type_|type, distinct character|[AD,142]
 |pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
 |pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
@@ -281,7 +281,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kint|كنت|_quinte_|flush, straight (in cards)|[AC55]
 |pīk|بيك|_pique_|spades (card suit)|
 |trifil|تريفل|_trèfle_|clubs (card suit)|
-
 
 ## Cinéma
 
