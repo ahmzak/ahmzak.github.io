@@ -260,8 +260,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
 |kabl|كبل|_câble_|cable|[AD,733]
 
-## Games and sports
-
+|__Games__|
+|āas|آس|_as_|ace (in cards)|[AD1]
 |ballōnah|بالونة|_ballon_|balloon|[AD,102]
 |dām|دام|_dame_|queen (in cards)|[AD,274]
 |rakit|راكيت|_raquette_|racquet|[AD,319]
