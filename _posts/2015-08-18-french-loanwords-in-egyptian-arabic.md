@@ -32,21 +32,6 @@ meta:
 
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
-|__Fashion__|__and__|__beauty__|
-|ʔikseswaar|اكسسوار|_accessoire_|accesory|[AD29]
-|badikīr|باديكير|_pédicure_|pedicure|[AD,57]
-|pạrfaan|برفان|_parfum_|perfume|[AC41]
-|makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
-|monokīr|مونوكير|_manucure_|manicure|
-|rijīm|رجيم|_régime_|diet|[AD,329]
-|rooj|روج|_rouge_|lipstick|[AD,355]
-|séshwār|سشوار|_séchoir_|hair dryer|
-|shīk|شيك|_chic_|stylish, elegant|[AD,490]
-|solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
-|ʔinisyaal|انسيال|_intiales_|i.d. bracelet|[AC70]
-
-<br>
-
 |__Clothing__|
 |ʔisbadriin|اسبادرين|_espadrille_|???|[AC70]
 |kasketta|كسكتة|_casquette_|cap|[AD,751]
@@ -74,6 +59,21 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
 |bijama|بيجاما|_pyjama_|pyjamas|
 |sandˤal|صندل|_sandale_|sandal|
+
+<br>
+
+|__Fashion__|__and__|__beauty__|
+|ʔikseswaar|اكسسوار|_accessoire_|accesory|[AD29]
+|badikīr|باديكير|_pédicure_|pedicure|[AD,57]
+|pạrfaan|برفان|_parfum_|perfume|[AC41]
+|makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
+|monokīr|مونوكير|_manucure_|manicure|
+|rijīm|رجيم|_régime_|diet|[AD,329]
+|rooj|روج|_rouge_|lipstick|[AD,355]
+|séshwār|سشوار|_séchoir_|hair dryer|
+|shīk|شيك|_chic_|stylish, elegant|[AD,490]
+|solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
+|ʔinisyaal|انسيال|_intiales_|i.d. bracelet|[AC70]
 
 ## Around the house (?? words)
 
