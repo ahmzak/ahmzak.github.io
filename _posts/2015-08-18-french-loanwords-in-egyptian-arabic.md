@@ -28,12 +28,13 @@ meta:
 
 
 
+
 * note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well
 
 |__Fashion__|
 |ʔikseswār|اكسسوار|_accessoire_|accesory|[AD,29]
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
-|pạrfaan, bạrfaan|برفان|_parfum_|perfume|[AC41]
+|pạrfaan|برفان|_parfum_|perfume|[AC41]
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA,81][AD,830]
 |monokīr|مونوكير|_manucure_|manicure|
 |rijīm|رجيم|_régime_|diet|[AD,329]
