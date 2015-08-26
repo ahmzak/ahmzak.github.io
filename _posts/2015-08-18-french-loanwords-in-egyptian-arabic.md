@@ -52,6 +52,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |koverta|كُڤِرتة|_couverture_|blanket|
 |mobilia|موبيليا|_mobilier_|furniture|[BM]
 |mokit|موكيت|_moquette_|wall-to-wall carpet|[AC76]
+|ofīs|اوفيس|_office_|pantry|[AD28]
 |panōh|بانوه|_panneau_|panel with moulded decorations|[AD107]
 |rạdiu|راديو|_radio_|radio|[AD333]
 |ṣālah|صالة|_salle_|hall|
