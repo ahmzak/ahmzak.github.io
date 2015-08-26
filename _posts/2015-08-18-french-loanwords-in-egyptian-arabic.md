@@ -308,13 +308,13 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 #### Sources
 
-|__Code__|__Title__|__Author__|__Journal__|__Issue__|__Pages__|__Year__|__Link__|
-|[AC]|_"A Contribution to the Lexicography of Egyptian Arabic"_|D.Stewart|_Zeitschrift für Arabische Linguistik_|no.28|pp.36-86|1994|[[↗]](http://www.digizeitschriften.de/dms/img/?PID=PPN513339353_0028%7Clog9)
+|__Code__|__Title__|__Author__|__Journal__|__Issue__|__Page__|__Year__|__Link__|
+|[AC]|_"A Contribution to the Lexicography of Egyptian Arabic"_|D.Stewart|_Zeitschrift für Arabische Linguistik_|no.28|36-86|1994|[[↗]](http://www.digizeitschriften.de/dms/img/?PID=PPN513339353_0028%7Clog9)
 |[AD]|_"A Dictionary of Egyptian Arabic"_|E.Badawi & M.Hinds||||1986|[[↗]](https://archive.org/details/ADictionaryOfEgyptianArabic)
 |[BM]|_"Borrowing in Modern Standard Arabic"_|Z.Ibrahim|_Internet-Zeitschrift für Kulturwissenschaften_|no.16||2006|[[↗]](http://www.inst.at/trans/16Nr/01_4/zeinab16.htm)
 |[CS]|_"Comparative Semitic Linguistics"_|P.Bennett||||1998|[[↗]](https://books.google.ca/books?id=LfruK29pVl8C&dq)
 |[PA]|_"Perspectives on Arabic Linguistics IX"_|M.Eid & D.Parkinson||||1995|[[↗]](https://books.google.ca/books?id=zYWQRz8EYJ0C&dq)
-|[PM]|_"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_|O.Hafez|_Les langues en Égypte_|no.27-28|pp.383-410|1996|[[↗]](http://ema.revues.org/1958)
+|[PM]|_"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_|O.Hafez|_Les langues en Égypte_|no.27-28|383-410|1996|[[↗]](http://ema.revues.org/1958)
 |[SL]|_"Standard Languages: Spoken and Written"_|W.Haas||||1982|[[↗]](https://books.google.ca/books?id=sza8AAAAIAAJ&dq)
 
 <br>
