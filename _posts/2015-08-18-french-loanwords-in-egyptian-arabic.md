@@ -75,6 +75,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |afīsh|أفيش|_affiche_|poster|[AD,28]
 |doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
 |doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
+|lōj|لوج|_loge_|cinema/theater box|[AD,803]
 |senarist|سنارست|_scénariste_|screenwriter|[AD,435]
 |tetr|تتر|_titre_|credits|[AD, 122]
 |kawalees|كواليس|_coulisse_|backdrop, backstage|[AD,770]
@@ -110,6 +111,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṣanḍal|صندل|_sandale_|sandal|
 |ispadrīn|اسبادرين|_espadrilles_|open-toed shoe|[AC70]
 |sbōr|سبور|_sport_|casual (of clothes)|[AD18][BM]
+|portoféei|woman's purse
+
 
 <br>
 
@@ -128,7 +131,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |sosīs|سوسيس|_saucisse_|sausage|[AD,411]
 |shambanya|شامبانيا|_champagne_|champagne|[AD,477]
 |komboot|كمبوت|_compote_|compote|[AD,763]
-|lōj|لوج|_loge_|cinema/theater box|[AD,803]
 |sikk|سك|_sec_|dry, straight (of alcoholic drinks)|[AC73]
 
 <br>
@@ -153,8 +155,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |rooj|روج|_rouge_|lipstick|[AD,355]
 |séshwār|سشوار|_séchoir_|hair dryer|
 |shīk|شيك|_chic_|stylish, elegant|[AD,490]
-|solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
-|ʔinisyaal|انسيال|_intiales_|i.d. bracelet|[AC70]
+|solitéer|سولتير|_solitaire_|one-piece diamond ring|[AD,423]
+|ạnsyaal|انسيال|_intiales_|bracelet|[AC70]
 
 <br>
 
@@ -176,14 +178,14 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Locations__| 
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bist|بست|_piste_|dance floor|[AC70]
-|pisiin, bisiin|بيسين|_piscine_|pool|[AC41]
+|pisiin|بيسين|_piscine_|pool|[AC41]
 |kabaraih|كباريه|_cabaret_|nightclub
 |patinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
 |ṣạlōn|صالون|_salon_|hairdresser's establishment|[AD,510]
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
 |shaléeh|شاليه|_chalet_|chalet|[AD,477]
-|ʔoteel|أوتيل|_hôtel_|hotel|[AC69]
+|otéel|أوتيل|_hôtel_|hotel|[AC69]
 
 <br>
 
@@ -206,7 +208,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |karnéh|كرنيه|_carnet_|ID card|
 |kart|كارت|_carte_|card|[AD,741]
 |gornān|جرنان|_journal_|newspaper|[AD,157]
-|klaséer|كلاسير|_classeur_|file/binder|[AD,759]
+|aklaséer|اكلاسير|_classeur_|file/binder|[AD,759]
 |duséh|دوسيه|_dossier_|folder, dossier|[AD,289]
 |arshīf|ارشيف|_archive_|archive|[AD,14]
 |basbōr|باسبور|_passeport_|passport|[AD,73]
@@ -260,13 +262,12 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
 |ifféeh|افيه|_effet_|joke, quip|[AD,28]
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
-|tīb|تيب|_type_|type, distinct character|[AD,142]
+|tiip|تيب|_type_|type, distinct character|[AC42][AD142]
 |pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
 |pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
 |pristiij|برستيج|_prestige_|prestige|[AC41]
-|tiip|تيب|_type_|type, distinct character|[AC42]
 |misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
-|ʔiksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
+|iksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
 |sampatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
 
 <br>
