@@ -76,8 +76,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Cinema__|
-|sīma|سيما|_cinéma_|cinema|[AD,436]
-|afīsh|أفيش|_affiche_|poster|[AD,28]
+|sīma|سيما|_cinéma_|cinema|[AD436]
+|afīsh|أفيش|_affiche_|poster|[AD28]
 |doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
 |doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
 |lōj|لوج|_loge_|cinema/theater box|[AD,803]
