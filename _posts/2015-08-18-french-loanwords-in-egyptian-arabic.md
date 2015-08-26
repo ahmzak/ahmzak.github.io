@@ -179,6 +179,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Locations__| 
+|ateliéeh|اتيلييه|_atelier_|art studio, workshop|[AD6]
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bist|بست|_piste_|dance floor|[AC70]
 |pisiin|بيسين|_piscine_|pool|[AC41]
