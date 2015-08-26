@@ -308,9 +308,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 #### Sources
 
-|__Code__|__Title__|__Author__|__Journal__|__Issue__|__Page__|__Year__|__Link__|
-|[AC]|_"A Contribution to the Lexicography of Egyptian Arabic"_|D.Stewart|_Zeitschrift für Arabische Linguistik_|28|36-86|1994|[[↗]](http://www.digizeitschriften.de/dms/img/?PID=PPN513339353_0028%7Clog9)
-|[AD]|_"A Dictionary of Egyptian Arabic"_|E.Badawi & M.Hinds||||1986|[[↗]](https://archive.org/details/ADictionaryOfEgyptianArabic)
+|[AC]|_"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, in _Zeitschrift für Arabische Linguistik_, no. 28, pp. 36-86,1994|[[↗]](http://www.digizeitschriften.de/dms/img/?PID=PPN513339353_0028%7Clog9)
+|[AD]|_"A Dictionary of Egyptian Arabic"_,E.Badawi & M.Hinds,1986||||[[↗]](https://archive.org/details/ADictionaryOfEgyptianArabic)
 |[BM]|_"Borrowing in Modern Standard Arabic"_|Z.Ibrahim|_Internet-Zeitschrift für Kulturwissenschaften_|16||2006|[[↗]](http://www.inst.at/trans/16Nr/01_4/zeinab16.htm)
 |[CS]|_"Comparative Semitic Linguistics"_|P.Bennett||||1998|[[↗]](https://books.google.ca/books?id=LfruK29pVl8C&dq)
 |[PA]|_"Perspectives on Arabic Linguistics IX"_|M.Eid & D.Parkinson||||1995|[[↗]](https://books.google.ca/books?id=zYWQRz8EYJ0C&dq)
