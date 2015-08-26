@@ -57,6 +57,29 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
+|__Bathroom__|
+|kabinéeh|كابينيه|_cabinet_|lavatory, toilet|[AD,733]
+|twalit|تواليت|_toilette_|toilet|[AD,141]
+|sifōn|سيفون|_siphon_|flusher|[AD,416]
+|bidéh|بيديه|_bidet_|bidet|[AD, 60]
+|banyo|بانيو|_baignoire_|bathtub|
+|dosh|دش|_douche_|shower|[AD,289]
+|pippiih, bibbiih|بيبيه|_pipi_|urine, pee|[AC42][AD51]
+
+<br>
+
+|__Cinema__|
+|sīma|سيما|_cinéma_|cinema|[AD,436]
+|afīsh|أفيش|_affiche_|poster|[AD,28]
+|doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
+|doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
+|senarist|سنارست|_scénariste_|screenwriter|[AD,435]
+|tetr|تتر|_titre_|credits|[AD, 122]
+|kawalees|كواليس|_coulisse_|backdrop, backstage|[AD,770]
+|kumbars|كمبارس|_comparse_|extra|[AD,763]
+
+<br>
+
 |__Clothing__|
 |kasketta|كسكتة|_casquette_|cap|[AD751]
 |éshạrb|إشرب|_écharpe_|hijab|[AD24]
@@ -88,6 +111,35 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
+|__Cuisine__|
+|abritīf|ابرتيف|_apéritif_|appetizer|[AD3]
+|ananās|أناناس|_ananas_|pineapple|[AD,42]
+|baskawīt|بسكويت|_biscuit_|biscuit, cookie|[AD,76]
+|bitifōr|بتيفور|_petit four_|petit four|[AD,52]
+|bashamel|بشمل|_béchamel_|béchamel sauce|[AD, 78]
+|bodra|بودرة|_poudre_|powder|[AD,57]
+|buftéek|بفتيك|_bifteck_|beefsteak|[AD,89]
+|buféeh|بوفيه|_buffet_|buffet|[AD,89]
+|banéh|بانيه|_pané_|breaded|[AD,108]
+|byuréh|بيوريه|_purée_|puréed|[AD, 116]
+|gatōh|جاتوه|_gâteau_|pastry, small cake|[AD,149]
+|sosīs|سوسيس|_saucisse_|sausage|[AD,411]
+|shambanya|شامبانيا|_champagne_|champagne|[AD,477]
+|komboot|كمبوت|_compote_|compote|[AD,763]
+|lōj|لوج|_loge_|cinema/theater box|[AD,803]
+|sikk|سك|_sec_|dry, straight (of alcoholic drinks)|[AC73]
+
+<br>
+
+|__Education__|
+|bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
+|diblōm|دبلوم|_diplôme_|diploma|[AD,278]
+|doktorāh|دكتوراه|_doctorat_|doctorate|[AD,297]
+|lissans|ليسانس|_licence_|degree, usu. Arts|[AD,788]
+|majistéer|ماجستير|_magistère_|master's degree|[AD,811]
+
+<br>
+
 |__Fashion__|__and__|__beauty__|
 |badikīr|باديكير|_pédicure_|pedicure|[AD,57]
 |iksiswār|اكسسوار|_accessoire_|accesory|[AD29]
@@ -101,6 +153,48 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shīk|شيك|_chic_|stylish, elegant|[AD,490]
 |solitéer|سولتير|_solitaire_|diamond ring|[AD,423]
 |ʔinisyaal|انسيال|_intiales_|i.d. bracelet|[AC70]
+
+<br>
+
+|__Games__|
+|āas|آس|_as_|ace (in cards)|[AD1]
+|ballōnah|بالونة|_ballon_|balloon|[AD102]
+|dām|دام|_dame_|queen (in cards)|[AD274]
+|rakit|راكيت|_raquette_|racquet|[AD319]
+|fīsh|فيش|_fiche_|tokens, chips (in games)|[AD679] 
+|kạrō|كارو|_carreau_|diamonds (card suit)|
+|kart|كارت|_carte_|playing card|[AD741]
+|kint|كنت|_quinte_|flush, straight (in cards)|[AC55]
+|pīk|بيك|_pique_|spades (card suit)|
+|rwā|روا|_roi_|king (in cards)|
+|trifil|تريفل|_trèfle_|clubs (card suit)|
+
+<br>
+
+|__Locations__| 
+|belāj|بلاج|_plage_|beach|[AD,95]
+|bist|بست|_piste_|dance floor|[AC70]
+|pisiin, bisiin|بيسين|_piscine_|pool|[AC41]
+|kabaraih|كباريه|_cabaret_|nightclub
+|patinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
+|ṣạlōn|صالون|_salon_|hairdresser's establishment|[AD,510]
+|stād|ستاد|_stade_|stadium|[AD,18]
+|sirk|سرك|_cirque_|circus|[AD,410]
+|shaléeh|شاليه|_chalet_|chalet|[AD,477]
+|ʔoteel|أوتيل|_hôtel_|hotel|[AC69]
+
+<br>
+
+|__Music__|
+|bimōl|بيمول|_bémol_|flat|[AD,104]
+|diéz|دييز|_dièse_|sharp|[AD,317]
+|kobléeh|كوبليه|_couplet_|verse|[AD,733]
+|obwa|أبوا|_hautbois_|oboe|[AD5]
+|oprett|اوبريت|_opérette_|operetta|[AD3]
+|org|اورج|_orgue_|electric organ|[AD,13]
+|gitār|جيتار|_guitar_|guitar|[AD,148]
+|disk|ديسك|_disque_|gramophone record|[AD,289]
+|korāl|كورال|_chorale_|choir|[AD,740]
 
 <br>
 
@@ -119,27 +213,15 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
-|__Bathroom__|
-|kabinéeh|كابينيه|_cabinet_|lavatory, toilet|[AD,733]
-|twalit|تواليت|_toilette_|toilet|[AD,141]
-|sifōn|سيفون|_siphon_|flusher|[AD,416]
-|bidéh|بيديه|_bidet_|bidet|[AD, 60]
-|banyo|بانيو|_baignoire_|bathtub|
-|dosh|دش|_douche_|shower|[AD,289]
-|pippiih, bibbiih|بيبيه|_pipi_|urine, pee|[AC42][AD51]
+|__Politics__|
+|diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD,278]
+|dimoqratiyyah|ديموقراطية|_démocratie_|democracy|[AD,303]
+|otoqrātiyyah|اوتوقراطية|_autocratie_|autocracy|[AD6]
+|taktīk|تكتيك|_tactique_|tactics|[AD,132]
 
 <br>
 
-|__Education__|
-|bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
-|diblōm|دبلوم|_diplôme_|diploma|[AD,278]
-|doktorāh|دكتوراه|_doctorat_|doctorate|[AD,297]
-|lissans|ليسانس|_licence_|degree, usu. Arts|[AD,788]
-|majistéer|ماجستير|_magistère_|master's degree|[AD,811]
-
-<br>
-
-|__Profession__|
+|__Professions__|
 |bolīs|بوليس|_police_|police|[AD,103]
 |doktōr|دكتور|_docteur_|doctor|[AD,297]
 |gạrsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
@@ -150,6 +232,39 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shoféer|شوفير|_chauffeur_|driver|[TA,182]
 |metr|متر|_maître_|head waiter|[AD,810]
 
+<br>
+
+|__Science__|__and__|__technology__|
+|bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
+|baij|بيج|_beige_|beige|[AD,115]
+|tirikwāz|تركواز|_turquoise_|turquoise|[AD,126]
+|termometr|ترمومتر|_thermomètre_|thermometer|[AD,127]
+|telescōb|تلسكوب|_télescope_|telescope|[AD,134]
+|khartoosh|خرطوش|_cartouche_|cartridge|[AD,247]
+|dinamo|دينامو|_dynamo_|dynamo|[AD,305]
+|dinamīt|ديناميت|_dynamite_|[AD,305]
+|radār|رادار|_radar_|radar|[AD,332]
+|shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
+|kabl|كبل|_câble_|cable|[AD,733]
+
+<br>
+
+|__Social__|
+|alōh|آلوه|_allô_|hello (telephony)|[AD,34]
+|bonjoor|بنجور|_bonjour_|hello|[AD,105]
+|orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
+|onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD,41]
+|ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
+|ifféeh|افيه|_effet_|joke, quip|[AD,28]
+|itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
+|tīb|تيب|_type_|type, distinct character|[AD,142]
+|pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
+|pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
+|pristiij|برستيج|_prestige_|prestige|[AC41]
+|tiip|تيب|_type_|type, distinct character|[AC42]
+|misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
+|ʔiksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
+|sampatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
 
 <br>
 
@@ -173,71 +288,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
-|__Music__|
-|bimōl|بيمول|_bémol_|flat|[AD,104]
-|diéz|دييز|_dièse_|sharp|[AD,317]
-|kobléeh|كوبليه|_couplet_|verse|[AD,733]
-|obwa|أبوا|_hautbois_|oboe|[AD5]
-|oprett|اوبريت|_opérette_|operetta|[AD3]
-|org|اورج|_orgue_|electric organ|[AD,13]
-|gitār|جيتار|_guitar_|guitar|[AD,148]
-|disk|ديسك|_disque_|gramophone record|[AD,289]
-|korāl|كورال|_chorale_|choir|[AD,740]
-
-## Places 
-
-|belāj|بلاج|_plage_|beach|[AD,95]
-|bist|بست|_piste_|dance floor|[AC70]
-|pisiin, bisiin|بيسين|_piscine_|pool|[AC41]
-|kabaraih|كباريه|_cabaret_|nightclub
-|patinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
-|ṣạlōn|صالون|_salon_|hairdresser's establishment|[AD,510]
-|stād|ستاد|_stade_|stadium|[AD,18]
-|sirk|سرك|_cirque_|circus|[AD,410]
-|shaléeh|شاليه|_chalet_|chalet|[AD,477]
-|ʔoteel|أوتيل|_hôtel_|hotel|[AC69]
-
-<br>
-
-|__Social__|
-|alōh|آلوه|_allô_|hello (telephony)|[AD,34]
-|bonjoor|بنجور|_bonjour_|hello|[AD,105]
-|orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
-|onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD,41]
-|ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
-|ifféeh|افيه|_effet_|joke, quip|[AD,28]
-|itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
-|tīb|تيب|_type_|type, distinct character|[AD,142]
-|pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
-|pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
-|pristiij|برستيج|_prestige_|prestige|[AC41]
-|tiip|تيب|_type_|type, distinct character|[AC42]
-|misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
-|ʔiksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
-|sampatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
-
-<br>
-
-|__Cuisine__|
-|abritīf|ابرتيف|_apéritif_|appetizer|[AD3]
-|ananās|أناناس|_ananas_|pineapple|[AD,42]
-|baskawīt|بسكويت|_biscuit_|biscuit, cookie|[AD,76]
-|bitifōr|بتيفور|_petit four_|petit four|[AD,52]
-|bashamel|بشمل|_béchamel_|béchamel sauce|[AD, 78]
-|bodra|بودرة|_poudre_|powder|[AD,57]
-|buftaik|بفتيك|_bifteck_|beefsteak|[AD,89]
-|buffaih|بوفيه|_buffet_|buffet|[AD,89]
-|banéh|بانيه|_pané_|breaded|[AD,108]
-|byuréh|بيوريه|_purée_|puréed|[AD, 116]
-|gatōh|جاتوه|_gâteau_|pastry, small cake|[AD,149]
-|sosīs|سوسيس|_saucisse_|sausage|[AD,411]
-|shambanya|شامبانيا|_champagne_|champagne|[AD,477]
-|komboot|كمبوت|_compote_|compote|[AD,763]
-|lōj|لوج|_loge_|cinema/theater box|[AD,803]
-|sikk|سك|_sec_|dry, straight (of alcoholic drinks)|[AC73]
-
-## Science and technology
-
 |__Units__|
 |booṣa|بوصة|_pouce_|inch|[AD,113]
 |kīlo|كيلو|_kilo_|kilogram, kilometre|[AD,774]
@@ -248,55 +298,9 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṭun|طن|_tonne_|ton|[AD,548]
 |milli|ملّي|_millimètre_|millimetre|[AD,833]
 
-<br>
-
-|bitrōl|بترول|_pétrole_|petroleum, oil|[AD,52]
-|baij|بيج|_beige_|beige|[AD,115]
-|tirikwāz|تركواز|_turquoise_|turquoise|[AD,126]
-|termometr|ترمومتر|_thermomètre_|thermometer|[AD,127]
-|telescōb|تلسكوب|_télescope_|telescope|[AD,134]
-|khartoosh|خرطوش|_cartouche_|cartridge|[AD,247]
-|dinamo|دينامو|_dynamo_|dynamo|[AD,305]
-|dinamīt|ديناميت|_dynamite_|[AD,305]
-|radār|رادار|_radar_|radar|[AD,332]
-|shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
-|kabl|كبل|_câble_|cable|[AD,733]
-
-<br>
-
-|__Games__|
-|āas|آس|_as_|ace (in cards)|[AD1]
-|ballōnah|بالونة|_ballon_|balloon|[AD,102]
-|dām|دام|_dame_|queen (in cards)|[AD,274]
-|rakit|راكيت|_raquette_|racquet|[AD,319]
-|fīsh|فيش|_fiche_|tokens, chips (in games)|[AD, 679] 
-|kạrō|كارو|_carreau_|diamonds (card suit)|
-|kart|كارت|_carte_|playing card|[AD,741]
-|kint|كنت|_quinte_|flush, straight (in cards)|[AC55]
-|pīk|بيك|_pique_|spades (card suit)|
-|trifil|تريفل|_trèfle_|clubs (card suit)|
-
-## Cinéma
-
-|sīma|سيما|_cinéma_|cinema|[AD,436]
-|afīsh|أفيش|_affiche_|poster|[AD,28]
-|doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
-|doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
-|senarist|سنارست|_scénariste_|screenwriter|[AD,435]
-|tetr|تتر|_titre_|credits|[AD, 122]
-|kawalees|كواليس|_coulisse_|backdrop, backstage|[AD,770]
-|kumbars|كمبارس|_comparse_|extra|[AD,763]
-
-## Politics
-
-|diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD,278]
-|dimoqratiyyah|ديموقراطية|_démocratie_|democracy|[AD,303]
-|otoqrātiyyah|اوتوقراطية|_autocratie_|autocracy|[AD6]
-|taktīk|تكتيك|_tactique_|tactics|[AD,132]
-
-##Common names
-
-Ginacliz, Port Said (بور),
+|__Common__|__names__|
+|Ginacliz|
+|Port Said (بور),|
 
 ## Sources
 - [AC] = _"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, in _Zeitschrift für Arabische Linguistik_, no.28, pp. 36-86, 1994.
