@@ -85,7 +85,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Clothing__|
 |kasketta|كسكتة|_casquette_|cap|[AD751]
 |éshạrb|إشرب|_écharpe_|hijab|[AD24]
-|bạrbatōz|برباتوز|_barboteuse_|overalls|[AC70]
+|bạrbatōz|برباتوز|_barboteuse_|overalls, for children|[AC70]
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|
 |bibyōna|ببيونه|_papillon_|bowtie|[AD51]
