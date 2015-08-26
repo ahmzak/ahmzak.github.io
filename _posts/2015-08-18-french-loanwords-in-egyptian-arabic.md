@@ -275,7 +275,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Vehicles__|__and__|__transport__|
-|ablatīna|ابلاتينة|_platine_|contact breaker|[AD4]
+|ablatīn|ابلاتين|_platine_|contact breaker|[AD4]
 |ạmbaléh|أمبليه|_emballer_|revving the engine|[AD,35]
 |otobīs|اوتوبيس|_autobus_|bus|[AD6]
 |baddāl|بدال|_pédale_|pedal|[AD58]
