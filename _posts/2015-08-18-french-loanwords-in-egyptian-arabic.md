@@ -279,7 +279,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Vehicles__|__and__|__transport__|
 |ablatīn|ابلاتين|_platine_|contact breaker|[AD4]
-|ạmbaléh|أمبليه|_emballer_|revving the engine|[AD,35]
+|ạmbaléh|أمبليه|_emballer_|revving the engine|[AD35]
 |baddāl|بدال|_pédale_|pedal|[AD58]
 |bujéh|بوجيه|_bougie_|spark plug|[CS57][AD53]
 |debreyāj|دبرياج|_débrayage_|clutch|[AD276]
