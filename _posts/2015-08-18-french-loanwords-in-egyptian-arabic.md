@@ -308,6 +308,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 #### Sources
 
+|__Code__|__Title__|__Author__|__Journal__|__Issue__|__Pages__|__Year__|__Link__|
 |[AC]|_"A Contribution to the Lexicography of Egyptian Arabic"_|D.Stewart|_Zeitschrift für Arabische Linguistik_|no.28|pp.36-86|1994|[[↗]](http://www.digizeitschriften.de/dms/img/?PID=PPN513339353_0028%7Clog9)
 |[AD]|_"A Dictionary of Egyptian Arabic"_|E.Badawi & M.Hinds||||1986|[[↗]](https://archive.org/details/ADictionaryOfEgyptianArabic)
 |[BM]|_"Borrowing in Modern Standard Arabic"_|Z.Ibrahim|_Internet-Zeitschrift für Kulturwissenschaften_|no.16||2006|[[↗]](http://www.inst.at/trans/16Nr/01_4/zeinab16.htm)
