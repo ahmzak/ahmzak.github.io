@@ -307,7 +307,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 #### Sources
 
 |AC|_"A Contribution to the Lexicography of Egyptian Arabic"_|D.Stewart|_Zeitschrift für Arabische Linguistik_|no.28|pp.36-86|1994
-|AD|_"A Dictionary of Egyptian Arabic"_|E.Badawi & M.Hinds|||1994
+|AD|_"A Dictionary of Egyptian Arabic"_|E.Badawi & M.Hinds|||1986
 <br>
 
 - [AC] = _"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, in _Zeitschrift für Arabische Linguistik_, no.28, pp.36-86, 1994.
