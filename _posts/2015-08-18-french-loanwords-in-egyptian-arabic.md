@@ -46,7 +46,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |butagāz|بتجاز|_Butagaz_|cooking stove|[AD52]
 |dikōr|ديكور|_décor_|decoration|[AD299][BM]
 |fīsha|فيشة|_fiche_|plug|[AD679]
-|istīl|استيل|furniture in French rococo style|[AD20]
+|istīl|استيل|_style_|furniture in French rococo style|[AD20]
 |kanaba|كنبة|_canapé_|sofa|[AD766]
 |kartōn|كارتون|_carton_|cardboard|[AD741]
 |koverta|كُڤِرتة|_couverture_|blanket|
