@@ -83,7 +83,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |lōj|لوج|_loge_|cinema/theater box|[AD,803]
 |senarist|سنارست|_scénariste_|screenwriter|[AD,435]
 |tetr|تتر|_titre_|credits|[AD, 122]
-|kawalees|كواليس|_coulisse_|backdrop, backstage|[AD,770]
+|kawalīs|كواليس|_coulisse_|backdrop, backstage|[AD,770]
 |kumbars|كمبارس|_comparse_|extra|[AD,763]
 
 <br>
@@ -199,7 +199,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Music__|
-|akkordāj|اكورداج|_accordage_|(piano) tuning|[AD28]
+|akordāj|اكورداج|_accordage_|(piano) tuning|[AD28]
+|akordiōn|اكورديون|_accordion_|accordion|[AD29]
 |bimōl|بيمول|_bémol_|flat|[AD,104]
 |diéz|دييز|_dièse_|sharp|[AD,317]
 |kobléeh|كوبليه|_couplet_|verse|[AD,733]
