@@ -32,6 +32,7 @@ meta:
 
 
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -270,6 +271,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ifféeh|افيه|_effet_|joke, quip|[AD,28]
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
 |tiip|تيب|_type_|type, distinct character|[AC42][AD142]
+|orijināl|اوريجينال|_originale_|classy|[AD14]
 |pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
 |pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
 |pristiij|برستيج|_prestige_|prestige|[AC41]
