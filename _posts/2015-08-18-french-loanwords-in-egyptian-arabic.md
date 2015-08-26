@@ -317,7 +317,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |[PM]|_"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_|O.Hafez|_Les langues en Égypte_|27-28|383-410|1996|[[↗]](http://ema.revues.org/1958)
 |[SL]|_"Standard Languages: Spoken and Written"_|W.Haas||||1982|[[↗]](https://books.google.ca/books?id=sza8AAAAIAAJ&dq)
 |[SR]|_"Sociolinguistic Reflections of Privatization and Globalization"_|J.Pimentel||||2000|[[↗]](https://books.google.ca/books?id=PIkfAQAAMAAJ&q)
+|[TA]|_"Terms of Address"_|F.Braun||||1988|[[↗]](https://books.google.ca/books?id=Li0yyzsjn60C&dq)
 
-<br>
 
-- [TA] = _Terms of Address_, F. Braun, 1988.
+
