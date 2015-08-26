@@ -298,10 +298,12 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kīlo|كيلو|_kilo_|kilogram, kilometre|[AD,774]
 |letr|لتر|_litre_|litre|[AD,780]
 |grām|جرام|_gramme_|gram|[AD,152]
-|metr|متر|_mètre_|metre|[AD,810]
+|metr|متر|_mètre_|metre|[AD810][BM]
 |ṣanti|صنتي|_centimètre_|centimetre|[AD,434]
 |ṭun|طن|_tonne_|ton|[AD,548]
+|miliōn|مليون|_million_|million|[BM]
 |milli|ملّي|_millimètre_|millimetre|[AD,833]
+
 
 <br>
 
