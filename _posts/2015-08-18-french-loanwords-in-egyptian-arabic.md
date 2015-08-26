@@ -312,7 +312,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |[AD]|_"A Dictionary of Egyptian Arabic"_, E.Badawi & M.Hinds, 1986.|[[↗]](https://archive.org/details/ADictionaryOfEgyptianArabic)
 |[BM]|_"Borrowing in Modern Standard Arabic"_, Z.Ibrahim, in _Internet-Zeitschrift für Kulturwissenschaften_, no.16, June 2006.|[[↗]](http://www.inst.at/trans/16Nr/01_4/zeinab16.htm)
 |[CS]|_"Comparative Semitic Linguistics"_, P.Bennett, 1998.|[[↗]](https://books.google.ca/books?id=LfruK29pVl8C&dq)
-|[PA]|_"Perspectives on Arabic Linguistics IX", M.Eid & D.Parkinson, 1995.|[[↗]](https://books.google.ca/books?id=zYWQRz8EYJ0C&dq)
+|[PA]|_"Perspectives on Arabic Linguistics IX"_, M.Eid & D.Parkinson, 1995.|[[↗]](https://books.google.ca/books?id=zYWQRz8EYJ0C&dq)
 |[PM]|_"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_, O.Hafez, in _Les langues en Égypte_, no.27-28, pp.383-410, 1996.|[[↗]](http://ema.revues.org/1958)
 |[SL]|_"Standard Languages: Spoken and Written"_, W.Haas, 1982.|[[↗]](https://books.google.ca/books?id=sza8AAAAIAAJ&dq)
 |[SR]|_"Sociolinguistic Reflections of Privatization and Globalization"_, J.Pimentel, 2000.|[[↗]](https://books.google.ca/books?id=PIkfAQAAMAAJ&q)
