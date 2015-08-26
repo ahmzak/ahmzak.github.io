@@ -59,12 +59,12 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Bathroom__|
-|kabinéeh|كابينيه|_cabinet_|lavatory, toilet|[AD,733]
-|twalit|تواليت|_toilette_|toilet|[AD,141]
-|sifōn|سيفون|_siphon_|flusher|[AD,416]
-|bidéh|بيديه|_bidet_|bidet|[AD, 60]
-|dosh|دش|_douche_|shower|[AD,289]
-|pippiih, bibbiih|بيبيه|_pipi_|urine, pee|[AC42][AD51]
+|bidéh|بيديه|_bidet_|bidet|[AD60]
+|dosh|دش|_douche_|shower|[AD289]
+|kabinéeh|كابينيه|_cabinet_|lavatory, toilet|[AD733]
+|pippiih|بيبيه|_pipi_|urine, pee|[AC42][AD51]
+|sifōn|سيفون|_siphon_|flusher|[AD416]
+|twalit|تواليت|_toilette_|toilet|[AD141]
 
 <br>
 
