@@ -29,6 +29,7 @@ meta:
 
 
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -198,6 +199,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
+
 |__Office__|
 |aṣạnséer|اصنسير|_ascenseur_|elevator|[SR99][AD23][BM]
 |karnéh|كرنيه|_carnet_|ID card|
@@ -225,7 +227,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bolīs|بوليس|_police_|police|[AD,103]
 |doktōr|دكتور|_docteur_|doctor|[AD,297]
 |gạrsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
-|kwaféer|كوافير|_couiffeur_|hairdresser|[AD,770]
+|kwaféer|كوافير|_couiffeur_|hairdresser|[AD770]
 |sekertéer|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
 |shéef|شيف|_chéf_|chef, head cook|
