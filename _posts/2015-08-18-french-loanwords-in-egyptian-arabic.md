@@ -231,7 +231,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |sekertéer|سكرتير|_secrétaire_|secretary|[AD,420]
 |sentrāl|سنترال|_centrale_|telephone exchange|[AD,433]
 |shéef|شيف|_chéf_|chef, head cook|
-|shoféer|شوفير|_chauffeur_|driver|[TA,182]
+|shoféer|شوفير|_chauffeur_|driver|[TA182]
 |metr|متر|_maître_|head waiter|[AD,810]
 
 <br>
