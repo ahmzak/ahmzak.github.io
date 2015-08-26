@@ -199,7 +199,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Music__|
-|akkordāj|اكورداج|_accordage_|piano tuning|[AD28]
+|akkordāj|اكورداج|_accordage_|(piano) tuning|[AD28]
 |bimōl|بيمول|_bémol_|flat|[AD,104]
 |diéz|دييز|_dièse_|sharp|[AD,317]
 |kobléeh|كوبليه|_couplet_|verse|[AD,733]
