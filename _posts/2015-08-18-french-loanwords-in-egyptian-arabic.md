@@ -203,6 +203,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |diéz|دييز|_dièse_|sharp|[AD,317]
 |kobléeh|كوبليه|_couplet_|verse|[AD,733]
 |obwa|أبوا|_hautbois_|oboe|[AD5]
+|oktāf|اوكتاف|_octave_|octave|[AD28]
 |oprett|اوبريت|_opérette_|operetta|[AD3]
 |org|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
@@ -271,7 +272,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD15]
 |onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD,41]
 |ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
-|ifféeh|افيه|_effet_|joke, quip|[AD,28]
+|ifféeh|افيه|_effet_|joke, quip|
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
 |tiip|تيب|_type_|type, distinct character|[AC42][AD142]
 |orijināl|اوريجينال|_originale_|classy|[AD14]
