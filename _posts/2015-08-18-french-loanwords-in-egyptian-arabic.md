@@ -63,7 +63,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |twalit|تواليت|_toilette_|toilet|[AD,141]
 |sifōn|سيفون|_siphon_|flusher|[AD,416]
 |bidéh|بيديه|_bidet_|bidet|[AD, 60]
-|banyo|بانيو|_baignoire_|bathtub|
 |dosh|دش|_douche_|shower|[AD,289]
 |pippiih, bibbiih|بيبيه|_pipi_|urine, pee|[AC42][AD51]
 
