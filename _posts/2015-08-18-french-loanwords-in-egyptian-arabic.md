@@ -286,7 +286,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |dereksyōn|دركسيون|_direction_|steering wheel|[AD287]
 |fetees|فتيس|_vitesse_|gear-shift lever|[AD641]
 |gạrāj|جراج|_garage_|garage|[AD156]
-|kabboot|كبّوت|_capot_|bonnet/hood|[A,730]
+|kabboot|كبّوت|_capot_|bonnet/hood|[AD730]
 |kalax|كلكس|_klaxon_|car horn|[AD760]
 |kawitsh|كاوتش|_caoutchouc_|car tires|[AC55]
 |motōr|موتور|_moteur_|motor|[AD811]
