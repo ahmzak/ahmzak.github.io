@@ -179,6 +179,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Locations__| 
+|ajạns|اجنس|_agence_|car showroom|[AD8]
 |ateliéeh|اتيلييه|_atelier_|art studio, workshop|[AD6]
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bist|بست|_piste_|dance floor|[AC70]
