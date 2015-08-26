@@ -308,7 +308,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 - [BM] = _"Borrowing in Modern Standard Arabic"_, Z.Ibrahim, in _Internet-Zeitschrift für Kulturwissenschaften_, no.16, June 2006. [[↗]](http://www.inst.at/trans/16Nr/01_4/zeinab16.htm)
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
 - [PA] = _Perspectives on Arabic Linguistics_, M.Eid & D. Parkinson, 1995.
-- [PM] = _"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_, O.Hafez, in _Les langues en Égypte_ no.27-28, pp. 383-410, 1996. [[↗]](http://ema.revues.org/1958)
+- [PM] = _"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_, O.Hafez, in _Les langues en Égypte_, no.27-28, pp. 383-410, 1996. [[↗]](http://ema.revues.org/1958)
 - [SL] = _Standard Languages: Spoken and Written_, W.Haas, 1982.
 - [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
 - [TA] = _Terms of Address_, F. Braun, 1988.
