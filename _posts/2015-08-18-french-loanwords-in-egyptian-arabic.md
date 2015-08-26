@@ -313,6 +313,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |[BM]|_"Borrowing in Modern Standard Arabic"_, Z.Ibrahim, in _Internet-Zeitschrift für Kulturwissenschaften_, no.16, June 2006.|[[↗]](http://www.inst.at/trans/16Nr/01_4/zeinab16.htm)
 |[CS]|_"Comparative Semitic Linguistics"_, P.Bennett, 1998.|[[↗]](https://books.google.ca/books?id=LfruK29pVl8C&dq)
 
+<br>
+
 |[PA]|_"Perspectives on Arabic Linguistics IX"_|M.Eid & D.Parkinson||||1995|[[↗]](https://books.google.ca/books?id=zYWQRz8EYJ0C&dq)
 |[PM]|_"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_|O.Hafez|_Les langues en Égypte_|27-28|383-410|1996|[[↗]](http://ema.revues.org/1958)
 |[SL]|_"Standard Languages: Spoken and Written"_|W.Haas||||1982|[[↗]](https://books.google.ca/books?id=sza8AAAAIAAJ&dq)
