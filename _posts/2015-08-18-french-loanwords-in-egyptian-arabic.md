@@ -113,6 +113,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
 |bijama|بيجاما|_pyjama_|pyjamas|
 |ṣanḍal|صندل|_sandale_|sandal|
+|ismoking|اسموكينغ|_smoking_|tuxedo|[AD23]
 |ispadrīn|اسبادرين|_espadrilles_|open-toed shoe|[AC70]
 |sbōr|سبور|_sport_|casual (of clothes)|[AD18][BM]
 |portoféei|woman's purse
