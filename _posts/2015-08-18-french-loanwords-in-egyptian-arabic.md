@@ -46,6 +46,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |butagāz|بتجاز|_Butagaz_|cooking stove|[AD52]
 |dikōr|ديكور|_décor_|decoration|[AD299][BM]
 |fīsha|فيشة|_fiche_|plug|[AD679]
+|istīl|استيل|furniture in French rococo style|[AD20]
 |kanaba|كنبة|_canapé_|sofa|[AD766]
 |kartōn|كارتون|_carton_|cardboard|[AD741]
 |koverta|كُڤِرتة|_couverture_|blanket|
@@ -284,6 +285,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Vehicles__|__and__|__transport__|
 |ablatīn|ابلاتين|_platine_|contact breaker|[AD4]
 |ạmbaléh|أمبليه|_emballer_|revving the engine|[AD35]
+|ariéer|اريير|_arrière_|reverse|[AD16]
 |azbiratéer|ازبيراتير|_aspirateur_|distributor|[AD16]
 |baddāl|بدال|_pédale_|pedal|[AD58]
 |bujéh|بوجيه|_bougie_|spark plug|[CS57][AD53]
@@ -315,7 +317,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṭun|طن|_tonne_|ton|[AD,548]
 |miliōn|مليون|_million_|million|[BM]
 |milli|ملّي|_millimètre_|millimetre|[AD,833]
-
 
 <br>
 
