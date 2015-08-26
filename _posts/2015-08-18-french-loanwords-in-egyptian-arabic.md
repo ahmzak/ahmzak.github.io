@@ -317,15 +317,15 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Units__|
 |ambéer|امبير|_ampère_|ampere|[AD35]
-|booṣa|بوصة|_pouce_|inch|[AD,113]
-|kīlo|كيلو|_kilo_|kilogram, kilometre|[AD,774]
-|letr|لتر|_litre_|litre|[AD,780]
-|grām|جرام|_gramme_|gram|[AD,152]
+|booṣa|بوصة|_pouce_|inch|[AD113]
+|grām|جرام|_gramme_|gram|[AD152]
+|kīlo|كيلو|_kilo_|kilogram, kilometre|[AD774]
+|letr|لتر|_litre_|litre|[AD780]
 |metr|متر|_mètre_|metre|[AD810][BM]
-|ṣanti|صنتي|_centimètre_|centimetre|[AD,434]
-|ṭun|طن|_tonne_|ton|[AD,548]
 |miliōn|مليون|_million_|million|[BM]
-|milli|ملّي|_millimètre_|millimetre|[AD,833]
+|milli|ملّي|_millimètre_|millimetre|[AD833]
+|ṣanti|صنتي|_centimètre_|centimetre|[AD434]
+|ṭun|طن|_tonne_|ton|[AD548]
 
 <br>
 
