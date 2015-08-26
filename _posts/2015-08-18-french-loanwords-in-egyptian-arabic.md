@@ -319,6 +319,10 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |Ginacliz|
 |Port Said (بور),|
 
+<br>
+
+|itamīn|اتامين|_étamine_|material for cross-stitch embroidery|[AD6]
+
 #### Sources
 
 |[AC]|_"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, in _Zeitschrift für Arabische Linguistik_, no. 28, pp. 36-86, 1994.|[[↗]](http://www.digizeitschriften.de/dms/img/?PID=PPN513339353_0028%7Clog9)
