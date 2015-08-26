@@ -227,6 +227,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Professions__|
+|ablaséeh|ابلاسيه|_placier_|sales representative|[AD4]
 |bolīs|بوليس|_police_|police|[AD,103]
 |doktōr|دكتور|_docteur_|doctor|[AD,297]
 |gạrsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
