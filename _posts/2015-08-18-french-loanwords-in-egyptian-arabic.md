@@ -265,7 +265,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Social__|
 |alōh|آلوه|_allô_|hello (telephony)|[AD,34]
 |bonjoor|بنجور|_bonjour_|hello|[AD,105]
-|orovwār|اوروڤار|_au revoir_|goodbye|[AD,15]
+|orovwār|اوروڤار|_au revoir_|goodbye|[AD15]
 |onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD,41]
 |ṭanṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
 |ifféeh|افيه|_effet_|joke, quip|[AD,28]
