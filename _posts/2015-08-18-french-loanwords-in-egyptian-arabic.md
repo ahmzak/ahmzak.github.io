@@ -289,6 +289,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Vehicles__|__and__|__transport__|
 |ablatīn|ابلاتين|_platine_|contact breaker|[AD4]
+|aksilitéer|اكسلتير|_accelerateur_|accelerator|[AD29]
 |ạmbaléh|أمبليه|_emballer_|revving the engine|[AD35]
 |ariéer|اريير|_arrière_|reverse|[AD16]
 |asfalt|اسفلت|_asphalte_|asphalt|[AD22]
