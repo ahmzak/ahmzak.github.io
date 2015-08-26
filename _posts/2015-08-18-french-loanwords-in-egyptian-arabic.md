@@ -304,7 +304,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |Port Said (بور),|
 
 ## Sources
-- [AC] = _"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, 			in _Zeitschrift für Arabische Linguistik_, no.28, pp. 36-86, 1994.
+- [AC] = _"A Contribution to the Lexicography of Egyptian Arabic"_, D.Stewart, in _Zeitschrift für Arabische Linguistik_, no.28, pp. 36-86, 1994.
 - [AD] = _A Dictionary of Egyptian Arabic_, E.Badawi & M.Hinds, 1986.
 - [BM] = _"Borrowing in Modern Standard Arabic"_, Z.Ibrahim, in _Internet-Zeitschrift für Kulturwissenschaften_, no.16, June 2006. [[↗]](http://www.inst.at/trans/16Nr/01_4/zeinab16.htm)
 - [CS] = _Comparative Semitic Linguistics_, P.Bennett, 1998.
