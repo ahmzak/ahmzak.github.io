@@ -203,7 +203,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
-
 |__Office__|
 |aṣạnséer|اصنسير|_ascenseur_|elevator|[SR99][AD23][BM]
 |karnéh|كرنيه|_carnet_|ID card|
@@ -252,6 +251,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |radār|رادار|_radar_|radar|[AD,332]
 |shafrah|شفرة|_chiffre_|code, cipher|[AD,469]
 |kabl|كبل|_câble_|cable|[AD,733]
+|abséeh|ابسيه|_abcès_|abscess|[AD4]
+|ablatīn|ابلاتين|_platine_|platinum|[AD4]
 
 <br>
 
@@ -274,6 +275,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Vehicles__|__and__|__transport__|
+|ablatīna|ابلاتينة|_platine_|contact breaker|[AD4]
 |ạmbaléh|أمبليه|_emballer_|revving the engine|[AD,35]
 |otobīs|اوتوبيس|_autobus_|bus|[AD6]
 |baddāl|بدال|_pédale_|pedal|[AD58]
