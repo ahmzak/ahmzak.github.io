@@ -317,7 +317,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
-- [PM] = _"Phonological and Morphological Integration of Loanwords into Egyptian Arabic"_, O.Hafez, in _Les langues en Égypte_, no.27-28, pp. 383-410, 1996. 
 - [SL] = _Standard Languages: Spoken and Written_, W.Haas, 1982.
 - [SR] = _Sociolinguistic Reflections of Privatization and Globalization_, J.Pimentel, 2000.
 - [TA] = _Terms of Address_, F. Braun, 1988.
