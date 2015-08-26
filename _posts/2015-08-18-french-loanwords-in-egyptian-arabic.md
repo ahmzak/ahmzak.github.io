@@ -280,7 +280,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Vehicles__|__and__|__transport__|
 |ablatīn|ابلاتين|_platine_|contact breaker|[AD4]
 |ạmbaléh|أمبليه|_emballer_|revving the engine|[AD,35]
-|otobīs|اوتوبيس|_autobus_|bus|[AD6]
 |baddāl|بدال|_pédale_|pedal|[AD58]
 |bujéh|بوجيه|_bougie_|spark plug|[CS57][AD53]
 |debreyāj|دبرياج|_débrayage_|clutch|[AD276]
@@ -292,6 +291,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kawitsh|كاوتش|_caoutchouc_|car tires|[AC55]
 |motōr|موتور|_moteur_|motor|[AD811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD811]
+|otobīs|اوتوبيس|_autobus_|bus|[AD6]
+|ōtostob|اوتوستوب|_autostop_|hitch-hiking|[AD6]
 |shakmān|شكمان|_échappement_|exhaust pipe|[SL138][AD474]
 |torombīl|ترمبيل|_automobile_|car|[AD6]
 |trạnzīt|ترانزيت|_transit_|transit|[AD128]
