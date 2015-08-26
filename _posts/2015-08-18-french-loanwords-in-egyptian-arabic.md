@@ -30,6 +30,7 @@ meta:
 
 
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -87,12 +88,12 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bạrbatōz|برباتوز|_barboteuse_|overalls|[AC70]
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|
-|babyōna|ببيونه|_papillon_|bowtie|[AD51]
+|bibyōna|ببيونه|_papillon_|bowtie|[AD51]
 |bạnṭạlōn|بنطلون|_pantalon_|pants|[AD107]
 |jībah|جيبة|_jupe_|skirt|[AD,185]
 |short|شورت|_short_|short|
 |rōb|روب|_robe_|robe, dressing gown|[AD,355]
-|tayéer|تايير|_tailleur_|woman's suit|[AD,144]
+|tayéer|تايير|_tailleur_|woman's two-piece suit|[AD,144]
 |bạlto|بالطو|_paletot_|coat|[AD,99]
 |jaketta|جاكيت|_jaquette_|jacket|
 |jilé|جيلاي|_gilet_|waistcoast|
@@ -107,7 +108,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
 |bijama|بيجاما|_pyjama_|pyjamas|
 |ṣanḍal|صندل|_sandale_|sandal|
-|isbadrīn|اسبادرين|_espadrilles_|???|[AC70]
+|ispadrīn|اسبادرين|_espadrilles_|open-toed shoe|[AC70]
 |sbōr|سبور|_sport_|casual (of clothes)|[AD18][BM]
 
 <br>
@@ -317,6 +318,3 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |[SL]|_"Standard Languages: Spoken and Written"_, W.Haas, 1982.|[[↗]](https://books.google.ca/books?id=sza8AAAAIAAJ&dq)
 |[SR]|_"Sociolinguistic Reflections of Privatization and Globalization"_, J.Pimentel, 2000.|[[↗]](https://books.google.ca/books?id=PIkfAQAAMAAJ&q)
 |[TA]|_"Terms of Address"_, F.Braun, 1988.|[[↗]](https://books.google.ca/books?id=Li0yyzsjn60C&dq)
-
-
-
