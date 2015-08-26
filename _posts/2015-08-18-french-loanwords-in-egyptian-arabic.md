@@ -36,6 +36,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Around__|__the__|__house__|
 |abajōra|اباجورة|_abat-jour_|table lamp|[AD3]
+|ablīk|ابليك|_applique_|ornamental wall-lamp|[AD5]
 |ạntréh|أنتريه|_entrée_|living room furniture|[AD40]
 |baladōs|بلادوس|_baladeuse_|portable lamp|[AC54]
 |balakōna|بلكونة|_balcon_|balcony|[AD100]
