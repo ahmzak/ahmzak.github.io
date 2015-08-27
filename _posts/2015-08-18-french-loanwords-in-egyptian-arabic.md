@@ -148,6 +148,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Fashion__|__and__|__beauty__|
 |badikīr|باديكير|_pédicure_|pedicure|[AD57]
+|brōsh|بروش|_broche_|brooch|[AD71]
 |iksiswār|اكسسوار|_accessoire_|accesory|[AD29]
 |pạrfaan|برفان|_parfum_|perfume|[AC41][BM]
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA81][AD830]
@@ -263,6 +264,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kabl|كبل|_câble_|cable|[AD733]
 |abséeh|ابسيه|_abcès_|abscess|[AD4]
 |ablatīn|ابلاتين|_platine_|platinum|[AD4]
+|miliōn|مليون|_million_|million|[BM]
 
 <br>
 
@@ -321,7 +323,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kīlo|كيلو|_kilo_|kilogram, kilometre|[AD774]
 |letr|لتر|_litre_|litre|[AD780]
 |metr|متر|_mètre_|metre|[AD810][BM]
-|miliōn|مليون|_million_|million|[BM]
 |milli|ملّي|_millimètre_|millimetre|[AD833]
 |ṣanti|صنتي|_centimètre_|centimetre|[AD434]
 |ṭun|طن|_tonne_|ton|[AD548]
