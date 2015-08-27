@@ -26,6 +26,7 @@ meta:
   "audio-description": "Salon Mays, May 2012"
 ---
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -209,7 +210,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |org|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
 |disk|ديسك|_disque_|gramophone record|[AD,289]
-|korāl|كورال|_chorale_|choir|[AD,740]
+|korāl|كورال|_chorale_|choir|[AD740]
 
 <br>
 
