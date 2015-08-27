@@ -333,7 +333,9 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
+|__Art__|
 |itamīn|اتامين|_étamine_|material for cross-stitch embroidery|[AD6]
+|botréeh|برتريه|_portrait_|portrait|[AD61]
 
 <br>
 
