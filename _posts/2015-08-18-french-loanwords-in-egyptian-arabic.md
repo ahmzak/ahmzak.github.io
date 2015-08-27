@@ -62,7 +62,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bidéh|بيديه|_bidet_|bidet|[AD60]
 |dosh|دش|_douche_|shower|[AD289]
 |kabinéeh|كابينيه|_cabinet_|lavatory, toilet|[AD733]
-|pippiih|بيبيه|_pipi_|urine, pee|[AC42][AD51]
+|pippīh|بيبيه|_pipi_|urine, pee|[AC42][AD51]
 |sifōn|سيفون|_siphon_|flusher|[AD416]
 |twalit|تواليت|_toilette_|toilet|[AD141]
 
@@ -181,6 +181,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ateliéeh|اتيلييه|_atelier_|art studio, workshop|[AD6]
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bist|بست|_piste_|dance floor|[AC70]
+|butīk|بوتيك|_boutique_|boutique|[AD53]
 |pisiin|بيسين|_piscine_|pool|[AC41]
 |kabaraih|كباريه|_cabaret_|nightclub
 |patinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
