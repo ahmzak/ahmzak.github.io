@@ -293,6 +293,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |asfalt|اسفلت|_asphalte_|asphalt|[AD22]
 |azbiratéer|ازبيراتير|_aspirateur_|distributor|[AD16]
 |baddāl|بدال|_pédale_|pedal|[AD58]
+|barbarīz|بربريز|_pare-brise_|windscreen|[AD60]
 |bujéh|بوجيه|_bougie_|spark plug|[CS57][AD53]
 |debreyāj|دبرياج|_débrayage_|clutch|[AD276]
 |dereksyōn|دركسيون|_direction_|steering wheel|[AD287]
