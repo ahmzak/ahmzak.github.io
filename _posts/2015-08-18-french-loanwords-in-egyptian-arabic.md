@@ -263,15 +263,15 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Social__|
-|alōh|آلوه|_allô_|hello (telephony)|[AD,34]
+|alōh|آلوه|_allô_|hello (telephony)|[AD34]
 |ạngajéeh|انججيه|_engagé_|walking arm in arm, linking arms|[AD40] 
-|bonjoor|بنجور|_bonjour_|hello|[AD,105]
+|bonjoor|بنجور|_bonjour_|hello|[AD105]
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD15]
-|onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD,41]
-|ṭạnṭ|طنط|_tante_|aunt, respectful address to older women|[AD,138], [AD,548]
+|onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD41]
+|ṭạnṭ|طنط|_tante_|aunt, respectful address to older women|[AD138], [AD548]
 |ifféeh|افيه|_effet_|joke, quip|
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
-|tiip|تيب|_type_|type, distinct character|[AC42][AD142]
+|tīp|تيب|_type_|type, distinct character|[AC42][AD142]
 |orijināl|اوريجينال|_originale_|classy|[AD14]
 |pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
 |pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
