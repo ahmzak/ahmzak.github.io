@@ -146,17 +146,17 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Fashion__|__and__|__beauty__|
-|badikīr|باديكير|_pédicure_|pedicure|[AD,57]
+|badikīr|باديكير|_pédicure_|pedicure|[AD57]
 |iksiswār|اكسسوار|_accessoire_|accesory|[AD29]
 |pạrfaan|برفان|_parfum_|perfume|[AC41][BM]
-|makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA81][AD,830]
+|makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA81][AD830]
 |monokīr|مونوكير|_manucure_|manicure|
 |okaziōn|أوكازيون|_occasion_|sale, bargain|[AD29][BM]
-|rijīm|رجيم|_régime_|diet|[AD,329]
-|rooj|روج|_rouge_|lipstick|[AD,355]
+|rijīm|رجيم|_régime_|diet|[AD329]
+|rooj|روج|_rouge_|lipstick|[AD355]
 |séshwār|سشوار|_séchoir_|hair dryer|
-|shīk|شيك|_chic_|stylish, elegant|[AD,490]
-|solitéer|سولتير|_solitaire_|one-piece diamond ring|[AD,423]
+|shīk|شيك|_chic_|stylish, elegant|[AD490]
+|solitéer|سولتير|_solitaire_|one-piece diamond ring|[AD423]
 |ạnsyaal|انسيال|_intiales_|bracelet|[AC70]
 
 <br>
