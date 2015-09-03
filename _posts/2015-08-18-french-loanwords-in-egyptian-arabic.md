@@ -132,10 +132,11 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |byuréh|بيوريه|_purée_|puréed|[AD116]
 |gatōh|جاتوه|_gâteau_|pastry, small cake|[AD149]
 |intarkōt|انتركوت|_entrecôte_|entrecôte|[AD40]
-|sosīs|سوسيس|_saucisse_|sausage|[AD411]
-|shambanya|شامبانيا|_champagne_|champagne|[AD477]
 |komboot|كمبوت|_compote_|compote|[AD763]
+|korwasōn|كرواسون|_croissant_|croissant|[AD746]
+|shambanya|شامبانيا|_champagne_|champagne|[AD477]
 |sikk|سك|_sec_|dry, straight (of alcoholic drinks)|[AC73]
+|sosīs|سوسيس|_saucisse_|sausage|[AD411]
 
 <br>
 
@@ -169,7 +170,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Games__|__and__|__sports__|
 |āas|آس|_as_|ace (in cards)|[AD1]
 |ballōnah|بالونة|_ballon_|balloon|[AD102]
-|batinaaj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
+|batināj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
 |dām|دام|_dame_|queen (in cards)|[AD274]
 |rakit|راكيت|_raquette_|racquet|[AD319]
 |fīsh|فيش|_fiche_|tokens, chips (in games)|[AD679] 
