@@ -55,6 +55,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṣālah|صالة|_salle_|hall|
 |ṣạlōn|صالون|_salon_|living room|[AD510]
 |servīs|سرڤيس|_service_|serving platter|[AD409]
+|shalimōh|شاليموه|_chalumeau_|drinking straw|[???]
 |shanyōr|شنيور|_chignole_|drill|[AD482]
 |tilifōn|تليفون|_téléphone_|telephone|[AD135][BM]
 |telivizyōn|تلڤزيون|_télévision_|television|[AD135][BM]
@@ -115,7 +116,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ispadrīn|اسبادرين|_espadrilles_|open-toed shoe|[AC70]
 |sbōr|سبور|_sport_|casual (of clothes)|[AD18][BM]
 |portoféei|woman's purse
-
 
 <br>
 
