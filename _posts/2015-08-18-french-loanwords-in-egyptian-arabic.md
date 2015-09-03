@@ -268,7 +268,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kabl|كبل|_câble_|cable|[AD733]
 |abséeh|ابسيه|_abcès_|abscess|[AD4]
 |ablatīn|ابلاتين|_platine_|platinum|[AD4]
-|miliōn|مليون|_million_|million|[BM]
 
 <br>
 
@@ -321,13 +320,14 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
-|__Units__|
+|__Units__|__and__|__numbers__|
 |ambéer|امبير|_ampère_|ampere|[AD35]
 |booṣa|بوصة|_pouce_|inch|[AD113]
 |grām|جرام|_gramme_|gram|[AD152]
 |kīlo|كيلو|_kilo_|kilogram, kilometre|[AD774]
 |letr|لتر|_litre_|litre|[AD780]
 |metr|متر|_mètre_|metre|[AD810][BM]
+|miliōn|مليون|_million_|million|[BM][AD834]
 |milli|ملّي|_millimètre_|millimetre|[AD833]
 |ṣanti|صنتي|_centimètre_|centimetre|[AD434]
 |ṭun|طن|_tonne_|ton|[AD548]
