@@ -273,6 +273,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Social__|
+|ạlīṭ|أليط|_élite_|pompous, haughty|[???]
 |alōh|آلوه|_allô_|hello (telephony)|[AD34]
 |ạngajéeh|انججيه|_engagé_|walking arm in arm, linking arms|[AD40] 
 |bonjoor|بنجور|_bonjour_|hello|[AD105]
