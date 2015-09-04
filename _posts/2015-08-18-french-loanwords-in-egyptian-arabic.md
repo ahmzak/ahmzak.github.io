@@ -206,7 +206,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |pisiin|بيسين|_piscine_|pool|[AC41]
 |kabaraih|كباريه|_cabaret_|nightclub
 |kornéesh|كرنيش|_corniche_|esplanade|[AD746]
-|ṣạlōn|صالون|_salon_|hairdresser's establishment|[AD,510]
+|ṣạlōn|صالون|_salon_|hairdresser's establishment|[AD510][BM]
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
 |shaléeh|شاليه|_chalet_|chalet|[AD477][BM]
