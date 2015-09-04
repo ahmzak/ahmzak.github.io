@@ -93,7 +93,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bạrbatōz|برباتوز|_barboteuse_|overalls, for children|[AC70]
 |bibyōna|ببيونه|_papillon_|bowtie|[AD51]
 |bijama|بيجاما|_pyjama_|pyjamas|[BM]
-|blōza|بلوزة|_blouse_|blouse|[BM]
+|bilōza|بلوزة|_blouse_|blouse|[BM]
 |fanella|فانله|_flanelle_|undershirt|
 |gwanti|جوانتي|_gant_|gloves|
 |ishạrb|إشرب|_écharpe_|hijab|[AD24]
