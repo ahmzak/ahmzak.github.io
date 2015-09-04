@@ -29,6 +29,7 @@ meta:
 
 
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -249,6 +250,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Politics__|
 |diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD,278]
 |dimoqratiyyah|ديموقراطية|_démocratie_|democracy|[AD,303]
+|munawra|مناورة|_manoeuvre_|manoeuvre|[AD891]
 |otoqrātiyyah|اوتوقراطية|_autocratie_|autocracy|[AD6]
 |taktīk|تكتيك|_tactique_|tactics|[AD,132]
 
