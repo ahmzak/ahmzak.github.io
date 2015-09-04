@@ -286,6 +286,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kabl|كبل|_câble_|cable|[AD733]
 |abséeh|ابسيه|_abcès_|abscess|[AD4]
 |ablatīn|ابلاتين|_platine_|platinum|[AD4]
+|vitamīn|ڤيتامين|_vitamine_|vitamin|[AD640]
 
 <br>
 
