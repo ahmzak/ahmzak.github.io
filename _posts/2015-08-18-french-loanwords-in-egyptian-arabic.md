@@ -57,6 +57,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |servīs|سرڤيس|_service_|serving platter|[AD409]
 |shalimō|شاليمو|_chalumeau_|drinking straw|[???]
 |shanyōr|شنيور|_chignole_|drill|[AD482]
+|shizlong|شزلونج|_chaise-longue_|chaise longue|[AD464]
 |tilifōn|تليفون|_téléphone_|telephone|[AD135][BM]
 |telivizyōn|تلڤزيون|_télévision_|television|[AD135][BM]
 |tirās|تراس|_terrace_|terrace|[AD124][BM]
