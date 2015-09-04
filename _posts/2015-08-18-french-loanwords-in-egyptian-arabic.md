@@ -301,6 +301,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
 |pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
 |pristiij|برستيج|_prestige_|prestige|[AC41]
+|mersī|مرسي|_merci_|thank you|[GD61]
 |misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
 |iksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
 |sampatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
