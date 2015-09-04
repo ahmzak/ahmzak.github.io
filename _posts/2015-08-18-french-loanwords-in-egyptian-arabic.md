@@ -320,6 +320,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kabboot|كبّوت|_capot_|bonnet/hood|[AD730]
 |kalax|كلكس|_klaxon_|car horn|[AD760]
 |kawitsh|كاوتش|_caoutchouc_|car tires|[AC55]
+|modéel|موديل|_modèle_|model (cars)|[AD815][BM]
 |motōr|موتور|_moteur_|motor|[AD811]
 |motosikl|موتوسكل|_motocyclette_|motorcycle|[AD811]
 |otobīs|اوتوبيس|_autobus_|bus|[AD6]
