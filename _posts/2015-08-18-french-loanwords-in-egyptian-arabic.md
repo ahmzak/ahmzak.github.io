@@ -88,35 +88,35 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Clothing__|
-|kasketta|كسكتة|_casquette_|cap|[AD751]
-|éshạrb|إشرب|_écharpe_|hijab|[AD24]
-|bạrbatōz|برباتوز|_barboteuse_|overalls, for children|[AC70]
-|blōza|بلوزة|_blouse_|blouse|
-|karavatta|كرڤتة|_cravate_|necktie|[PM]
-|bibyōna|ببيونه|_papillon_|bowtie|[AD51]
-|bạnṭạlōn|بنطلون|_pantalon_|pants|[AD107][BM]
-|jībah|جيبة|_jupe_|skirt|[AD,185]
-|short|شورت|_short_|short|
-|rōb|روب|_robe_|robe, dressing gown|[AD,355]
-|tayéer|تايير|_tailleur_|woman's two-piece suit|[AD,144]
 |bạlto|بالطو|_paletot_|coat|[AD,99]
-|jaketta|جاكيت|_jaquette_|jacket|
-|jilé|جيلاي|_gilet_|waistcoast|
-|gwanti|جوانتي|_gant_|gloves|
-|fanella|فانله|_flanelle_|undershirt|
-|mayōh|مايوه|_maillot_|swimsuit|[AD,842]
-|sotiān|ستيان|_soutien_|bra|[AD,399]
-|kolot|كُلُت|_culotte_|underwear|[AD,758]
-|slib|سلِب|_slip_|briefs|[AD,422]
-|kalsōn|كلسون|_caleçon_|boxers|[AD,759]
-|kolōn|كولون|_collant_|stockings, pantyhose|[AD,762]
-|kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
+|bạnṭạlōn|بنطلون|_pantalon_|pants|[AD107][BM]
+|bạrbatōz|برباتوز|_barboteuse_|overalls, for children|[AC70]
+|bibyōna|ببيونه|_papillon_|bowtie|[AD51]
 |bijama|بيجاما|_pyjama_|pyjamas|
-|ṣanḍal|صندل|_sandale_|sandal|
+|blōza|بلوزة|_blouse_|blouse|
+|fanella|فانله|_flanelle_|undershirt|
+|gwanti|جوانتي|_gant_|gloves|
+|ishạrb|إشرب|_écharpe_|hijab|[AD24]
 |ismoking|اسموكينغ|_smoking_|tuxedo|[AD23]
 |ispadrīn|اسبادرين|_espadrilles_|open-toed shoe|[AC70]
+|jaketta|جاكيت|_jaquette_|jacket|
+|jībah|جيبة|_jupe_|skirt|[AD,185]
+|jilé|جيلاي|_gilet_|waistcoast|
+|kalsōn|كلسون|_caleçon_|boxers|[AD,759]
+|karavatta|كرڤتة|_cravate_|necktie|[PM]
+|kasketta|كسكتة|_casquette_|cap|[AD751]
+|kolōn|كولون|_collant_|stockings, pantyhose|[AD,762]
+|kolot|كُلُت|_culotte_|underwear|[AD,758]
+|kombinezōn|كومبنزون|_combinaison_|women's slip, petticoat|[AD,763]
+|mayōh|مايوه|_maillot_|swimsuit|[AD,842]
+|portoféei|بورتوفي|_portefeuille_|woman's purse|[???]
+|rōb|روب|_robe_|robe, dressing gown|[AD,355]
+|ṣanḍal|صندل|_sandale_|sandal|
 |sbōr|سبور|_sport_|casual (of clothes)|[AD18][BM]
-|portoféei|woman's purse
+|short|شورت|_short_|short|
+|slib|سلِب|_slip_|briefs|[AD,422]
+|sotiān|ستيان|_soutien_|bra|[AD,399]
+|tayéer|تايير|_tailleur_|woman's two-piece suit|[AD,144]
 
 <br>
 
