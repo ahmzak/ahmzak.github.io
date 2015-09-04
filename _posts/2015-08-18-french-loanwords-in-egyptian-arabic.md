@@ -47,7 +47,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |istīl|استيل|_style_|furniture in French rococo style|[AD20]
 |kanaba|كنبة|_canapé_|sofa|[AD766]
 |kartōn|كارتون|_carton_|cardboard|[AD741]
-|koverta|كُڤِرتة|_couverture_|blanket|
+|koverta|كُڤِرتة|_couverte_|blanket|[???]
 |mokit|موكيت|_moquette_|wall-to-wall carpet|[AC76][BM]
 |ofīs|اوفيس|_office_|pantry|[AD28]
 |panōh|بانوه|_panneau_|panel with moulded decorations|[AD107]
