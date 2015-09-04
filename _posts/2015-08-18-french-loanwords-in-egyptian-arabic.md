@@ -73,6 +73,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |itamīn|اتامين|_étamine_|material for cross-stitch embroidery|[AD6]
 |kawalīs|كواليس|_coulisse_|backdrop, backstage|[AD,770]
 |kumbars|كمبارس|_comparse_|extra|[AD,763]
+|kumidia|كوميديا|_comédie_|comedy|[BM]
 |lōj|لوج|_loge_|cinema/theater box|[AD,803]
 |sīma|سيما|_cinéma_|cinema|[AD436]
 |sinarist|سنارست|_scénariste_|screenwriter|[AD,435]
