@@ -250,7 +250,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Politics__|
 |diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD278]
 |dimoqratiyyah|ديموقراطية|_démocratie_|democracy|[AD303]
-|munawra|مناورة|_manoeuvre_|manoeuvre|[AD891][PM][AE273]
+|munawra|مناورة|_manoeuvre_|manoeuvre|[AD891][AE273][PM]
 |otoqrātiyyah|اوتوقراطية|_autocratie_|autocracy|[AD6]
 |taktīk|تكتيك|_tactique_|tactics|[AD,132]
 
