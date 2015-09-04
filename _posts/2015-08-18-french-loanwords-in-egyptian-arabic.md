@@ -248,9 +248,9 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Politics__|
-|diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD,278]
-|dimoqratiyyah|ديموقراطية|_démocratie_|democracy|[AD,303]
-|munawra|مناورة|_manoeuvre_|manoeuvre|[AD891][PM]
+|diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD278]
+|dimoqratiyyah|ديموقراطية|_démocratie_|democracy|[AD303]
+|munawra|مناورة|_manoeuvre_|manoeuvre|[AD891][PM][AE273]
 |otoqrātiyyah|اوتوقراطية|_autocratie_|autocracy|[AD6]
 |taktīk|تكتيك|_tactique_|tactics|[AD,132]
 
