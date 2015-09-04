@@ -347,6 +347,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |botréeh|برتريه|_portrait_|portrait|[AD61]
 |brofīl|بروفيل|_profile_|profile|[AD67]
 |itamīn|اتامين|_étamine_|material for cross-stitch embroidery|[AD6]
+|sirialiyya|سريالية|_surréalisme_|surrealism|[BM]
 
 <br>
 
