@@ -72,6 +72,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
 |doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
 |itamīn|اتامين|_étamine_|material for cross-stitch embroidery|[AD6]
+|kasit|كاسيت|_cassette_|cassette tape|[AD748][BM]
 |kawalīs|كواليس|_coulisse_|backdrop, backstage|[AD,770]
 |kumbars|كمبارس|_comparse_|extra|[AD,763]
 |kumidia|كوميديا|_comédie_|comedy|[BM]
