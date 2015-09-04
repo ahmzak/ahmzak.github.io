@@ -198,7 +198,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bank|بانك|_banque_|bank|[BM]
 |belāj|بلاج|_plage_|beach|[AD,95]
 |bist|بست|_piste_|dance floor|[AC70]
-|butīk|بوتيك|_boutique_|boutique|[AD53]
+|butīk|بوتيك|_boutique_|boutique|[AD53][BM]
 |pisiin|بيسين|_piscine_|pool|[AC41]
 |kabaraih|كباريه|_cabaret_|nightclub
 |kornéesh|كرنيش|_corniche_|esplanade|[AD746]
