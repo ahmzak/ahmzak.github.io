@@ -172,6 +172,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |séshwār|سشوار|_séchoir_|hair dryer|
 |shīk|شيك|_chic_|stylish, elegant|[AD490]
 |solitéer|سولتير|_solitaire_|one-piece diamond ring|[AD423]
+|tirikōh|تريكو|_tricot_|knitting|[AD126][BM]
 
 <br>
 
