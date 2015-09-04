@@ -41,7 +41,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |berīza|بريزة|_prise_|electric socket|[AD72]
 |bibrōna|ببرونة|_biberon_|baby-bottle|[AC70]
 |bukéeh|بوكيه|_bouquet_|bouquet|[AD95]
-|butagāz|بتجاز|_Butagaz_|cooking stove|[AD52]
+|butagāz|بتجاز|_Butagaz_|cooking stove|[AD52][BM]
 |dikōr|ديكور|_décor_|decoration|[AD299][BM]
 |fīsha|فيشة|_fiche_|plug|[AD679]
 |istīl|استيل|_style_|furniture in French rococo style|[AD20]
