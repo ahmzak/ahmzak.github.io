@@ -118,7 +118,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |portoféei|بورتوفي|_portefeuille_|woman's purse|[???]
 |rōb|روب|_robe_|robe, dressing gown|[AD,355]
 |ṣanḍal|صندل|_sandale_|sandal|
-|sbōr|سبور|_sport_|casual (of clothes)|[AD18][BM]
 |short|شورت|_short_|short|
 |slib|سلِب|_slip_|briefs|[AD,422]
 |sotiān|ستيان|_soutien_|bra|[AD,399]
@@ -169,7 +168,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |okaziōn|أوكازيون|_occasion_|sale, bargain|[AD29][BM]
 |rijīm|رجيم|_régime_|diet|[AD329]
 |rooj|روج|_rouge_|lipstick|[AD355]
-|séshwār|سشوار|_séchoir_|hair dryer|
+|sbōr|سبور|_sport_|casual (of clothes)|[AD18][BM]
+|sishwār|سشوار|_séchoir_|hair dryer|
 |shīk|شيك|_chic_|stylish, elegant|[AD490]
 |solitéer|سولتير|_solitaire_|one-piece diamond ring|[AD423]
 |tirikōh|تريكو|_tricot_|knitting|[AD126][BM]
