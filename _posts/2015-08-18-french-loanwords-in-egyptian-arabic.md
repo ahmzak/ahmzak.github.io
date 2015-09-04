@@ -179,7 +179,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Games__|__and__|__sports__|
-|āas|آس|_as_|ace (in cards)|[AD1]
+|ās|آس|_as_|ace (in cards)|[AD1]
 |ballōnah|بالونة|_ballon_|balloon|[AD102]
 |batināj|باتيناج|_patinage_|skating, skating-rink|[AC41][AD53]
 |dām|دام|_dame_|queen (in cards)|[AD274]
