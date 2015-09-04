@@ -28,6 +28,7 @@ meta:
 
 
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -93,7 +94,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |blōza|بلوزة|_blouse_|blouse|
 |karavatta|كرڤتة|_cravate_|necktie|[PM]
 |bibyōna|ببيونه|_papillon_|bowtie|[AD51]
-|bạnṭạlōn|بنطلون|_pantalon_|pants|[AD107]
+|bạnṭạlōn|بنطلون|_pantalon_|pants|[AD107][BM]
 |jībah|جيبة|_jupe_|skirt|[AD,185]
 |short|شورت|_short_|short|
 |rōb|روب|_robe_|robe, dressing gown|[AD,355]
