@@ -272,8 +272,9 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Science__|__and__|__technology__|
 |anzīm|انزيم|_enzyme_|enzyme|[AD40]
+|bandul|بندول|_pendule_|pendulum|[AD106][PM]
+|béej|بيج|_beige_|beige|[AD115]
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD52]
-|baij|بيج|_beige_|beige|[AD115]
 |tirikwāz|تركواز|_turquoise_|turquoise|[AD126]
 |termometr|ترمومتر|_thermomètre_|thermometer|[AD127]
 |telescōb|تلسكوب|_télescope_|telescope|[AD134]
