@@ -210,6 +210,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |sirk|سرك|_cirque_|circus|[AD,410]
 |shaléeh|شاليه|_chalet_|chalet|[AD477][BM]
 |otéel|أوتيل|_hôtel_|hotel|[AC69]
+|villah|ڤيللا|_villa_|villa|[BM]
 
 <br>
 
