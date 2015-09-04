@@ -206,7 +206,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṣạlōn|صالون|_salon_|hairdresser's establishment|[AD,510]
 |stād|ستاد|_stade_|stadium|[AD,18]
 |sirk|سرك|_cirque_|circus|[AD,410]
-|shaléeh|شاليه|_chalet_|chalet|[AD,477]
+|shaléeh|شاليه|_chalet_|chalet|[AD477][BM]
 |otéel|أوتيل|_hôtel_|hotel|[AC69]
 
 <br>
