@@ -219,7 +219,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |akordāj|اكورداج|_accordage_|(piano) tuning|[AD28]
 |akordiōn|اكورديون|_accordion_|accordion|[AD29]
 |bimōl|بيمول|_bémol_|flat|[AD,104]
-|diéz|دييز|_dièse_|sharp|[AD,317]
+|diéez|دييز|_dièse_|sharp|[AD,317]
 |kobléeh|كوبليه|_couplet_|verse|[AD,733]
 |obwa|أبوا|_hautbois_|oboe|[AD5]
 |oktāf|اوكتاف|_octave_|octave|[AD28]
