@@ -48,7 +48,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kanaba|كنبة|_canapé_|sofa|[AD766]
 |kartōn|كارتون|_carton_|cardboard|[AD741]
 |koverta|كُڤِرتة|_couverture_|blanket|
-|mobilia|موبيليا|_mobilier_|furniture|[BM]
 |mokit|موكيت|_moquette_|wall-to-wall carpet|[AC76][BM]
 |ofīs|اوفيس|_office_|pantry|[AD28]
 |panōh|بانوه|_panneau_|panel with moulded decorations|[AD107]
@@ -227,7 +226,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |oprett|اوبريت|_opérette_|operetta|[AD3]
 |org|اورج|_orgue_|electric organ|[AD,13]
 |gitār|جيتار|_guitar_|guitar|[AD,148]
-|disk|ديسك|_disque_|gramophone record|[AD,289]
+|disk|ديسك|_disque_|gramophone record|[AD289]
 |korāl|كورال|_chorale_|choir|[AD740]
 
 <br>
