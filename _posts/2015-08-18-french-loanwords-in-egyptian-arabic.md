@@ -297,8 +297,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bāba, babāya|بابا|_papa_|dad (upper-middle class)|[GD61]
 |bonjoor|بنجور|_bonjour_|hello|[AD105]
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD15]
-|onkel|أونكل|_oncle_|uncle, respectful address to older men|[AD41]
-|ṭạnṭ|طنط|_tante_|aunt, respectful address to older women|[AD138], [AD548]
+|onkel|أونكل|_oncle_|uncle, polite address to older men|[AD41]
+|ṭạnṭ|طنط|_tante_|aunt, polite address to older women|[AD138][AD548]
 |ifféeh|افيه|_effet_|joke, quip|
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
 |tīp|تيب|_type_|type, distinct character|[AC42][AD142]
