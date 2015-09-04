@@ -354,7 +354,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |miliōn|مليون|_million_|million|[BM][AD834]
 |milli|ملّي|_millimètre_|millimetre|[AD833]
 |nimrah|نمرة|_numéro_|number|[???]
-|ṣanti|صنتي|_centimètre_|centimetre|[AD434]
+|ṣanti|صنتي|_centimètre_|centimetre|[AD434][AE130]
 |ṭun|طن|_tonne_|ton|[AD548]
 
 <br>
