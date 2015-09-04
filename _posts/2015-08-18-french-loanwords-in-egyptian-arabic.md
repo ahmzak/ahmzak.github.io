@@ -64,6 +64,23 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
+|__Arts__|__and__|__cinema__|
+|afīsh|أفيش|_affiche_|poster|[AD28]
+|botréeh|برتريه|_portrait_|portrait|[AD61]
+|brofīl|بروفيل|_profile_|profile|[AD67]
+|doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
+|doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
+|itamīn|اتامين|_étamine_|material for cross-stitch embroidery|[AD6]
+|kawalīs|كواليس|_coulisse_|backdrop, backstage|[AD,770]
+|kumbars|كمبارس|_comparse_|extra|[AD,763]
+|lōj|لوج|_loge_|cinema/theater box|[AD,803]
+|sīma|سيما|_cinéma_|cinema|[AD436]
+|sinarist|سنارست|_scénariste_|screenwriter|[AD,435]
+|sirialiyya|سريالية|_surréalisme_|surrealism|[BM]
+|tetr|تتر|_titre_|credits|[AD, 122]
+
+<br>
+
 |__Bathroom__|
 |bidéh|بيديه|_bidet_|bidet|[AD60]
 |dosh|دش|_douche_|shower|[AD289]
@@ -71,19 +88,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |pippīh|بيبيه|_pipi_|urine, pee|[AC42][AD51]
 |sifōn|سيفون|_siphon_|flusher|[AD416]
 |twalit|تواليت|_toilette_|toilet|[AD141]
-
-<br>
-
-|__Cinema__|
-|sīma|سيما|_cinéma_|cinema|[AD436]
-|afīsh|أفيش|_affiche_|poster|[AD28]
-|doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
-|doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
-|lōj|لوج|_loge_|cinema/theater box|[AD,803]
-|senarist|سنارست|_scénariste_|screenwriter|[AD,435]
-|tetr|تتر|_titre_|credits|[AD, 122]
-|kawalīs|كواليس|_coulisse_|backdrop, backstage|[AD,770]
-|kumbars|كمبارس|_comparse_|extra|[AD,763]
 
 <br>
 
@@ -340,14 +344,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Common__|__names__|
 |Ginacliz|
 |Port Said (بور),|
-
-<br>
-
-|__Art__|
-|botréeh|برتريه|_portrait_|portrait|[AD61]
-|brofīl|بروفيل|_profile_|profile|[AD67]
-|itamīn|اتامين|_étamine_|material for cross-stitch embroidery|[AD6]
-|sirialiyya|سريالية|_surréalisme_|surrealism|[BM]
 
 <br>
 
