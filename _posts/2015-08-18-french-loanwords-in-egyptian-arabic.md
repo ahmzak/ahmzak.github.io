@@ -295,6 +295,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |alōh|آلوه|_allô_|hello (telephony)|[AD34]
 |ạngajéeh|انججيه|_engagé_|walking arm in arm, linking arms|[AD40] 
 |bāba, babāya|بابا|_papa_|dad (upper-middle class)|[GD61]
+|boniyya|بنية|_poing_|fist, blow|[AE27]
 |bonjoor|بنجور|_bonjour_|hello|[AD105]
 |orovwār|اوروڤار|_au revoir_|goodbye|[AD15]
 |onkel|أونكل|_oncle_|uncle, polite address to older men|[AD41]
