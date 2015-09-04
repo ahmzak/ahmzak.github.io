@@ -280,7 +280,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |telescōb|تلسكوب|_télescope_|telescope|[AD134]
 |khartoosh|خرطوش|_cartouche_|cartridge|[AD247]
 |dinamo|دينامو|_dynamo_|dynamo|[AD305]
-|dinamīt|ديناميت|_dynamite_|[AD305]
+|dinamīt|ديناميت|_dynamite_|dynamite|[AD305]
 |radār|رادار|_radar_|radar|[AD332]
 |shafrah|شفرة|_chiffre_|code, cipher|[AD469]
 |kabl|كبل|_câble_|cable|[AD733]
