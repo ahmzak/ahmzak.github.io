@@ -116,7 +116,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |short|شورت|_short_|short|
 |slib|سلِب|_slip_|briefs|[AD,422]
 |sotiān|ستيان|_soutien_|bra|[AD,399]
-|tayéer|تايير|_tailleur_|woman's two-piece suit|[AD,144]
+|tayéer|تايير|_tailleur_|woman's two-piece suit|[AD144][BM]
 
 <br>
 
