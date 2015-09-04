@@ -81,7 +81,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |sīma|سيما|_cinéma_|cinema|[AD436]
 |sinarist|سنارست|_scénariste_|screenwriter|[AD,435]
 |sirialiyya|سريالية|_surréalisme_|surrealism|[BM]
-|tetr|تتر|_titre_|credits|[AD, 122]
+|tablōh|تابلوه|_tableau_|painting, mural|[AD121][BM]
+|tetr|تتر|_titre_|credits|[AD122]
 
 <br>
 
