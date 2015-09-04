@@ -92,7 +92,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bạnṭạlōn|بنطلون|_pantalon_|pants|[AD107][BM]
 |bạrbatōz|برباتوز|_barboteuse_|overalls, for children|[AC70]
 |bibyōna|ببيونه|_papillon_|bowtie|[AD51]
-|bijama|بيجاما|_pyjama_|pyjamas|
+|bijama|بيجاما|_pyjama_|pyjamas|[BM]
 |blōza|بلوزة|_blouse_|blouse|
 |fanella|فانله|_flanelle_|undershirt|
 |gwanti|جوانتي|_gant_|gloves|
@@ -152,6 +152,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Fashion__|__and__|__beauty__|
+|ạnsyāl|انسيال|_intiales_|bracelet|[AC70]
 |badikīr|باديكير|_pédicure_|pedicure|[AD57]
 |brōsh|بروش|_broche_|brooch|[AD71]
 |iksiswār|اكسسوار|_accessoire_|accesory|[AD29][BM]
@@ -164,7 +165,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |séshwār|سشوار|_séchoir_|hair dryer|
 |shīk|شيك|_chic_|stylish, elegant|[AD490]
 |solitéer|سولتير|_solitaire_|one-piece diamond ring|[AD423]
-|ạnsyaal|انسيال|_intiales_|bracelet|[AC70]
 
 <br>
 
