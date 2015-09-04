@@ -49,7 +49,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kartōn|كارتون|_carton_|cardboard|[AD741]
 |koverta|كُڤِرتة|_couverture_|blanket|
 |mobilia|موبيليا|_mobilier_|furniture|[BM]
-|mokit|موكيت|_moquette_|wall-to-wall carpet|[AC76]
+|mokit|موكيت|_moquette_|wall-to-wall carpet|[AC76][BM]
 |ofīs|اوفيس|_office_|pantry|[AD28]
 |panōh|بانوه|_panneau_|panel with moulded decorations|[AD107]
 |rạdiu|راديو|_radio_|radio|[AD333]
