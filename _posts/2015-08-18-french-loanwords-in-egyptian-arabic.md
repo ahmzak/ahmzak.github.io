@@ -113,7 +113,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |jībah|جيبة|_jupe_|skirt|[AD,185]
 |jilé|جيلاي|_gilet_|waistcoast|
 |kalsōn|كلسون|_caleçon_|boxers|[AD,759]
-|karavatta|كرڤتة|_cravate_|necktie|[PM]
+|karavatta|كرڤتة|_cravate_|necktie|[PM]|poss It. _cravatta_
 |kasketta|كسكتة|_casquette_|cap|[AD751]
 |kolōn|كولون|_collant_|stockings, pantyhose|[AD,762]
 |kolot|كُلُت|_culotte_|underwear|[AD,758]
