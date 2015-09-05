@@ -152,7 +152,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Education__|
 |bakaloria/-iōs|بكالوريا|_baccalauréat_|bachelor's degree|[AD,94]
-|diblōm|دبلوم|_diplôme_|diploma|[AD278][BM]
+|diblōm|دبلوم|_diplôme_|diploma|[AD278][BM][PM]
 |doktorāh|دكتوراه|_doctorat_|doctorate|[AD,297]
 |liséeh|ليسيه|_lycée_|French school|
 |lissans|ليسانس|_licence_|degree, usu. Arts|[AD,788]
