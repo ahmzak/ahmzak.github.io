@@ -237,7 +237,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |aṣạnséer|اصنسير|_ascenseur_|elevator|[SR99][AD23][BM]
 |karnéeh|كرنيه|_carnet_|ID card|[AD746]
 |kart|كارت|_carte_|card|[AD,741]
-|gornān|جرنان|_journal_|newspaper|[AD,157]
+|gornān|جرنان|_journal_|newspaper|[AD157][PM]
 |aklaséer|اكلاسير|_classeur_|file/binder|[AD,759]
 |duséh|دوسيه|_dossier_|folder, dossier|[AD,289]
 |arshīf|ارشيف|_archive_|archive|[AD,14]
