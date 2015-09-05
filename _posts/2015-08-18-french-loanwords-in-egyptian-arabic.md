@@ -138,6 +138,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bitifōr|بتيفور|_petit four_|petit four|[AD52]
 |bashamel|بشمل|_béchamel_|béchamel sauce|[AD78]
 |bodra|بودرة|_poudre_|powder|[AD57]
+|bonbōni|بونبون|_bonbon_|candy|[???]
 |buftéek|بفتيك|_bifteck_|beefsteak|[AD89]
 |buféeh|بوفيه|_buffet_|buffet|[AD89]
 |banéeh|بانيه|_pané_|breaded|[AD108]
