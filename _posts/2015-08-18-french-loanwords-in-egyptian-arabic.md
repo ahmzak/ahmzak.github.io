@@ -243,9 +243,9 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |duséh|دوسيه|_dossier_|folder, dossier|[AD,289]
 |arshīf|ارشيف|_archive_|archive|[AD,14]
 |basbōr|باسبور|_passeport_|passport|[AD,73]
-|shīk|شيك|_chèque_|cheque|[AD,490]
-|astik|أستك|_élastique_|elastic band|
-|astīkah|أستيكة|_élastique_|eraser|[AD,20]
+|shīk|شيك|_chèque_|cheque|[AD490]
+|astik|أستك|_élastique_|elastic band|[PM]
+|astīkah|أستيكة|_élastique_|eraser|[AD20]
 
 <br>
 
