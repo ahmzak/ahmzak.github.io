@@ -30,6 +30,7 @@ meta:
 
 
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -299,21 +300,21 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bāba, babāya|بابا|_papa_|dad (upper-middle class)|[GD61]
 |boniyya|بنية|_poing_|fist, blow|[AE27]
 |bonjoor|بنجور|_bonjour_|hello|[AD105]
-|orovwār|اوروڤار|_au revoir_|goodbye|[AD15]
-|onkel|أونكل|_oncle_|uncle, polite address to older men|[AD41]
-|ṭạnṭ|طنط|_tante_|aunt, polite address to older women|[AD138][AD548]
 |ifféeh|افيه|_effet_|joke, quip|
+|iksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
-|tīp|تيب|_type_|type, distinct character|[AC42][AD142]
-|orijināl|اوريجينال|_originale_|classy|[AD14]
-|pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
-|pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
-|pristiij|برستيج|_prestige_|prestige|[AC41]
 |māma, mạmti|ماما|_mama_|mom (upper-middle class)|[GD61]
 |mersī|مرسي|_merci_|thank you|[GD61]
 |misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
-|iksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
+|onkel|أونكل|_oncle_|uncle, polite address to older men|[AD41]
+|orijināl|اوريجينال|_originale_|classy|[AD14]
+|orovwār|اوروڤار|_au revoir_|goodbye|[AD15]
+|pạạpi|بابي|_papi_|daddy, used by upper-class females|[AC41]
+|pạrdoon|بردون|_pardon_|excuse me, sorry|[AC41]
+|pristiij|برستيج|_prestige_|prestige|[AC41]
 |sampatiik|سمباتيك|_sympathique_|pleasant, agreeable|[AC73]
+|ṭạnṭ|طنط|_tante_|aunt, polite address to older women|[AD138][AD548]
+|tīp|تيب|_type_|type, distinct character|[AC42][AD142]
 
 <br>
 
