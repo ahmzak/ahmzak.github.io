@@ -260,7 +260,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Professions__|
 |ablaséeh|ابلاسيه|_placier_|sales representative|[AD4]
 |bolīs|بوليس|_police_|police|[AD,103]
-|doktōr|دكتور|_docteur_|doctor|[AD,297]
+|doktōr|دكتور|_docteur_|doctor|[AD297][PM]
 |gạrsōn|جارسون|_garçon_|waiter|[TA,182][AD,155]
 |kwaféer|كوافير|_coiffeur_|hairdresser|[AD770][GD61]
 |sekertéer|سكرتير|_secrétaire_|secretary|[AD,420]
