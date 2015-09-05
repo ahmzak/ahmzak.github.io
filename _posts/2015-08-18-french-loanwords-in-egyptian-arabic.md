@@ -342,7 +342,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shakmān|شكمان|_échappement_|exhaust pipe|[SL138][AD474]
 |torombīl|ترمبيل|_automobile_|car|[AD6]
 |trạnzīt|ترانزيت|_transit_|transit|[AD128]
-|wabur|وابور|_vapeur_|steam-engine train|[AE301][PM]
+|wabur|وابور|_vapeur_|steam-engine train|[AE301][PM]|poss. It. _vapore_
 
 <br>
 
