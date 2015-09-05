@@ -67,7 +67,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Arts__|__and__|__cinema__|
-|afīsh|أفيش|_affiche_|poster|[AD28]
+|afīsh|أفيش|_affiche_|poster, billboard|[AD28]
 |baléeh|باليه|_ballet_|ballet|[BM]
 |botréeh|برتريه|_portrait_|portrait|[AD61]
 |brofīl|بروفيل|_profile_|profile|[AD67]
