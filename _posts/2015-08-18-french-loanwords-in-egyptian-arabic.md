@@ -170,7 +170,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |kilasīki|كلاسيكي|_classique_|classic(al)|[AD759][BM]
 |pạrfaan|برفان|_parfum_|perfume|[AC41][BM]
 |makiāj|مكياج|_maquillage_|makeup, cosmetics|[PA81][AD830]
-|monokīr|مونوكير|_manucure_|manicure|
+|monokīr|مونوكير|_manucure_|manicure|[PM]
 |okaziōn|أوكازيون|_occasion_|sale, bargain|[AD29][BM]
 |rijīm|رجيم|_régime_|diet|[AD329]
 |rooj|روج|_rouge_|lipstick|[AD355]
