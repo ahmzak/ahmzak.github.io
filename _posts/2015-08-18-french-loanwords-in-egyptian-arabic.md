@@ -248,6 +248,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shīk|شيك|_chèque_|cheque|[AD490]
 |astik|أستك|_élastique_|elastic band|[PM]
 |astīkah|أستيكة|_élastique_|eraser|[AD20]
+|manshet|مانشت|_manchette_|newspaper headline|[AD836]
 
 <br>
 
