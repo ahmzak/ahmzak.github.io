@@ -299,15 +299,16 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Social__|
 |ạlīṭ|أليط|_élite_|pompous, haughty|[???]
 |alōh|آلوه|_allô_|hello (telephony)|[AD34]
-|ạngajéeh|انججيه|_engagé_|walking arm in arm, linking arms|[AD40] 
+|ạngajeeh|انججيه|_engagé_|walking arm in arm, linking arms|[AD40] 
 |bāba, babāya|بابا|_papa_|dad (upper-middle class)|[GD61]
 |boniyya|بنية|_poing_|fist, blow|[AE27]
 |bonjoor|بنجور|_bonjour_|hello|[AD105]
 |ifféeh|افيه|_effet_|joke, quip|
 |iksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
-|itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
+|itikeet|اتيكيت|_étiquette_|etiquette|[AD6]
 |madām|مدام|_madame_|address to married woman|[AD813]
 |māma, mạmti|ماما|_mama_|mom (upper-middle class)|[GD61]
+|mazmazeel|مزمزيل|_mademoiselle_|address to unmarried woman|[AD820]
 |mersī|مرسي|_merci_|thank you|[GD61]
 |misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
 |onkel|أونكل|_oncle_|uncle, polite address to older men|[AD41]
