@@ -361,7 +361,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |letr|لتر|_litre_|litre|<sup>[AD780]</sup>
 |metr|متر|_mètre_|metre|<sup>[AD810][BM]</sup>
 |miliōn|مليون|_million_|million|<sup>[BM][AD834]</sup>
-|milli|ملّي|_millimètre_|millimetre<sup>|[AD833][AE272]</sup>
+|milli|ملّي|_millimètre_|millimetre|<sup>[AD833][AE272]</sup>
 |nimra|نمرة|_numéro_|number|<sup>[LA136]</sup>|poss. It. _numero_
 |ṣanti|صنتي|_centimètre_|centimetre|<sup>[AD434][AE130]</sup>
 |ṭun|طن|_tonne_|ton|<sup>[AD548]</sup>
