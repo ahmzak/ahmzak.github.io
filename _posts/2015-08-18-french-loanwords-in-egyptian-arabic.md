@@ -356,15 +356,15 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Units__|__and__|__numbers__|
 |ambeer|امبير|_ampère_|ampere|<sup>[AD35]</sup>
 |booṣa|بوصة|_pouce_|inch|<sup>[AD113][AE29]</sup>
-|grām|جرام|_gramme_|gram|[AD152]
-|kīlo|كيلو|_kilo_|kilogram, kilometre|[AD774]
-|letr|لتر|_litre_|litre|[AD780]
-|metr|متر|_mètre_|metre|[AD810][BM]
-|miliōn|مليون|_million_|million|[BM][AD834]
-|milli|ملّي|_millimètre_|millimetre|[AD833][AE272]
-|nimra|نمرة|_numéro_|number|[LA136]|poss. It. _numero_
-|ṣanti|صنتي|_centimètre_|centimetre|[AD434][AE130]
-|ṭun|طن|_tonne_|ton|[AD548]m
+|grām|جرام|_gramme_|gram|<sup>[AD152]</sup>
+|kīlo|كيلو|_kilo_|kilogram, kilometre|<sup>[AD774]</sup>
+|letr|لتر|_litre_|litre|<sup>[AD780]</sup>
+|metr|متر|_mètre_|metre|<sup>[AD810][BM]</sup>
+|miliōn|مليون|_million_|million|<sup>[BM][AD834]</sup>
+|milli|ملّي|_millimètre_|millimetre<sup>|[AD833][AE272]</sup>
+|nimra|نمرة|_numéro_|number|<sup>[LA136]</sup>|poss. It. _numero_
+|ṣanti|صنتي|_centimètre_|centimetre|<sup>[AD434][AE130]</sup>
+|ṭun|طن|_tonne_|ton|<sup>[AD548]</sup>
 
 <br>
 
