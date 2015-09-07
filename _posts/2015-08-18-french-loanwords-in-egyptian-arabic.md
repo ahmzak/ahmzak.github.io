@@ -354,17 +354,17 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Units__|__and__|__numbers__|
-|ambeer|امبير|_ampère_|ampere|<sup>[AD35]</sup>
-|booṣa|بوصة|_pouce_|inch|<sup>[AD113][AE29]</sup>
-|grām|جرام|_gramme_|gram|<sup>[AD152]</sup>
-|kīlo|كيلو|_kilo_|kilogram; kilometre|<sup>[AD774]</sup>
-|letr|لتر|_litre_|litre|<sup>[AD780]</sup>
-|metr|متر|_mètre_|metre|<sup>[AD810][BM]</sup>
-|miliōn|مليون|_million_|million|<sup>[BM][AD834]</sup>
-|milli|ملّي|_millimètre_|millimetre|<sup>[AD833][AE272]</sup>
+|ambeer|امبير|_ampère_|ampere||<sup>[AD35]</sup>
+|booṣa|بوصة|_pouce_|inch||<sup>[AD113][AE29]</sup>
+|grām|جرام|_gramme_|gram||<sup>[AD152]</sup>
+|kīlo|كيلو|_kilo_|kilogram; kilometre||<sup>[AD774]</sup>
+|letr|لتر|_litre_|litre||<sup>[AD780]</sup>
+|metr|متر|_mètre_|metre||<sup>[AD810][BM]</sup>
+|miliōn|مليون|_million_|million||<sup>[BM][AD834]</sup>
+|milli|ملّي|_millimètre_|millimetre||<sup>[AD833][AE272]</sup>
 |nimra|نمرة|_numéro_|number|(poss. It. _numero_)|<sup>[LA136]</sup>
-|ṣanti|صنتي|_centimètre_|centimetre|<sup>[AD434][AE130]</sup>
-|ṭun|طن|_tonne_|ton|<sup>[AD548]</sup>
+|ṣanti|صنتي|_centimètre_|centimetre||<sup>[AD434][AE130]</sup>
+|ṭun|طن|_tonne_|ton||<sup>[AD548]</sup>
 
 <br>
 
