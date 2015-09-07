@@ -31,6 +31,7 @@ meta:
 
 
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -305,6 +306,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ifféeh|افيه|_effet_|joke, quip|
 |iksilạns|اكسيلانس|_excellence_|term of address, "sir"|[AC70]
 |itikéet|اتيكيت|_étiquette_|etiquette|[AD6]
+|madām|مدام|_madame_|address to married woman|[AD813]
 |māma, mạmti|ماما|_mama_|mom (upper-middle class)|[GD61]
 |mersī|مرسي|_merci_|thank you|[GD61]
 |misyu|مسيو|_monsieur_|mister, informal address to a male|[AC52][AD824]
