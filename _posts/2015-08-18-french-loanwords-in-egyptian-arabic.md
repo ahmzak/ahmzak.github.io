@@ -354,7 +354,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Units__|__and__|__numbers__|
-|ambéer|امبير|_ampère_|ampere|[AD35]
+|ambeer|امبير|_ampère_|ampere|[AD35]
 |booṣa|بوصة|_pouce_|inch|[AD113][AE29]
 |grām|جرام|_gramme_|gram|[AD152]
 |kīlo|كيلو|_kilo_|kilogram, kilometre|[AD774]
