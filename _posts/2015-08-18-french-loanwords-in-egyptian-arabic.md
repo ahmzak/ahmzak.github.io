@@ -304,8 +304,8 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bāba, babāya|بابا|_papa_|dad (upper-middle class)|<sup>[GD61]</sup>
 |boniyya|بنية|_poing_|fist, blow|<sup>[AE27]</sup>
 |bonjoor|بنجور|_bonjour_|hello|<sup>[AD105]</sup>
-|ifféeh|افيه|_effet_|joke, quip|
-|iksilạns|اكسلانس|_excellence_|term of address, "sir||<sup>[AC70]</sup>
+|ifféeh|افيه|_effet_|joke, quip|<sup>[???]</sup>
+|iksilạns|اكسلانس|_excellence_|term of address, "sir|<sup>[AC70]</sup>
 |itikeet|اتيكيت|_étiquette_|etiquette|<sup>[AD6]</sup>
 |madām|مدام|_madame_|address to married woman|<sup>[AD813]</sup>
 |māma, mạmti|ماما|_mama_|mom (upper-middle class)|<sup>[GD61]</sup>
