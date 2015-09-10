@@ -319,7 +319,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |pạrdoon|بردون|_pardon_|excuse me, sorry|<sup>[AC41]</sup>
 |pristiij|برستيج|_prestige_|prestige|<sup>[AC41]</sup>
 |sampatiik|سمباتيك|_sympathique_|pleasant, agreeable|<sup>[AC73]</sup>
-|ṭạnṭ|طنط|_tante_|aunt, polite addr. to older women|<sup>[AD138][AD548]</sup>
+|ṭạnṭ|طنط|_tante_|aunt, polite address to older women|<sup>[AD138][AD548]</sup>
 |tīp|تيب|_type_|type, distinct character|<sup>[AC42][AD142]</sup>
 
 <br>
