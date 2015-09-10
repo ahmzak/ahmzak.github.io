@@ -305,17 +305,17 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |boniyya|بنية|_poing_|fist, blow||<sup>[AE27]</sup>
 |bonjoor|بنجور|_bonjour_|hello||<sup>[AD105]</sup>
 |ifféeh|افيه|_effet_|joke, quip||
-|iksilạns|اكسيلانس|_excellence_|term of address, "sir"|<sup>|[AC70]</sup>
+|iksilạns|اكسيلانس|_excellence_|term of address, "sir"||<sup>[AC70]</sup>
 |itikeet|اتيكيت|_étiquette_|etiquette||<sup>[AD6]</sup>
 |madām|مدام|_madame_|address to married woman||<sup>[AD813]</sup>
-|māma, mạmti|ماما|_mama_|mom|(upper-middle class)||<sup>[GD61]</sup>
+|māma, mạmti|ماما|_mama_|mom|(upper-middle class)|<sup>[GD61]</sup>
 |mazmazeel|مزمزيل|_mademoiselle_|address to unmarried woman||<sup>[AD820]</sup>
 |mersī|مرسي|_merci_|thank you||<sup>[GD61]</sup>
 |misyu|مسيو|_monsieur_|mister (informal)||<sup>[AC52][AD824]</sup>
 |onkel|أونكل|_oncle_|uncle, polite address to older men||<sup>[AD41]</sup>
 |orijināl|اوريجينال|_originale_|classy||<sup>[AD14]</sup>
 |orovwār|اوروڤار|_au revoir_|goodbye||<sup>[AD15]</sup>
-|pạạpi|بابي|_papi_|daddy, used by upper-class females||<sup>[AC41]</sup>
+|pạạpi|بابي|_papi_|daddy|(primarily by upper-class females)|<sup>[AC41]</sup>
 |pạrdoon|بردون|_pardon_|excuse me, sorry||<sup>[AC41]</sup>
 |pristiij|برستيج|_prestige_|prestige||<sup>[AC41]</sup>
 |sampatiik|سمباتيك|_sympathique_|pleasant, agreeable||<sup>[AC73]</sup>
