@@ -307,7 +307,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ifféeh|افيه|_effet_|joke, quip|
 |iksilạns|اكسلانس|_excellence_|term of address, "sir"||<sup>[AC70]</sup>
 |itikeet|اتيكيت|_étiquette_|etiquette||<sup>[AD6]</sup>
-|madām|مدام|_madame_|address to married woman||<sup>[AD813]</sup>
+|madām|مدام|_madame_|addr. to married woman||<sup>[AD813]</sup>
 |māma, mạmti|ماما|_mama_|mom|(upper-middle class)|<sup>[GD61]</sup>
 |mazmazeel|مزمزيل|_mademoiselle_|addr. to unmarried woman||<sup>[AD820]</sup>
 |mersī|مرسي|_merci_|thank you||<sup>[GD61]</sup>
