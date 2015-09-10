@@ -61,7 +61,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ṣạlōn|صالون|_salon_|living room||<sup>[AD510]</sup>
 |servīs|سرڤيس|_service_|serving platter||<sup>[AD409]</sup>
 |shalimō|شاليمو|_chalumeau_|drinking straw||<sup>[???]</sup>
-|shanyōr|شنيور|_chignole_|drill||<sup>[AD482]</sup>
+|shinyōr|شنيور|_chignole_|drill||<sup>[AD482]</sup>
 |shizlong|شزلونج|_chaise-longue_|chaise longue||<sup>[AD464]</sup>
 |tilifōn|تليفون|_téléphone_|telephone||<sup>[AD135][BM]</sup>
 |tilivizyōn|تلڤزيون|_télévision_|television||<sup>[AD135][BM]</sup>
