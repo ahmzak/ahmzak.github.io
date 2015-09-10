@@ -301,14 +301,14 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ạlīṭ|أليط|_élite_|pompous, haughty||<sup>[???]</sup>
 |alōh|آلوه|_allô_|hello (telephony)||<sup>[AD34]</sup>
 |ạngajeeh|انججيه|_engagé_|walking arm in arm||<sup>[AD40] </sup>
-|bāba, babāya|بابا|_papa_|dad|(upper-middle class)|<sup>[GD61]</sup>
+|bāba/babāya|بابا|_papa_|dad|(upper-middle class)|<sup>[GD61]</sup>
 |boniyya|بنية|_poing_|fist, blow||<sup>[AE27]</sup>
 |bonjoor|بنجور|_bonjour_|hello||<sup>[AD105]</sup>
 |ifféeh|افيه|_effet_|joke, quip|
 |iksilạns|اكسلانس|_excellence_|term of address, "sir"||<sup>[AC70]</sup>
 |itikeet|اتيكيت|_étiquette_|etiquette||<sup>[AD6]</sup>
 |madām|مدام|_madame_|addr. to married woman||<sup>[AD813]</sup>
-|māma, mạmti|ماما|_mama_|mom|(upper-middle class)|<sup>[GD61]</sup>
+|māma/mạmti|ماما|_mama_|mom|(upper-middle class)|<sup>[GD61]</sup>
 |mazmazeel|مزمزيل|_mademoiselle_|addr. to unmarried woman||<sup>[AD820]</sup>
 |mersī|مرسي|_merci_|thank you||<sup>[GD61]</sup>
 |misyu|مسيو|_monsieur_|mister|(informal)|<sup>[AC52][AD824]</sup>
