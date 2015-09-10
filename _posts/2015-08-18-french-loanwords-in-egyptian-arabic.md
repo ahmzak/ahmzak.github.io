@@ -71,13 +71,13 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 |__Arts__|__and__|__cinema__|
 |afīsh|أفيش|_affiche_|poster, billboard|<sup>[AD28]</sup>
-|baléeh|باليه|_ballet_|ballet|<sup>[BM]</sup>
-|botréeh|برتريه|_portrait_|portrait|<sup>[AD61]</sup>
+|baleeh|باليه|_ballet_|ballet|<sup>[BM]</sup>
+|botreeh|برتريه|_portrait_|portrait|<sup>[AD61]</sup>
 |brofīl|بروفيل|_profile_|profile|<sup>[AD67]</sup>
 |doblair|دوبلير|_doublure_|stand-in, boudy double|<sup>[AD278]</sup>
 |doblāj|دوبلاج|_doublage_|dubbing|<sup>[AD278]</sup>
 |itamīn|اتامين|_étamine_|material for cross-stitch embroidery|<sup>[AD6]</sup>
-|karikatéer|كاريكاتير|_caricateur_|caricature|<sup>[AD744][PM]</sup>
+|karikateer|كاريكاتير|_caricateur_|caricature|<sup>[AD744][PM]</sup>
 |kasit|كاسيت|_cassette_|cassette tape|<sup>[AD748][BM]</sup>
 |kawalīs|كواليس|_coulisse_|backdrop, backstage|<sup>[AD770]</sup>
 |kumbars|كمبارس|_comparse_|extra|<sup>[AD763]</sup>
