@@ -325,32 +325,32 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Vehicles__|__and__|__transport__|
-|ablatīn|ابلاتين|_platine_|contact breaker|<sup>[AD4]</sup>
-|aksilitéer|اكسلتير|_accelerateur_|accelerator|<sup>[AD29]</sup>
-|ạmbaléh|أمبليه|_emballer_|revving the engine|<sup>[AD35]</sup>
-|ariéer|اريير|_arrière_|reverse|<sup>[AD16]</sup>
-|asfalt|اسفلت|_asphalte_|asphalt|<sup>[AD22]</sup>
-|azbiratéer|ازبيراتير|_aspirateur_|distributor|<sup>[AD16]</sup>
-|baddāl|بدال|_pédale_|pedal|<sup>[AD58]</sup>
-|barbarīz|بربريز|_pare-brise_|windscreen|<sup>[AD60]</sup>
-|bujéh|بوجيه|_bougie_|spark plug|<sup>[CS57][AD53]</sup>
-|debreyāj|دبرياج|_débrayage_|clutch|<sup>[AD276]</sup>
-|dereksyōn|دركسيون|_direction_|steering wheel|<sup>[AD287]</sup>
-|fetees|فتيس|_vitesse_|gear-shift lever|<sup>[AD641]</sup>
-|gạrāj|جراج|_garage_|garage|<sup>[AD156]</sup>
-|kabboot|كبّوت|_capot_|bonnet/hood|<sup>[AD730]</sup>
-|kalax|كلكس|_klaxon_|car horn|<sup>[AD760]</sup>
-|kawitsh|كاوتش|_caoutchouc_|car tires|<sup>[AC55]</sup>
-|modéel|موديل|_modèle_|model (cars)|<sup>[AD815][BM]</sup>
-|motōr|موتور|_moteur_|motor|<sup>[AD811][PM]</sup>
-|motosikl|موتوسكل|_motocyclette_|motorcycle|<sup>[AD811]</sup>
-|otobīs|اوتوبيس|_autobus_|bus|<sup>[AD6]</sup>
-|otomatīk|اوتوماتيك|_automatique_|automatic|<sup>[AD6][BM]</sup>
-|otostob|اوتوستوب|_autostop_|hitchhiking|<sup>[AD6]</sup>
-|shakmān|شكمان|_échappement_|exhaust pipe|<sup>[SL138][AD474]</sup>
-|torombīl|ترمبيل|_automobile_|car|<sup>[AD6]</sup>
-|trạnzīt|ترانزيت|_transit_|transit|<sup>[AD128]</sup>
-|wabur|وابور|_vapeur_|steam-engine train|<sup>[AE301][PM]</sup>|poss. It. _vapore_
+|ablatīn|ابلاتين|_platine_|contact breaker||<sup>[AD4]</sup>
+|aksilitéer|اكسلتير|_accelerateur_|accelerator||<sup>[AD29]</sup>
+|ạmbaléh|أمبليه|_emballer_|revving the engine||<sup>[AD35]</sup>
+|ariéer|اريير|_arrière_|reverse||<sup>[AD16]</sup>
+|asfalt|اسفلت|_asphalte_|asphalt||<sup>[AD22]</sup>
+|azbiratéer|ازبيراتير|_aspirateur_|distributor||<sup>[AD16]</sup>
+|baddāl|بدال|_pédale_|pedal||<sup>[AD58]</sup>
+|barbarīz|بربريز|_pare-brise_|windscreen||<sup>[AD60]</sup>
+|bujéh|بوجيه|_bougie_|spark plug||<sup>[CS57][AD53]</sup>
+|debreyāj|دبرياج|_débrayage_|clutch||<sup>[AD276]</sup>
+|dereksyōn|دركسيون|_direction_|steering wheel||<sup>[AD287]</sup>
+|fetees|فتيس|_vitesse_|gear-shift lever||<sup>[AD641]</sup>
+|gạrāj|جراج|_garage_|garage||<sup>[AD156]</sup>
+|kabboot|كبّوت|_capot_|bonnet/hood||<sup>[AD730]</sup>
+|kalax|كلكس|_klaxon_|car horn||<sup>[AD760]</sup>
+|kawitsh|كاوتش|_caoutchouc_|car tires||<sup>[AC55]</sup>
+|modéel|موديل|_modèle_|model (cars)||<sup>[AD815][BM]</sup>
+|motōr|موتور|_moteur_|motor||<sup>[AD811][PM]</sup>
+|motosikl|موتوسكل|_motocyclette_|motorcycle||<sup>[AD811]</sup>
+|otobīs|اوتوبيس|_autobus_|bus||<sup>[AD6]</sup>
+|otomatīk|اوتوماتيك|_automatique_|automatic||<sup>[AD6][BM]</sup>
+|otostob|اوتوستوب|_autostop_|hitchhiking||<sup>[AD6]</sup>
+|shakmān|شكمان|_échappement_|exhaust pipe||<sup>[SL138][AD474]</sup>
+|torombīl|ترمبيل|_automobile_|car||<sup>[AD6]</sup>
+|trạnzīt|ترانزيت|_transit_|transit||<sup>[AD128]</sup>
+|wabur|وابور|_vapeur_|steam-engine train|(poss. It. _vapore_)|<sup>[AE301][PM]</sup>|
 
 <br>
 
