@@ -70,24 +70,24 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Arts__|__and__|__cinema__|
-|afīsh|أفيش|_affiche_|poster, billboard|[AD28]
-|baléeh|باليه|_ballet_|ballet|[BM]
-|botréeh|برتريه|_portrait_|portrait|[AD61]
-|brofīl|بروفيل|_profile_|profile|[AD67]
-|doblair|دوبلير|_doublure_|stand-in, boudy double|[AD,278]
-|doblāj|دوبلاج|_doublage_|dubbing|[AD,278]
-|itamīn|اتامين|_étamine_|material for cross-stitch embroidery|[AD6]
-|karikatéer|كاريكاتير|_caricateur_|caricature|[AD744][PM]
-|kasit|كاسيت|_cassette_|cassette tape|[AD748][BM]
-|kawalīs|كواليس|_coulisse_|backdrop, backstage|[AD,770]
-|kumbars|كمبارس|_comparse_|extra|[AD,763]
-|kumidia|كوميديا|_comédie_|comedy|[BM]
-|lōj|لوج|_loge_|cinema/theater box|[AD,803]
-|sīma|سيما|_cinéma_|cinema|[AD436]
-|sinarist|سنارست|_scénariste_|screenwriter|[AD,435]
-|sirialiyya|سريالية|_surréalisme_|surrealism|[BM]
-|tablōh|تابلوه|_tableau_|painting, mural|[AD121][BM]
-|tetr|تتر|_titre_|credits|[AD122]
+|afīsh|أفيش|_affiche_|poster, billboard|<sup>[AD28]</sup>
+|baléeh|باليه|_ballet_|ballet|<sup>[BM]</sup>
+|botréeh|برتريه|_portrait_|portrait|<sup>[AD61]</sup>
+|brofīl|بروفيل|_profile_|profile|<sup>[AD67]</sup>
+|doblair|دوبلير|_doublure_|stand-in, boudy double|<sup>[AD278]</sup>
+|doblāj|دوبلاج|_doublage_|dubbing|<sup>[AD278]</sup>
+|itamīn|اتامين|_étamine_|material for cross-stitch embroidery|<sup>[AD6]</sup>
+|karikatéer|كاريكاتير|_caricateur_|caricature|<sup>[AD744][PM]</sup>
+|kasit|كاسيت|_cassette_|cassette tape|<sup>[AD748][BM]</sup>
+|kawalīs|كواليس|_coulisse_|backdrop, backstage|<sup>[AD770]</sup>
+|kumbars|كمبارس|_comparse_|extra|<sup>[AD763]</sup>
+|kumidia|كوميديا|_comédie_|comedy|<sup>[BM]</sup>
+|lōj|لوج|_loge_|cinema/theater box|<sup>[AD803]</sup>
+|sīma|سيما|_cinéma_|cinema|<sup>[AD436]</sup>
+|sinarist|سنارست|_scénariste_|screenwriter|<sup>[AD435]</sup>
+|sirialiyya|سريالية|_surréalisme_|surrealism|<sup>[BM]</sup>
+|tablōh|تابلوه|_tableau_|painting, mural|<sup>[AD121][BM]</sup>
+|tetr|تتر|_titre_|credits|<sup>[AD122]</sup>
 
 <br>
 
