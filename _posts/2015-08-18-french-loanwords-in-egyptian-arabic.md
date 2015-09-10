@@ -325,7 +325,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Vehicles__|__and__|__transport__|
-|ablatīn|ابلاتين|_platine_|contact breaker<sup>|[AD4]</sup>
+|ablatīn|ابلاتين|_platine_|contact breaker|<sup>[AD4]</sup>
 |aksilitéer|اكسلتير|_accelerateur_|accelerator|<sup>[AD29]</sup>
 |ạmbaléh|أمبليه|_emballer_|revving the engine|<sup>[AD35]</sup>
 |ariéer|اريير|_arrière_|reverse|<sup>[AD16]</sup>
@@ -338,7 +338,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |dereksyōn|دركسيون|_direction_|steering wheel|<sup>[AD287]</sup>
 |fetees|فتيس|_vitesse_|gear-shift lever|<sup>[AD641]</sup>
 |gạrāj|جراج|_garage_|garage|<sup>[AD156]</sup>
-|kabboot|كبّوت|_capot_|bonnet/hood<sup>|[AD730]</sup>
+|kabboot|كبّوت|_capot_|bonnet/hood|<sup>[AD730]</sup>
 |kalax|كلكس|_klaxon_|car horn|<sup>[AD760]</sup>
 |kawitsh|كاوتش|_caoutchouc_|car tires|<sup>[AC55]</sup>
 |modéel|موديل|_modèle_|model (cars)|<sup>[AD815][BM]</sup>
