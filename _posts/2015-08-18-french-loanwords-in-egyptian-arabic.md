@@ -64,7 +64,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |shanyōr|شنيور|_chignole_|drill||<sup>[AD482]</sup>
 |shizlong|شزلونج|_chaise-longue_|chaise longue||<sup>[AD464]</sup>
 |tilifōn|تليفون|_téléphone_|telephone||<sup>[AD135][BM]</sup>
-|telivizyōn|تلڤزيون|_télévision_|television||<sup>[AD135][BM]</sup>
+|tilivizyōn|تلڤزيون|_télévision_|television||<sup>[AD135][BM]</sup>
 |tirās|تراس|_terrace_|terrace||<sup>[AD124][BM]</sup>
 
 <br>
