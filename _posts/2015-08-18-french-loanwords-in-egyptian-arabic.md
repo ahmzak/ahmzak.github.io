@@ -301,7 +301,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ạlīṭ|أليط|_élite_|pompous, haughty||<sup>[???]</sup>
 |alōh|آلوه|_allô_|hello (telephony)||<sup>[AD34]</sup>
 |ạngajeeh|انججيه|_engagé_|walking arm in arm, linking arms||<sup>[AD40] </sup>
-|bāba, babāya|بابا|_papa_|dad|(upper-middle class)||<sup>[GD61]</sup>
+|bāba, babāya|بابا|_papa_|dad|(upper-middle class)|<sup>[GD61]</sup>
 |boniyya|بنية|_poing_|fist, blow||<sup>[AE27]</sup>
 |bonjoor|بنجور|_bonjour_|hello||<sup>[AD105]</sup>
 |ifféeh|افيه|_effet_|joke, quip||
