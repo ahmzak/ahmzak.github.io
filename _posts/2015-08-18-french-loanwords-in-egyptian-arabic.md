@@ -36,36 +36,36 @@ meta:
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
-|abajōra|اباجورة|_abat-jour_|table lamp|[AD3]
-|ablīk|ابليك|_applique_|ornamental wall-lamp|[AD5]
-|ạntréeh|أنتريه|_entrée_|living room furniture|[AD40][BM]
-|baladōs|بلادوس|_baladeuse_|portable lamp|[AC54]
-|balakōna|بلكونة|_balcon_|balcony|[AD100][BM]
-|barkéeh|باركيه|_parquet_|parquet flooring|[AD69][BM]
-|berīza|بريزة|_prise_|electric socket|[AD72]
-|bibrōna|ببرونة|_biberon_|baby-bottle|[AC70]
-|bukéeh|بوكيه|_bouquet_|bouquet|[AD95]
-|butagāz|بتجاز|_Butagaz_|cooking stove|[AD52][BM]
-|dikōr|ديكور|_décor_|decoration|[AD299][BM]
-|fīsha|فيشة|_fiche_|plug|[AD679]
-|istīl|استيل|_style_|furniture in French rococo style|[AD20]
-|kanaba|كنبة|_canapé_|sofa|[AD766]
-|kartōn|كارتون|_carton_|cardboard|[AD741]
-|koverta|كڤرتة|_couverture_|blanket|[PM]
-|mokit|موكيت|_moquette_|wall-to-wall carpet|[AC76][BM]
-|ofīs|اوفيس|_office_|pantry|[AD28]
-|panōh|بانوه|_panneau_|panel with moulded decorations|[AD107]
-|rạdiu|راديو|_radio_|radio|[AD333]
-|resebsiōn|رسبسيون|_réception_|room for guests|[AD335][BM]
-|ṣālah|صالة|_salle_|hall|[PM]|poss. It. _sala_
-|ṣạlōn|صالون|_salon_|living room|[AD510]|
-|servīs|سرڤيس|_service_|serving platter|[AD409]
-|shalimō|شاليمو|_chalumeau_|drinking straw|[???]
-|shanyōr|شنيور|_chignole_|drill|[AD482]
-|shizlong|شزلونج|_chaise-longue_|chaise longue|[AD464]
-|tilifōn|تليفون|_téléphone_|telephone|[AD135][BM]
-|telivizyōn|تلڤزيون|_télévision_|television|[AD135][BM]
-|tirās|تراس|_terrace_|terrace|[AD124][BM]
+|abajōra|اباجورة|_abat-jour_|table lamp||<sup>[AD3]</sup>
+|ablīk|ابليك|_applique_|ornamental wall-lamp||<sup>[AD5]</sup>
+|ạntreeh|أنتريه|_entrée_|living room furniture||<sup>[AD40][BM]</sup>
+|baladōs|بلادوس|_baladeuse_|portable lamp||<sup>[AC54]</sup>
+|balakōna|بلكونة|_balcon_|balcony||<sup>[AD100][BM]</sup>
+|barkeeh|باركيه|_parquet_|parquet flooring||<sup>[AD69][BM]</sup>
+|berīza|بريزة|_prise_|electric socket||<sup>[AD72]</sup>
+|bibrōna|ببرونة|_biberon_|baby-bottle||<sup>[AC70]</sup>
+|bukeeh|بوكيه|_bouquet_|bouquet||<sup>[AD95]</sup>
+|butagāz|بتجاز|_Butagaz_|cooking stove||<sup>[AD52][BM]</sup>
+|dikōr|ديكور|_décor_|decoration||<sup>[AD299][BM]</sup>
+|fīsha|فيشة|_fiche_|plug||<sup>[AD679]</sup>
+|istīl|استيل|_style_|furniture in French rococo style||<sup>[AD20]</sup>
+|kanaba|كنبة|_canapé_|sofa||<sup>[AD766]</sup>
+|kartōn|كارتون|_carton_|cardboard||<sup>[AD741]</sup>
+|koverta|كڤرتة|_couverture_|blanket||<sup>[PM]</sup>
+|mokit|موكيت|_moquette_|wall-to-wall carpet||<sup>[AC76][BM]</sup>
+|ofīs|اوفيس|_office_|pantry||<sup>[AD28]</sup>
+|panōh|بانوه|_panneau_|panel with moulded decorations||<sup>[AD107]</sup>
+|rạdiu|راديو|_radio_|radio||<sup>[AD333]</sup>
+|resebsiōn|رسبسيون|_réception_|room for guests||<sup>[AD335][BM]</sup>
+|ṣālah|صالة|_salle_|hall|(poss. It. _sala_)||<sup>[PM]</sup>
+|ṣạlōn|صالون|_salon_|living room||<sup>[AD510]</sup>
+|servīs|سرڤيس|_service_|serving platter||<sup>[AD409]</sup>
+|shalimō|شاليمو|_chalumeau_|drinking straw||<sup>[???]</sup>
+|shanyōr|شنيور|_chignole_|drill||<sup>[AD482]</sup>
+|shizlong|شزلونج|_chaise-longue_|chaise longue||<sup>[AD464]</sup>
+|tilifōn|تليفون|_téléphone_|telephone||<sup>[AD135][BM]</sup>
+|telivizyōn|تلڤزيون|_télévision_|television||<sup>[AD135][BM]</sup>
+|tirās|تراس|_terrace_|terrace||<sup>[AD124][BM]</sup>
 
 <br>
 
