@@ -57,7 +57,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |panōh|بانوه|_panneau_|panel with moulded decorations||<sup>[AD107]</sup>
 |rạdiu|راديو|_radio_|radio||<sup>[AD333]</sup>
 |resebsiōn|رسبسيون|_réception_|room for guests||<sup>[AD335][BM]</sup>
-|ṣālah|صالة|_salle_|hall|(poss. It. _sala_)||<sup>[PM]</sup>
+|ṣālah|صالة|_salle_|hall|(poss. It. _sala_)|<sup>[PM]</sup>
 |ṣạlōn|صالون|_salon_|living room||<sup>[AD510]</sup>
 |servīs|سرڤيس|_service_|serving platter||<sup>[AD409]</sup>
 |shalimō|شاليمو|_chalumeau_|drinking straw||<sup>[???]</sup>
