@@ -315,7 +315,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |onkel|أونكل|_oncle_|uncle, polite address to older men||<sup>[AD41]</sup>
 |orijināl|اوريجينال|_originale_|classy||<sup>[AD14]</sup>
 |orovwār|اوروڤار|_au revoir_|goodbye||<sup>[AD15]</sup>
-|pạạpi|بابي|_papi_|daddy|(primarily by upper-class females)|<sup>[AC41]</sup>
+|pạạpi|بابي|_papi_|daddy|(upper-class females)|<sup>[AC41]</sup>
 |pạrdoon|بردون|_pardon_|excuse me, sorry||<sup>[AC41]</sup>
 |pristiij|برستيج|_prestige_|prestige||<sup>[AC41]</sup>
 |sampatiik|سمباتيك|_sympathique_|pleasant, agreeable||<sup>[AC73]</sup>
