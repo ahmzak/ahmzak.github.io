@@ -106,7 +106,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ismoking|اسموكينغ|_smoking_|tuxedo|[AD23]
 |ispadrīn|اسبادرين|_espadrilles_|open-toed shoe|[AC70]
 |jaketta|جاكيت|_jaquette_|jacket|[BM]
-|jībah|جيبة|_jupe_|skirt|[AD,185]
+|jībah|جيبة|_jupe_|skirt|[AD185]
 |jilé|جيلاي|_gilet_|waistcoast|
 |kalsōn|كلسون|_caleçon_|boxers|[AD,759]
 |karavatta|كرڤتة|_cravate_|necktie|[PM]|poss. It. _cravatta_
