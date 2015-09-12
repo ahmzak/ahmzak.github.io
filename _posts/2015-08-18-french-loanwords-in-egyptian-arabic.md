@@ -26,13 +26,6 @@ meta:
   "audio-description": "Salon Mays, May 2012"
 ---
 
-
-
-
-
-
-
-
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -109,7 +102,6 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bijama|بيجاما|_pyjama_|pyjamas|[BM]
 |bilōza|بلوزة|_blouse_|blouse|[BM]
 |fanella|فانله|_flanelle_|undershirt|
-|gwanti|جوانتي|_gant_|gloves|
 |ishạrb|إشرب|_écharpe_|hijab|[AD24]
 |ismoking|اسموكينغ|_smoking_|tuxedo|[AD23]
 |ispadrīn|اسبادرين|_espadrilles_|open-toed shoe|[AC70]
