@@ -260,6 +260,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Print__|
 |aklasheeh|اكلشيه|_cliché_|cliché|<sup>[AD30]</sup>
 
+<br>
 
 |__Professions__|
 |ablaséeh|ابلاسيه|_placier_|sales representative|[AD4]
@@ -281,6 +282,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bandul|بندول|_pendule_|pendulum|[AD106][PM]
 |beej|بيج|_beige_|beige|[AD115]
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD52]
+|botās|بوتاس|_potasse_|potashe; lye|<sup>[AD51]</sup>
 |tirikwāz|تركواز|_turquoise_|turquoise|[AD126]
 |termometr|ترمومتر|_thermomètre_|thermometer|[AD127]
 |telescōb|تلسكوب|_télescope_|telescope|[AD134]
