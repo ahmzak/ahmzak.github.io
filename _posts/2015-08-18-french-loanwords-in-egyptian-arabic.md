@@ -257,6 +257,10 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 
 <br>
 
+|__Print__|
+|aklasheeh|اكلشيه|_cliché_|cliché|<sup>[AD30]</sup>
+
+
 |__Professions__|
 |ablaséeh|ابلاسيه|_placier_|sales representative|[AD4]
 |bolīs|بوليس|_police_|police|[AD,103]
@@ -272,6 +276,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Science__|__and__|__technology__|
+|ambula|أمبوله|_ampule_|ampule|<sup>AD35</sup>
 |anzīm|انزيم|_enzyme_|enzyme|[AD40]
 |bandul|بندول|_pendule_|pendulum|[AD106][PM]
 |beej|بيج|_beige_|beige|[AD115]
