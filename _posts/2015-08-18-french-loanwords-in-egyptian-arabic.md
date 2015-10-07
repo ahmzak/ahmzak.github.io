@@ -35,6 +35,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |ạntreeh|أنتريه|_entrée_|living room furniture||<sup>[AD40][BM]</sup>
 |baladōs|بلادوس|_baladeuse_|portable lamp||<sup>[AC54]</sup>
 |balakōna|بلكونة|_balcon_|balcony||<sup>[AD100][BM]</sup>
+|baravān|برافان|_paravent_|folding screen||<sup>AD67</sup>
 |barkeeh|باركيه|_parquet_|parquet flooring||<sup>[AD69][BM]</sup>
 |berīza|بريزة|_prise_|electric socket||<sup>[AD72]</sup>
 |bibrōna|ببرونة|_biberon_|baby-bottle||<sup>[AC70]</sup>
