@@ -249,6 +249,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Politics__|
+|brotokōl|بروتوكول|_protocole_|protocol|<sup>AD61</sup>
 |diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD278]
 |dimoqratiyyah|ديموقراطية|_démocratie_|democracy|[AD303]
 |idioloji|ايديوليجي|_idéologie_|ideology|<sup>[AD13]</sup>
