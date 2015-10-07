@@ -104,6 +104,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |bibyōna|ببيونه|_papillon_|bowtie|[AD51]
 |bijama|بيجاما|_pyjama_|pyjamas|[BM]
 |bilōza|بلوزة|_blouse_|blouse|[BM]
+|bireeh|بيريه|_beret_|béret|<sup>AD72</sup>
 |fanella|فانله|_flanelle_|undershirt|
 |ishạrb|إشرب|_écharpe_|hijab|[AD24]
 |ismoking|اسموكينغ|_smoking_|tuxedo|[AD23]
