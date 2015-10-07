@@ -66,7 +66,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Arts__|__and__|__cinema__|
 |afīsh|أفيش|_affiche_|poster, billboard|<sup>[AD28]</sup>
 |baleeh|باليه|_ballet_|ballet|<sup>[BM]</sup>
-|botreeh|برتريه|_portrait_|portrait|<sup>[AD61]</sup>
+|bortreeh|برتريه|_portrait_|portrait|<sup>[AD61]</sup>
 |brofīl|بروفيل|_profile_|profile|<sup>[AD67]</sup>
 |doblair|دوبلير|_doublure_|stand-in, boudy double|<sup>[AD278]</sup>
 |doblāj|دوبلاج|_doublage_|dubbing|<sup>[AD278]</sup>
