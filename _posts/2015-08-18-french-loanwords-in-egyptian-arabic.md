@@ -161,6 +161,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Fashion__|__and__|__beauty__|
 |ạnsyāl|انسيال|_intiales_|bracelet|[AC70]
 |badikīr|باديكير|_pédicure_|pedicure|[AD57]
+|batrōn|باترون|_patron_|paper pattern (for dresses)|<sup>AD52</sup>
 |brōsh|بروش|_broche_|brooch|[AD71]
 |iksiswār|اكسسوار|_accessoire_|accesory|[AD29][BM]
 |karōh|كاروه|_carreau_|checkered or plaid cloth|[AD747][BM]
