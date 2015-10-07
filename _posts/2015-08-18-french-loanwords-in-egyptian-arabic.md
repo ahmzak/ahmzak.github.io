@@ -277,7 +277,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Science__|__and__|__technology__|
-|ambula|أمبوله|_ampule_|ampule|<sup>AD35</sup>
+|ambula|أمبوله|_ampoule_|ampoule|<sup>AD35</sup>
 |anzīm|انزيم|_enzyme_|enzyme|[AD40]
 |bandul|بندول|_pendule_|pendulum|[AD106][PM]
 |beej|بيج|_beige_|beige|[AD115]
