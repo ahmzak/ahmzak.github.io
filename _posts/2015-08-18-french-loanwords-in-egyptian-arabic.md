@@ -86,7 +86,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 <br>
 
 |__Bathroom__|
-|bidéh|بيديه|_bidet_|bidet|[AD60]
+|bideeh|بيديه|_bidet_|bidet|[AD60]
 |dosh|دش|_douche_|shower|[AD289]
 |kabinéeh|كابينيه|_cabinet_|lavatory, toilet|[AD733]
 |pippīh|بيبيه|_pipi_|urine, pee|[AC42][AD51]
