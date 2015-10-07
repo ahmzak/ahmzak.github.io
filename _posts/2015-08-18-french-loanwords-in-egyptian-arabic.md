@@ -26,6 +26,7 @@ meta:
   "audio-description": "Salon Mays, May 2012"
 ---
 
+
 note on the phoneme /p/ in Egypt, and that every word with a p can be heard with a b as well. Only the p is included.
 
 |__Around__|__the__|__house__|
@@ -249,6 +250,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Politics__|
 |diblomāsiyyah|دبلوماسية|_diplomatie_|diplomacy|[AD278]
 |dimoqratiyyah|ديموقراطية|_démocratie_|democracy|[AD303]
+|idioloji|ايديوليجي|_idéologie_|ideology|<sup>[AD13]</sup>
 |munawra|مناورة|_manoeuvre_|manoeuvre|[AD891][AE273][PM]
 |otoqrātiyyah|اوتوقراطية|_autocratie_|autocracy|[AD6]
 |taktīk|تكتيك|_tactique_|tactics|[AD,132]
@@ -272,7 +274,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |__Science__|__and__|__technology__|
 |anzīm|انزيم|_enzyme_|enzyme|[AD40]
 |bandul|بندول|_pendule_|pendulum|[AD106][PM]
-|béej|بيج|_beige_|beige|[AD115]
+|beej|بيج|_beige_|beige|[AD115]
 |bitrōl|بترول|_pétrole_|petroleum, oil|[AD52]
 |tirikwāz|تركواز|_turquoise_|turquoise|[AD126]
 |termometr|ترمومتر|_thermomètre_|thermometer|[AD127]
@@ -283,7 +285,7 @@ note on the phoneme /p/ in Egypt, and that every word with a p can be heard with
 |radār|رادار|_radar_|radar|[AD332]
 |shafrah|شفرة|_chiffre_|code, cipher|[AD469]
 |kabl|كبل|_câble_|cable|[AD733]
-|abséeh|ابسيه|_abcès_|abscess|[AD4]
+|abseeh|ابسيه|_abcès_|abscess|[AD4]
 |ablatīn|ابلاتين|_platine_|platinum|[AD4]
 |vitamīn|ڤيتامين|_vitamine_|vitamin|[AD640]
 
