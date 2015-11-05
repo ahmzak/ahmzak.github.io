@@ -15,6 +15,6 @@ comments: false
 title: "(1954) \"Grand Jacques\" -- Jacques Brel"
 ---
 
-## A New Post
+## (1954) "Grand Jacques" -- Jacques Brel
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
