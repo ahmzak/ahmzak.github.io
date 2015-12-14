@@ -16,11 +16,6 @@ comments: false
 title: List of Slavoj Žižek lectures
 ---
 
-
-
-
-
-
 This is a list of lectures, talks, debates or seminars given by Slavoj Žižek that are available online. Click on a title for the link.
 
 |__Date__|__Title__|__Institute__|__Location__
