@@ -8,11 +8,11 @@ tags:
   - poetry
   - test
 meta:
-    poem: "ﻣﺎ ﻟﻢ ﺗﻘﻠﻪ ﺯﺭﻗﺎء اﻟﻴﻤﺎﻣﺔ"
-    diwan: "ﻣﺮﺛﻴﺔ اﻟﻨﺎﺭ اﻻﻭﻟﻰ"
-    poet: "ﻣﺤﻤﺪ ﻋﺒﺪ اﻟﺒﺎﺭﻱ"
-    audio: "https://www.youtube.com/watch?v=ZK4NYSPm1QM"
-    audio-description: "Salon Mays, May 2012"
+    poem: "البحر بيضحك ليه"
+    diwan: ""
+    poet: "نجيب سرور"
+    audio: "https://youtu.be/xRtVXswJmko"
+    audio-description: ""
 comments: false
 mathjax: null
 featured: false
