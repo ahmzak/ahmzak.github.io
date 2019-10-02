@@ -17,7 +17,7 @@ title: List of Slavoj Žižek lectures
 ---
 
 
-This is a list of lectures, talks, debates or seminars given by Slavoj Žižek that are available online. Click on a title for the link.
+This is a list of lectures, talks, debates or seminars given by Slavoj Žižek that are available online. Click on a title for the link. Bla bla bla test
 
 |__Date__|__Title__|__Institute__|__Location__|__Themes__
 |2004/06/08|_[The Spectator's Malevolent Neutrality](https://youtu.be/4QhRxhzVU7Y)_|Theaterformen|Braunschweig|appearances; big Other's gaze
